@@ -39,7 +39,7 @@ author:
   image: ks.jpg
   
 # Keep it as draft, not published in index.html or feed.xml
-draft: false
+draft: true
 {% endhighlight %}
 
 #### Configurable & Code Snipped Highlighting
