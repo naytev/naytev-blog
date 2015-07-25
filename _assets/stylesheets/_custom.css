@@ -4,3 +4,12 @@
     margin-bottom: 15px;
     margin-top: 15px;
 }
+
+article {
+	@include outer-container;
+	aside { 
+		@include span-columns(2); 
+		background-color: grey;
+	}
+	articlesidebar { @include span-columns(10); }
+}
