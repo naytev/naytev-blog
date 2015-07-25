@@ -7,10 +7,10 @@ cover_image: posts/ab_cheese.png
 
 excerpt: "The golden age of Facebook is upon us, but in a cruel twist, it has never been more difficult for organizations to organically connect with fans."
 
-author: naytev
+author: patrick_costello
 ---
 
-author: naytev
+author: patrick_costello
 
 The golden age of Facebook is upon us, but in a cruel twist, it has never been more difficult for organizations to organically connect with fans. Looking for a simple way to measurably boost fan reach + engagement? Then this post is for you.
 

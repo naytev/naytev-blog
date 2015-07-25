@@ -3,7 +3,7 @@ zack_liscio:
   name: Zack Liscio
   twitter: zackliscio
   bio: Co-founder, CEO
-  image: zl.png
+  image: team/zl.png
   link: http://www.zackliscio.com
 
 naytev:
@@ -11,4 +11,39 @@ naytev:
   twitter: gonaytev
   bio: Naytev optimizes content for revenue.
   link: http://www.naytev.com
-  image: logo.png
+  image: logo_sq.png
+
+edward_ridgely:
+  name: Edward Ridgely
+  twitter: lastridgely
+  bio: Co-founder, COO
+  image: team/etr.jpg
+  link: https://twitter.com/lastridgely
+
+mike_seid:
+  name: Mike Seid
+  twitter: mbseid
+  bio: Co-founder, CTO
+  image: team/mbseid.jpeg
+  link: http://blog.seid.io
+
+mark_pierotti:
+  name: Mark Pierotti
+  twitter: markpierotti
+  bio: Principal Software Engineer
+  image: team/mark.jpeg
+  link: http://www.twitter.com/markpierotti
+
+patrick_costello:
+  name: Patrick Costello
+  twitter: pj_costello
+  bio: Co-founder, CSO
+  image: team/pjc.jpeg
+  link: https://twitter.com/pj_costello
+
+aubrie_johnson:
+  name: Aubrie Johnson
+  twitter: daughterphoenix
+  bio: Freelance reporter, League of Legends amateur
+  image: team/aj.jpg
+  link: https://twitter.com/daughterphoenix
