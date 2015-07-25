@@ -2,8 +2,6 @@
 layout: base
 ---
 
-
-
 <div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
     
     <section>
@@ -26,7 +24,7 @@ layout: base
 
 
 <article class="container">
-{% for post in paginator.posts %}
+{% for post in site.categories[page.category]  %}
   {% unless post.draft %}
   {% assign author = site.data.authors[post.author] %}
     <section class="index">
