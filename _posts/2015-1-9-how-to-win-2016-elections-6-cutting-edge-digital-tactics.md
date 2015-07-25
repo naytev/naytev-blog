@@ -5,7 +5,7 @@ title: How To Win The 2016 Elections&#58; 6 Cutting-Edge Digital Tactics
 subtitle: "Guest post by Steve Johnston"
 cover_image: posts/elections/politics.jpg
 
-excerpt: "The 2014 midterm elections demonstrated tremendous growth for digital campaigning."
+excerpt: "The 2016 elections will be won or lost on the digital battlefield, so it is more important than ever that political campaigns, party committees, and outside advocacy groups make use of the most cutting-edge strategies."
 
 author: naytev
 ---

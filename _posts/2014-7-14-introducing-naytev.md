@@ -5,7 +5,7 @@ title: Introducing Naytev
 subtitle: "Naytev is your share button on steroids."
 cover_image: posts/intro/naytev.png
 
-excerpt: "Naytev blog provides cool insights."
+excerpt: "We built Naytev because we noticed social sharing was an afterthought for most brands. Their brand strategies prioritized top-down social media accounts, like “our brand’s Facebook and Twitter”, while ignoring user-generated sharing, which is a significantly larger opportunity."
 
 author: naytev
 ---

@@ -5,7 +5,7 @@ title: The Facebook Share Button vs. Like Button Showdown
 subtitle: Using the Wrong Button Will Crush Your Exposure and Undermine Your Social Media Marketing
 cover_image: posts/showdown/showdown.jpg
 
-excerpt: "As part of the Naytev engineering team, I’m frequently asked about why we chose to use Scala as our primary development language."
+excerpt: "Every day, websites lose the exposure they deserve to a problem that takes moments to solve: they ask readers to Like their content, when they should ask readers to Share it instead."
 
 author: aubrie_johnson
 ---

@@ -10,12 +10,12 @@ inc:
   url:          http://www.naytev.com/
   facebook:     naytev
   twitter:      gonaytev
-  gplus:        '101183822199340201470'
-  about_link:   http://www.naytev.com/
+  gplus:        
+  about_link:   
   
   # Product Information
   product_link: http://www.naytev.com/
-  tagline:      "Make your content work harder."
+  tagline:      "Optimize your content for revenue."
   
   # Comments
   disqus:
