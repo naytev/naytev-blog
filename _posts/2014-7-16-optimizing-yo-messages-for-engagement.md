@@ -3,7 +3,7 @@ layout: post
 
 title: Optimizing "Yo" Messages for Engagement
 subtitle: "Yo Optimization, it's that simple."
-cover_image: posts/yo.png
+cover_image: posts/yo/yo.png
 
 excerpt: "We started with a simple premise: there are fundamental rules to eliciting the highest possible engagement."
 

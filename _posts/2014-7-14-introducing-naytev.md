@@ -3,7 +3,7 @@ layout: post
 
 title: Introducing Naytev
 subtitle: "Naytev is your share button on steroids."
-cover_image: posts/naytev.png
+cover_image: posts/intro/naytev.png
 
 excerpt: "Naytev blog provides cool insights."
 
