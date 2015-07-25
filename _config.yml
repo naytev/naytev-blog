@@ -33,6 +33,9 @@ inc:
  # Analytics     
   analytics:
     google: false # Add tracking code in _includes/_google-analytics.html
+
+ # Naytev
+  naytev: true
       
       
   # Google Fonts
@@ -42,6 +45,7 @@ inc:
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
 url:         http://blog.naytev.com
+optimized_url:  http://social.naytev.com
 source:      .
 destination: ./_site
 plugins:     ./_plugins
@@ -58,7 +62,7 @@ pygments:    true
 
 relative_permalinks: true
 
-permalink:     pretty
+permalink:     /:title
 paginate_path: 'page:num'
 paginate: 10
 
