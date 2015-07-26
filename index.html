@@ -6,7 +6,11 @@ layout: base
 
 {% for post in paginator.posts limit: 1 %}
     {% assign author = site.data.authors[post.author] %}
-    <div class="blog-cover" style="background-image:url(/images/{{ post.cover_image }});">
+    {% if post.cover_image %}
+        <div class="blog-cover" style="background-image:url(/images/{{ post.cover_image }});">
+    {% else %}
+        <div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
+    {% endif %}
         <section>
         </section>
     </div>
