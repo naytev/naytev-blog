@@ -5,46 +5,43 @@
     margin-top: 15px;
 }
 
-article {
-	@include outer-container;
-	aside { 
-		@include span-columns(2); 
-		background-color: grey;
-	}
-	articlesidebar { @include span-columns(10); }
-}
-
 .index > div.meta { display: inline; }
 
 article:not(#featured) {
 	padding-top: 10px;
 }
 
-#featured {
-	position: relative;
-	bottom: 140px;
-	z-index: 99;
-	margin-bottom: -140px;
-	padding-bottom: 0px;
-}
+body.homepage {
 
-@media (min-width: 721px) {
-	article:not(#featured) {
-		section > div:first-child {
-			@include outer-container;
-			> div {
-				&:first-of-type {
-				 @include span-columns(4);
-				}
-				&:last-of-type {
-				  @include span-columns(8);	
+	.naytev-floating-share {
+		display: none;
+	}
+	
+	#featured {
+		position: relative;
+		bottom: 140px;
+		z-index: 99;
+		margin-bottom: -140px;
+		padding-bottom: 0px;
+	}
+
+	@media (min-width: 721px) {
+		article:not(#featured) {
+			section > div:first-child {
+				@include outer-container;
+				> div {
+					&:first-of-type {
+					 @include span-columns(4);
+					}
+					&:last-of-type {
+					  @include span-columns(8);	
+					}
 				}
 			}
 		}
 	}
-}
 
-@media (max-width: 720px) { 
+	@media (max-width: 720px) { 
 
 		#featured {
 			position: relative;
@@ -55,21 +52,21 @@ article:not(#featured) {
 		}
 
 		article:not(#featured) {
+			.index img {
+				display: inline;
+			}	
 
-		.index img {
-			display: inline;
-		}	
-
-		section > div:first-child {
-			@include outer-container;
-			> div {
-				&:first-of-type {
-				 @include span-columns(12);
-				}
-				&:last-of-type {
-				  @include span-columns(12);	
-				}
+			section > div:first-child {
+				@include outer-container;
+				> div {
+					&:first-of-type {
+					 @include span-columns(12);
+					}
+					&:last-of-type {
+					  @include span-columns(12);	
+					}
+				}			
 			}
-		}
+		}	
 	}
 }
