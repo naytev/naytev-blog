@@ -29,7 +29,7 @@
     {% endif %}
     <meta property="og:site_name" content="{{ site.inc.title }}">     
 </head>
-<body>
+<body {% if page.body_class %}class= "{{ page.body_class }}"{% endif %}>
     
 <section class="site-nav">
     <header>

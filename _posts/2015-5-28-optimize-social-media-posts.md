@@ -7,6 +7,8 @@ cover_image: posts/optimize-posts/dress.jpg
 
 excerpt: Your content only gets one first impression. Naytev makes sure it’s the right one by tracking and optimizing organic sharing. 
 
+categories: [optimization, social sharing]
+
 author: edward_ridgely
 ---
 

@@ -1,43 +1,59 @@
 ---
 layout: base
+body_class: homepage
 ---
 
 
 
-<div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
-    
-    <section>
-        <div class="container">
-            <h1>{{ site.inc.title }}</h1>
-            {% if site.inc.subtitle %}<h3>{{ site.inc.subtitle }}</h3>{% endif %}
-        
-            {% if site.inc.twitter %}
-            <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
-            {% endif %}
-            {% if site.inc.facebook %}
-            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Like on Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
-            {% endif %}
-            <a href="/feed.xml" title="RSS Feed">
-                <i class="icon icon-rss"></i>
-            </a>
-        </div>
-    </section>
-</div>
+{% for post in paginator.posts limit: 1 %}
+    {% assign author = site.data.authors[post.author] %}
+    {% if post.cover_image %}
+        <div class="blog-cover" style="background-image:url(/images/{{ post.cover_image }});">
+    {% else %}
+        <div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
+    {% endif %}
+        <section>
+        </section>
+    </div>
+    <article class="container" id="featured">
+      
+        <section class="index" >
+            <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
+                <div>
+                    <h1 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h1>
+                    <h3>{{ post.subtitle }} </h3>
+                    <p>{{ post.excerpt }}</p>
+                </div>
+            <div class="meta">
+                Written By <address>{{ author.name }}</address> &mdash;
+                <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time> &mdash;
+                {{ post.content | reading_time }} read
+            </div>
+            <hr>
+        </section>
+    </article>  
+{% endfor %}
 
 
 <article class="container">
-{% for post in paginator.posts %}
+{% for post in paginator.posts offset: 1 %}
   {% unless post.draft %}
   {% assign author = site.data.authors[post.author] %}
     <section class="index">
         <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
         <div>
-            <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
-            <p>{{ post.excerpt }}</p>
-            <div class="meta">
-                Written By <address>{{ author.name }}</address> &mdash;
-                <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time>
+            <div>
+                <img src="/images/{{ post.cover_image }}" class="image">
             </div>
+            <div>
+                <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
+                <p>{{ post.excerpt }}</p>
+            </div>
+        </div>
+        <div class="meta">
+            Written By <address>{{ author.name }}</address> &mdash;
+            <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time> &mdash;
+            {{ post.content | reading_time }} read
         </div>
         <hr>
     </section>
