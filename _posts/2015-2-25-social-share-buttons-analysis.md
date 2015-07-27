@@ -4,6 +4,7 @@ layout: post
 title: Social Share Buttons Analysis
 subtitle: The Button On Every Website That No One Clicks
 cover_image: posts/button-nobody-clicks/crowd.jpg
+custom_js: naytev-link
 
 excerpt: With social share buttons installed on nearly 2 billion sites, you might think people use them all the time. You would be wrong. Naytev has found that people use share buttons about as much as they click display ads.
 
@@ -65,6 +66,7 @@ While share button use is relatively low, we still highly recommend including th
 
 * Share button use will likely grow over time as: (a) sites improve their button integration – few get it right; (b) people acclimate to staying logged into their social accounts all the time (eliminating need to login for each share)
 
-Next week we’ll cover common share button pitfalls to avoid, like how to structure your share buttons so they don’t slow down your page load time. We’ll also cover button placement best practices that can boost your conversion from pageviews to shares. 
+Next week we’ll cover common share button pitfalls to avoid, like how to structure your share buttons so they don’t slow down your page load time. We’ll also cover button placement best practices that can boost your conversion from pageviews to shares. You can learn more and <a href="https://www.naytev.com/signup" class="naytev-sponsored-link">start a free 14 day trial of Naytev here</a>.
+
 
 _Update:_ You can access next week’s post here: [7 Share Button Techniques To Boost Your Website on Social](http://blog.naytev.com/7-share-button-techniques-boost-website-social/).

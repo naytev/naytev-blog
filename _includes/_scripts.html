@@ -30,3 +30,8 @@
 {% if site.inc.naytev %}
   {% include _naytev.html %}
 {% endif %}
+{% if page.custom_js %}
+    {% for js_file in page.custom_js %}
+        {% include _{{js_file}}.html %}
+    {% endfor %}
+{% endif %}

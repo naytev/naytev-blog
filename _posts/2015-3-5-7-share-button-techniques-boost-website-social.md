@@ -4,6 +4,7 @@ layout: post
 title: 7 Share Button Techniques To Boost Your Website on Social
 subtitle: Work your share button magic
 cover_image: posts/button-techniques/magic.png
+custom_js: naytev-link
 
 excerpt: Most websites lose high value readers and customers daily because they don’t follow a few easy share button fundamentals. 
 
@@ -101,4 +102,4 @@ Default share messages, defined in your site’s Open Graph (OG) tags, normally 
 
 Here’s an example of how [VentureBeat saw a nearly 700% boost in Twitter engagement](https://www.naytev.com/casestudy/venturebeat) by simply testing different Tweet messages.
 
-Testing messaging manually is prohibitively time intensive – this is why few, if any sites tested messages until Naytev developed its automated share optimization platform. You can try Naytev today for free to drive more social engagement and revenue.
+Testing messaging manually is prohibitively time intensive – this is why few, if any sites tested messages until Naytev developed its automated share optimization platform. You can <a href="https://www.naytev.com" class="naytev-sponsored-link">try Naytev today</a> for free to drive more social engagement and revenue.

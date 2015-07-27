@@ -4,6 +4,7 @@ layout: post
 title: The Formula for a Perfect Social Share Message
 subtitle: How to get it right every time
 cover_image: posts/perfect-formula/cover.jpg
+custom_js: naytev-link
 
 excerpt: What if I told you that your social share message is all that’s keeping your content from thousands of new readers? I see this firsthand at Naytev where we automatically test thousands of alternate share messages for dozens of major publishers.
 
@@ -123,7 +124,7 @@ Our team is in a unique position to identify what messaging drives the greatest 
 
 		Social networks are a key point of discovery for your content, and organic sharing is increasingly the primary source of this discovery (not  “Top Down” posts from a brand’s social media page). The way your content appears on social when people share it is hard coded in your site’s open graph (OG) tags. Changing your OG tags is prohibitively resource intensive, especially if you want to manually change them multiple times and for pieces of content.
 
-		Naytev enables you to easily modify and test different ways of how your content will show up when people share it on Facebook and Twitter. The examples we shared in this post are sourced from messages our team has created and tested for a variety of major publishers. You can learn more and [start a free 14 day trial of Naytev here](http://www.naytev.com/signup).
+		Naytev enables you to easily modify and test different ways of how your content will show up when people share it on Facebook and Twitter. The examples we shared in this post are sourced from messages our team has created and tested for a variety of major publishers. You can learn more and <a href="https://www.naytev.com/signup" class="naytev-sponsored-link">start a free 14 day trial of Naytev here</a>.
 
 ### Key Takeaways
 
