@@ -44,6 +44,8 @@ inc:
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
+woahbar: true
+
 url:         http://blog.naytev.com
 optimized_url:  http://social.naytev.com
 source:      .
