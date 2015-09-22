@@ -6,7 +6,7 @@ subtitle: Why dark posting should be part of your strategy
 
 cover_image: guides/dark/milton.jpeg
 
-excerpt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem odit voluptates minima, iste, quasi esse accusamus libero, quaerat unde necessitatibus, inventore blanditiis. Aliquid cumque ullam quis id minima, molestias unde!
+excerpt: "Elite social media teams engineer their content for success by testing their messaging before posting it."
 
 categories: [dark-testing]
 

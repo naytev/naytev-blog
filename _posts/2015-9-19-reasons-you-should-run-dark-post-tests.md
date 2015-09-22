@@ -6,7 +6,7 @@ subtitle: Why dark posting should be part of your strategy
 
 cover_image: guides/dark/consultants.png
 
-excerpt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem odit voluptates minima, iste, quasi esse accusamus libero, quaerat unde necessitatibus, inventore blanditiis. Aliquid cumque ullam quis id minima, molestias unde!
+excerpt: The four most common reasons to run Dark Tests and extract more value from your Facebook Page.
 
 categories: [dark-testing]
 
