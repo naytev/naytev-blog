@@ -1,14 +1,18 @@
 /*_custom.scss*/
 
 .naytev-share-toolbar.naytev-share-horizontal { 
-    margin-bottom: 15px;
-    margin-top: 15px;
+    margin-bottom: 45px;
+    margin-top: 45px;
 }
 
 .index > div.meta { display: inline; }
 
 article:not(#featured) {
 	padding-top: 10px;
+}
+
+.container {
+	max-width: 960px;
 }
 
 body.homepage {
@@ -73,8 +77,13 @@ body.homepage {
 
 body.guide {
 	.container {
-		padding: 40px 40px 40px 40px !important;
 		max-width: 960px;
+	}
+	.blog-cover {
+		height: 400px;
+	}
+	#guide-overview {
+		padding: 40px 20px 20px 20px !important;
 	}
 	section.index {
 		@include outer-container;
@@ -87,6 +96,9 @@ body.guide {
 
 @media (max-width: 720px){
 	body.guide {
+		.blog-cover {
+			height: 200px;
+		}
     	section.index {
         	> div {
         		@include span-columns(12);

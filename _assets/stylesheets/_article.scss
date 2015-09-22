@@ -3,8 +3,12 @@ article {
     padding:60px 0;
     font-size:18px;
 
-    .container > header, .container > section, .container > footer {
-        margin:0 8em;
+    .container > header {
+        margin: 2em;
+    }
+
+    .container > section, .container > footer {
+        margin:0 4em;
     }
 
     .social {
