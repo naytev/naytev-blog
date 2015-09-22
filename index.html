@@ -37,7 +37,8 @@ body_class: homepage
 
 <article class="container">
 {% for post in paginator.posts offset: 1 %}
-  {% unless post.draft %}
+  {% unless post.draft or post.guide %}
+
   {% assign author = site.data.authors[post.author] %}
     <section class="index">
         <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
