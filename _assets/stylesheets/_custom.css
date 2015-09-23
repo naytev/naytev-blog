@@ -89,6 +89,7 @@ body.guide {
 		@include outer-container;
 		> div {
 		@include span-columns(4);
+		@include omega;
 		padding: 20px;
 		}
 	}
@@ -105,6 +106,10 @@ body.guide {
         	}
     	}
     }
+}
+
+.infographic {
+	border: 1px solid #ddd;
 }
 
 .text-center {
