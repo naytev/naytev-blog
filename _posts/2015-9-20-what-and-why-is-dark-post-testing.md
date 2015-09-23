@@ -67,7 +67,9 @@ As you might guess by the name, programmatic testing involves using Facebook’s
 
 You can kick off a high-performing, tailored dark test programmatically in under 5 minutes. In the video below, I actually do it for a test with 9 messages in under 2 minutes. New world record? 
 
-<!-- [Patrick to Add YouTube Embed Link Here] -->
+<div class="text-center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Mb4czYVAtEU" frameborder="0" allowfullscreen="allowfullscreen">Dark Testing Walkthrough</iframe>
+</div>
 
 The platform I used in the video above is called <a href="http://bit.ly/1KEjliA" target="_blank">Spark</a>. My team and I created Spark to make dark testing incredibly easy and scalable. 
 
