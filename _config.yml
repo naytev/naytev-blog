@@ -4,44 +4,44 @@ inc:
   subtitle:     "Adventures in optimizing content"
   cover_image:  blog-cover.jpg
   logo:         logo.png
-  
+
   # Company information
   company:      Naytev
   url:          http://www.naytev.com/
   facebook:     naytev
   twitter:      gonaytev
-  gplus:        
-  about_link:   
-  
+  gplus:
+  about_link:
+
   # Product Information
-  product_link: http://www.naytev.com/
+  product_link: https://spark.naytev.com/
   tagline:      "Optimize your content for revenue."
-  
+
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
     shortname:  naytev
-  
+
   # Sharing settings
   sharing:
     twitter:    false
     facebook:   false
     gplus:      false
     hn:         false
-    
-  
- # Analytics     
+
+
+ # Analytics
   analytics:
     google: true # Add tracking code in _includes/_google-analytics.html
 
  # Naytev
   naytev: true
-      
-      
+
+
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
   google_font: 'Droid+Sans:400,700'
-  
+
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
 url:         http://blog.naytev.com
