@@ -61,7 +61,11 @@ Programmatic testing allows you to ignore the mind-numbing steps of manual testi
 
 You can kick off a great, tailored dark test programmatically in under 5 minutes. In the video below, I actually do it for a test with 9 messages in under 2 minutes. New world record?
 
-<a href="https://spark.naytev.com/" target="_blank">The platform I used in the video above is called Spark.</a>  My team and I created Spark to make dark testing incredibly easy and scalable. If you’re interested in Dark Testing in under 5 minutes, try Spark by Naytev.
+<div class="text-center">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Mb4czYVAtEU" frameborder="0" allowfullscreen="allowfullscreen">Dark Testing Walkthrough</iframe>
+</div>
+
+<a href="https://spark.naytev.com/" target="_blank">The platform I used in the video above</a> is called Spark. My team and I created Spark to make dark testing incredibly easy and scalable. If you’re interested in Dark Testing in under 5 minutes, try Spark by Naytev.
 
 Get started by visiting h<a href="https://spark.naytev.com/" target="_blank">https://spark.naytev.com/.</a> Use the coupon code "DOUBLE_RAINBOW" at checkout to get 30% off any plan for the first month.
 
