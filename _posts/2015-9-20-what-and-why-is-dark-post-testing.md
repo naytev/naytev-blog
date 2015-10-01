@@ -14,6 +14,8 @@ author: patrick_costello
 
 guide: true
 
+mailchimp_popup: true
+
 ---
 
 Elite social media teams engineer their content for success by testing their messaging before posting it. When done correctly, this strategy is extremely effective at increasing content’s engagement.

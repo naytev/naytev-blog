@@ -35,3 +35,6 @@
         {% include _{{js_file}}.html %}
     {% endfor %}
 {% endif %}
+{% if page.mailchimp_popup %}
+  {% include _mailchimp_popup.html %}
+{% endif %}
