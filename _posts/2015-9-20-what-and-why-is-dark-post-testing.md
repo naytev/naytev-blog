@@ -1,8 +1,7 @@
 ---
 layout: post
-title: What is Facebook Dark Testing and Why Should I Care?
-
-subtitle: Why dark posting should be part of your strategy
+title: How A New Generation Of Marketers Are Using Science To Steal Your Attention
+subtitle: What is Facebook Dark Testing and Why Should I Care?
 
 cover_image: guides/dark/milton.jpeg
 
