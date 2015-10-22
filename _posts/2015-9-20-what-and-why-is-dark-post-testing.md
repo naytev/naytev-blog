@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How A New Generation Of Marketers Are Using Science To Steal Your Attention
+title: More Facebook Clicks Without Cat Pics
 subtitle: What is Facebook Dark Testing and Why Should I Care?
 
 cover_image: guides/dark/milton.jpeg
@@ -17,7 +17,9 @@ mailchimp_popup: true
 
 ---
 
-Elite social media teams engineer their content for success by testing their messaging before posting it. When done correctly, this strategy is extremely effective at increasing content’s engagement.
+Getting more engagement on social media can improve your bottom line, but only with the right message.
+
+Top social media teams engineer their content for success by testing multiple messages among different audiences before posting to Facebook. When done correctly, this fast strategy is extremely effective at increasing content’s engagement.
 
 The concept is simple: create multiple versions of a post on social media and use data to determine which one performs best. In practice, however, testing isn’t that easy. If it were, BuzzFeed wouldn’t be a unicorn, and a lot more companies would be testing every post they published. 
 
