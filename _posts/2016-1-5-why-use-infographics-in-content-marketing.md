@@ -20,7 +20,7 @@ Infographics are shareable, informative graphics that can be a valuable asset to
 	
 	<div class="full zoomable"><img src="/images/posts/why-infographics/top-colors.png"></div>
 	
-	90% of information transmitted to the brain is visual. Data-rich infographics inform your readers and entice them to share widely, and high shareability boosts brand advocacy. In addition, Unbounce found that businesses using infographics enjoy 12% more traffic growth than those who don’t. Most social media users trust content shared by their network, so it pays to push high-quality infographics in your content marketing strategy.
+	90% of information transmitted to the brain is visual. Data-rich infographics inform your readers and entice them to share widely, and high shareability boosts <a href='http://masterinbound.com/item/what-is-a-brand-advocate.html' target='_blank'>brand advocacy</a>. In addition, <a href='http://unbounce.com/content-marketing/why-do-infographics-make-great-marketing-tools/' target='_blank'>Unbounce</a> found that businesses using infographics enjoy 12% more traffic growth than those who don’t. Most social media users trust content shared by their network, so it pays to push high-quality infographics in your content marketing strategy.
 
 2.	## Make a complicated topic more accessible
 
@@ -36,4 +36,4 @@ Infographics are shareable, informative graphics that can be a valuable asset to
 
 Regardless of industry, customers love a visually-appealing, reputation-driven brand experience. So, does it pay to offer infographics to your audience? Absolutely.
 
-Want to give infographic creation a try? Create your own with free services like Piktochart or Canva, or enlist the pros at Visually.
+Want to give infographic creation a try? Create your own with free services like <a href='http://www.piktochart.com' target='_blank'>Piktochart</a> or <a href='http://www.canva.com' target='_blank'>Canva</a>, or enlist the pros at <a href='http://www.visual.ly' target='_blank'>Visually.</a>
