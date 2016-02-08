@@ -11,10 +11,6 @@ article:not(#featured) {
 	padding-top: 10px;
 }
 
-.container {
-	max-width: 960px;
-}
-
 body.homepage {
 
 	.naytev-floating-share {
