@@ -81,6 +81,13 @@ a {
         margin-top:0;
         margin-right:30px;
     }
+    .index-img-wrapper {
+        max-height: 275px;
+        overflow: hidden;
+        img {
+            margin-top: 0px;
+        }
+    }
 }
 
 .blog-cover {
