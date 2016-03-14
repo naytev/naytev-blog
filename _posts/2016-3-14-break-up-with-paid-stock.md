@@ -70,13 +70,13 @@ In the 7 years that have followed CC0's debut, a number of extraordinary resourc
 
 “Stock photos” have a terrible reputation, mostly deserved. As a genre of photography, it has created a recognizably dead-eyed version of real life. [(Just look at “Women Laughing Alone With Salad”.)](http://womenlaughingalonewithsalad.tumblr.com/) People know a stock photo when they see one.
  
-<div class="full zoomable"><img src="/images/posts/lame-stock-photos/badbusiness.jpg"></div> <div class="full zoomable"><img src="/images/posts/lame-stock-photos/badsoldier.jpg"></div> <div class="full zoomable"><img src="/images/posts/lame-stock-photos/baddancer.jpg"></div>
+<div class="col-md-4"><img src="/images/posts/lame-stock-photos/badbusiness.jpg"></div> <div class="col-md-4"><img src="/images/posts/lame-stock-photos/badsoldier.jpg"></div> <div class="col-md-4"><img src="/images/posts/lame-stock-photos/baddancer.jpg"></div>
 
 They’re cheap, they’re sterile, they’re impersonal, and they’re everything a modern brand shouldn’t be.
 
 You don’t need this stuff. You never did, but there’s no excuse when you have CC0 replacements like these at your fingertips:
 
-<div class="full zoomable"><img src="/images/posts/lame-stock-photos/goodbusiness.jpg"></div> <div class="full zoomable"><img src="/images/posts/lame-stock-photos/goodsoldier.jpg"></div> <div class="full zoomable"><img src="/images/posts/lame-stock-photos/gooddancer.jpg"></div>  
+<div class="col-md-4"><img src="/images/posts/lame-stock-photos/goodbusiness.jpg"></div> <div class="col-md-4"><img src="/images/posts/lame-stock-photos/goodsoldier.jpg"></div> <div class="col-md-4"><img src="/images/posts/lame-stock-photos/gooddancer.jpg"></div>  
 
 <br/>
 
