@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta property="op:markup_version" content="v1.0">
+
+    <!-- The URL of the web version of your article --> 
+    <link rel="canonical" href="{{site.url}}{{page.original_url}}">
+
+    <!-- The style to be used for this article --> 
+    <meta property="fb:article_style" content="default">
+  </head>
+  <body>
+    <article>
+      <header>
+        <!-- The cover image shown inside your article --> 
+        <figure>
+          <img src="{{site.url}}/images/{{ page.cover_image }}" />
+        </figure>
+
+        <!-- The title and subtitle shown in your article -->
+        <h1> {{ page.title }} </h1>
+        <h2> {{ page.subtitle }} </h2>
+        <!-- The published and last modified time stamps -->
+        <time class="op-published" dateTime="2015-11-11T04:44:16Z">December 11th, 4:44 PM</time>
+        <time class="op-modified" dateTime="2014-11-11T04:44:16Z">December 11th, 4:44 PM</time>
+      </header>
+      {{ content }}
+    </article>
+  </body>
+</html>
