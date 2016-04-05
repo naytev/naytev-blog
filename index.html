@@ -29,7 +29,6 @@ body_class: homepage
                 <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time> &mdash;
                 {{ post.content | reading_time }} read
             </div>
-            <hr>
         </section>
     </article>  
 {% endfor %}
@@ -56,7 +55,6 @@ body_class: homepage
             <time pubdate datetime="{{ post.date | date: "%Y-%d-%B" }}" title="{{ post.date | date: "%B %d, %Y" }}">{{ post.date | date: "%B %d, %Y" }}</time> &mdash;
             {{ post.content | reading_time }} read
         </div>
-        <hr>
     </section>
     {% endunless %}
     {% endfor %}
