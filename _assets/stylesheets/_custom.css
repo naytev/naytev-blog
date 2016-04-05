@@ -27,6 +27,10 @@
     margin-top: 45px;
 }
 
+.naytev-share-toolbar.naytev-floating-share {
+	display: none;
+}
+
 .index > div.meta { display: inline; }
 
 article:not(#featured) {
@@ -37,6 +41,7 @@ body.homepage {
 
 	.container {
 		background: transparent;
+		padding-bottom: 20px;
 	}
 
 	background: whitesmoke;
