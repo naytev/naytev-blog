@@ -226,14 +226,14 @@ article {
     .full {
         margin:1.5em -6em;
         padding:0;
-        text-align:center;
+        text-align: center;
 
         iframe {
             max-width:100% !important;
         }
 
         img {
-            max-width:100%;
+            max-width: 650px;
             margin:0;
             transition:0.5s all ease;
         }
@@ -250,7 +250,7 @@ article {
         }
 
         &.zoomable img.zoom {
-            -webkit-transform:scale(1.2);
+            -webkit-transform:scale(1.4);
             transition:0.4s all ease;
             box-shadow:0 2px 5px rgba(0,0,0,0.5);
         }

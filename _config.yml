@@ -3,7 +3,7 @@ inc:
   title:        "Naytev Insights"
   subtitle:     "Adventures in optimizing content"
   cover_image:  blog-cover.jpg
-  logo:         logo.png
+  logo:         blog-logo.png
 
   # Company information
   company:      Naytev
