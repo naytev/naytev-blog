@@ -11,3 +11,4 @@ gem 'github-pages'
 gem 's3_website'
 gem 'bourbon'
 gem 'neat'
+gem 'jekyll-compose', group: [:jekyll_plugins]
