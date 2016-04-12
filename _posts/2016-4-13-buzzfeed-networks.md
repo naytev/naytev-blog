@@ -52,6 +52,6 @@ So, considering all that what is BuzzFeed? Here are four main key components:
 3. Large & Engaged Audience
 4. Nimble Tech Able to Operate in Rapidly Shifting Media Landscape
 
-In a single sentence, BuzzFeed is a cohesive content creation and curation machine, paired with a tech stack capable of delivering content to and engaging a large audience across a fragmented, multi-channel media landscape. 
+In a single sentence, BuzzFeed is a cohesive content creation and curation machine, paired with a tech stack capable of delivering content to a fragmented and evolving media landscape.
 
 Put more simply, BuzzFeed is the first winning example of what a successful media company looks like in life after websites.
