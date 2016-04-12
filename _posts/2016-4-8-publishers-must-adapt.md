@@ -24,7 +24,7 @@ Now, top networks are going a step further, replacing publication websites as th
 
 The transition to consuming content on distributed networks is natural. Audiences already spend the majority of their time on these platforms, and the direct integration of content provides a faster, more uniform experience. Already [bloated with ad trackers](http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html) and suffering from the [rise of ad blockers](http://digiday.com/publishers/global-rise-ad-blocking-4-charts/), publishers are unable to compete with distribution channels like Facebook Instant Articles and Google AMP. Yet they cannot afford to forego the exposure these channels offer.  
 
-As a result, readers’ habits are deepening within these channels, which now command unprecedented attention. For example, [1 in 5 minutes spent on mobile phones is ](http://www.reuters.com/article/us-facebook-results-idUSKCN0ST2VF20151105)[spent ](http://www.reuters.com/article/us-facebook-results-idUSKCN0ST2VF20151105)[on Facebook's platforms](http://www.reuters.com/article/us-facebook-results-idUSKCN0ST2VF20151105). Most publishers are lucky if a particular reader visits their website a few times each month.
+As a result, readers’ habits are deepening within these channels, which now command unprecedented attention. For example, [1 in 5 minutes spent on mobile phones is spent on Facebook's platforms](http://www.reuters.com/article/us-facebook-results-idUSKCN0ST2VF20151105). Most publishers are lucky if a particular reader visits their website a few times each month.
 
 **Audiences Are Building Strong Habits Around Distributed Networks **
 
