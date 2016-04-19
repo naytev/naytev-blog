@@ -47,6 +47,7 @@ Tying all of these aspects together is the technology side of BuzzFeed. Measurin
 ### Conclusion
 
 So, considering all that what is BuzzFeed? Here are four main key components:
+
 1. Cross-Channel Distribution Infrastructure
 2. Cohesive Content Style & Branding
 3. Large & Engaged Audience
@@ -55,3 +56,6 @@ So, considering all that what is BuzzFeed? Here are four main key components:
 In a single sentence, BuzzFeed is a cohesive content creation and curation machine, paired with a tech stack capable of delivering content to a fragmented and evolving media landscape.
 
 Put more simply, BuzzFeed is the first winning example of what a successful media company looks like in life after websites.
+
+<a href="https://news.ycombinator.com/submit" class="hn-button" data-title="What is BuzzFeed, really?" data-url="http://blog.naytev.com/buzzfeed-networks/" data-count="horizontal">Vote on Hacker News</a>
+<script type="text/javascript">var HN=[];HN.factory=function(e){return function(){HN.push([e].concat(Array.prototype.slice.call(arguments,0)))};},HN.on=HN.factory("on"),HN.once=HN.factory("once"),HN.off=HN.factory("off"),HN.emit=HN.factory("emit"),HN.load=function(){var e="hn-button.js";if(document.getElementById(e))return;var t=document.createElement("script");t.id=e,t.src="//hn-button.herokuapp.com/hn-button.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)},HN.load();</script>
