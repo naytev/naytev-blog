@@ -45,7 +45,7 @@ inc:
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
 url:         http://blog.naytev.com
-optimized_url:  http://s.naytev.com
+optimized_url:  http://blog.naytev.com
 source:      .
 destination: ./_site
 plugins_dir:     ./_plugins
