@@ -5,6 +5,7 @@ subtitle: 'Testing in the Facebook News Feed on Behalf of Democracy'
 cover_image: posts/stop-trump/machine.jpg
 excerpt: "Using all the tech at our disposal to fight the Voledmort of our times."
 author: zack_liscio
+og_image: posts/stop-trump/trumpog.png
 ---
 
 With the seeming inevitability of Trump winning the Republican nomination, his campaign (and hopefully not the future of humanity) seems to hinge upon two states: Indiana and California. Writing in the New York Times, Nate Cohn says the two states ["crucial prizes that would put Mr. Trump over the top"](http://www.nytimes.com/2016/04/27/upshot/why-donald-trump-is-probably-two-states-from-victory.html). We decided to try a small experiment to see if we could use Facebook's rich targeting data and powerful distribution to tip the scales by finding Anti-Trump messaging that gets the most attention among the voters he needs to win. 
