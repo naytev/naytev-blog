@@ -29,7 +29,6 @@ inc:
     gplus:      false
     hn:         false
 
-
  # Analytics
   analytics:
     google: true # Add tracking code in _includes/_google-analytics.html
@@ -118,4 +117,4 @@ assets:
   gzip: [ text/css, application/javascript ]
   debug: false
 
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-last-modified-at]
