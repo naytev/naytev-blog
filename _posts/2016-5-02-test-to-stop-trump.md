@@ -88,7 +88,7 @@ Here's how we did it:
 
 <div class="full zoomable"><img src="/images/posts/stop-trump/results.png"></div> 
 
-  So, how does this help us stop Trump? Anyone using Facebook in the past year (all 1.6bn of us) have noticed that the upcoming election is a hot topic. For better or worse, our reality is that the News Feed is increasingly the place where ideas are discovered, consumed, and debated. Those able to harness the power of digital [will win elections]({% post_url 2015-1-9-how-to-win-2016-elections-6-cutting-edge-digital-tactics %}), and testing helps us do that effectively and refine our tactics as we learn. 
+  So, how does this help us stop Trump? Anyone using Facebook in the past year (all 1.6bn of us) have noticed that the upcoming election is a hot topic. For better or worse, our reality is that the News Feed is increasingly the place where ideas are discovered, consumed, and debated. Those able to harness the power of digital [will win elections]({% post_url 2015-1-9-how-to-win-2016-elections-6-cutting-edge-digital-tactics %}), and testing helps us do that effectively and refine our tactics as we learn. If we hope to change minds, the first step is understanding how to reach them on their terms and in ways that engage them. Only then do we have a chance of preventing the Drumpf.
 
 
 Thanks for reading and please also [register to vote](https://www.usa.gov/register-to-vote)!
