@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'jekyll', ">=3.0.0"
 gem 'jekyll-assets'
+gem 'jekyll-last-modified-at'
 gem 'jekyll-paginate'
 gem 'maruku'
 gem 'rake'

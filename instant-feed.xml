@@ -1,29 +1,38 @@
 ---
 layout: null
 ---
-<?xml version="1.0"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>{{ site.blog_title }}</title>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-    <description>{{ site.blog_subtitle }}</description>
-    <language>en-us</language>
-    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
-
-    {% for post in site.posts %}
-    {% if post.instant %}
+    <title>{{ site.inc.title | xml_escape }}</title>
+    <link>{{ site.inc.url }}</link>
+    <description>
+      {% if site.inc.subtitle %}{{ site.inc.subtitle | xml_escape }}{% endif %}
+    </description>
+    {% for post in site.posts | sort 'last_modified_at' %}
+    {% unless post.link %}
     <item>
-      <title>{{ post.title }}</title>
+      <title>{{ post.title | xml_escape }}</title>
       <link>{{ site.url }}{{ post.url }}</link>
+      <content:encoded>
+        <![CDATA[
+        {{ post.content }}
+        ]]>
+      </content:encoded>
+      <guid isPermaLink="false">{{ post.url }}</guid>
+      <description>
+        {% if post.excerpt %}
+        {{ post.excerpt | xml_escape }}
+        {% else %}
+        {{ post.description | xml_escape }}
+        {% endif %}
+      </description>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-      <author>{{ post.author_name }}</author>
-      <guid>{{ site.url }}{{ post.id }}</guid>
-      <description>{{ post.content | xml_escape }}</description>
+      <modDate>{{ post.last_modified_at | date: "%a, %d %b %Y %H:%M:%S %z" }}</modDate>
+      <author></author>
     </item>
-    {% endif %}
+    {% endunless %}
     {% endfor %}
-
-  </channel> 
+  </channel>
 </rss>
