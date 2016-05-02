@@ -61,7 +61,7 @@ Sometimes, you’ll be looking to reach out to a certain demographic, strike a c
 
 That’s where [Unsplash](https://unsplash.com/), [Splitshire](https://www.splitshire.com/), [Pexels](https://www.pexels.com/), and their ilk can help. They all have semi-decent search functions, but they shine in categorization. 
 
-<div class="full zoomable"><img src="/images/posts/find-image-you-need/happygirlincoat.jpg"></div>
+<div class="full zoomable"><img src="/images/posts/find-image-you-need/girlincoat.jpg"></div>
 
 I found the young woman above on Splitshire. I knew I wanted a photo of 18- to 35-year-old women with a calm, confident feel. I happened upon a wintery image I liked under “People,” then spent about two minutes looking for a similar image with a contrasting tone under “Fashion.”
 

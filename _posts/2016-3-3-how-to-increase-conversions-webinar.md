@@ -13,7 +13,7 @@ author: patrick_costello
 **When:** Tuesday, March 8 at 2pm EST  
 **Co-hosted with Bounce Exchange**  
 [**RSVP**](http://www.bounceexchange.com/webinars/increase-conversions-across-every-step-in-the-reader-journey.html) it's going to be great!
-<div class="full zoomable"><img src="/images/posts/webinar-increase-conversions/promocrop.jpg"></div>
+<div class="full zoomable"><img src="/images/posts/webinar-increase-conversions/promocropped.jpg"></div>
 
 <br/>
 
