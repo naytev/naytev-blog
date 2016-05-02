@@ -10,8 +10,6 @@ excerpt: On Tuesday, April 21st Facebook announced updates to what content is di
 author: edward_ridgely
 ---
 
-author: edward_ridgely
-
 <div class="full zoomable"><img src="/images/posts/newsfeed-changes/balance.png"></div> 
 
 On Tuesday, April 21st Facebook [announced updates](http://newsroom.fb.com/news/2015/04/news-feed-fyi-balancing-content-from-friends-and-pages/) to what content is displayed in each user’s Facebook News Feed. Here's a quick overview of the most important takeaways for your content:

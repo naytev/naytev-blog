@@ -10,8 +10,6 @@ excerpt: "Today we are excited to announce that Naytev is part of this summer’
 author: zack_liscio
 ---
 
-author: zack_liscio
-
 Today we are excited to announce that Naytev is part of this summer’s [Y-Combinator](http://www.ycombinator.com) batch (S14). While we’ve been pretty secretive so far, the cat is officially out of the bag with today’s awesome TechCrunch Article. [Read the article on TechCrunch](http://techcrunch.com/2014/08/14/yc-backed-naytev-enhances-social-media-shares-to-drive-website-traffic/).
 
 <div class="full zoomable"><img src="/images/posts/yc/tc.png"></div>

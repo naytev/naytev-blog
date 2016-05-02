@@ -10,8 +10,6 @@ excerpt: "We started with a simple premise: there are fundamental rules to elici
 author: naytev
 ---
 
-author: naytev
-
 We started with a simple premise: there are fundamental rules to eliciting the highest possible engagment on any given social network. For the hot new app “Yo” (that all the kids are using), there are very few variables to work with.
 
 ### Independent Variables

@@ -10,8 +10,6 @@ excerpt: "As part of the Naytev engineering team, I’m frequently asked about w
 author: mark_pierotti
 ---
 
-author: mark_pierotti
-
 As part of the Naytev engineering team, I’m frequently asked about why we chose to use [Scala](http://www.scala-lang.org/) as our primary development language.  This question is a blast to answer because I get to talk about its fantastic [concurrency API](http://www.scala-lang.org/api/current/index.html#scala.concurrent.package) and the ease with which you can pump the most raw horsepower out of your servers.  The real star of the show is Scala’s Future[T] data type (and the libraries which help you create instances of it). 
 
 ### Addressing A Common Problem

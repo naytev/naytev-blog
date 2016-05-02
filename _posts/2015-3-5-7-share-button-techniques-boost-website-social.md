@@ -11,8 +11,6 @@ excerpt: Most websites lose high value readers and customers daily because they 
 author: patrick_costello
 ---
 
-author: patrick_costello
-
 Most websites lose high value readers and customers daily because they don’t follow a few easy share button fundamentals. Our last post covered how [people use share buttons as infrequently as they click display ads](http://blog.naytev.com/social-share-buttons-analysis/), and this post shows how to overcome barriers to sharing.
 
 ### (1) Use Facebook’s Share Button For Your Content

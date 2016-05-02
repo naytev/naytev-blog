@@ -10,8 +10,6 @@ excerpt: "Every day, websites lose the exposure they deserve to a problem that t
 author: aubrie_johnson
 ---
 
-author: aubrie_johnson
-
 Every day, websites lose the exposure they deserve to a problem that takes moments to solve: they ask readers to Like their content, when they should ask readers to Share it instead.
 
 <div class="full zoomable"><img src="/images/posts/showdown/vs.jpg"></div>

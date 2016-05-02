@@ -10,8 +10,6 @@ excerpt: "One of the common choruses we heard from our users was they wanted to 
 author: edward_ridgely
 ---
 
-author: edward_ridgely
-
 One of the common choruses we heard from our users was they wanted to access the share message that pops up when site visitors hit the share button. They wanted to control the copy and image.
 
 So, we built Auto-Import for social sharing. As the name suggests, Auto-Import collects the content generated when people use Facebook Share and Tweet buttons.

@@ -11,8 +11,6 @@ excerpt: What if I told you that your social share message is all that’s keepi
 author: aubrie_johnson
 ---
 
-author: aubrie_johnson
-
 What if I told you that your social share message is all that’s keeping your content from thousands of new readers? I see this firsthand at Naytev where we automatically test thousands of alternate share messages for dozens of major publishers.
 
 Our team is in a unique position to identify what messaging drives the greatest social engagement and new readers. This post highlights winning strategies our team has identified for creating high impact share messages.

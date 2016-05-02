@@ -10,9 +10,6 @@ excerpt: "The 2016 elections will be won or lost on the digital battlefield, so 
 author: naytev
 ---
 
-author: naytev
-
-
 ### Guest Contribution by Steve Johnston
 
 The 2014 midterm elections demonstrated tremendous growth for digital campaigning, with [digital ad spending jumping nearly 2,000% from the 2010 midterm spend](http://inthecapital.streetwise.co/2014/08/26/spending-on-digital-ads-is-up-almost-200-percent-for-the-2014-election/). The 2016 elections will be won or lost on the digital battlefield, so it is more important than ever that political campaigns, party committees, and outside advocacy groups make use of the most cutting-edge strategies.

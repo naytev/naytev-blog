@@ -11,9 +11,6 @@ excerpt: With social share buttons installed on nearly 2 billion sites, you migh
 author: patrick_costello
 ---
 
-author: patrick_costello
-
-
 With social share buttons installed on nearly 2 billion sites, you might think people use them all the time. You would be wrong. Naytev has found that people use share buttons about as much as they click display ads.
 
 > Most People Opt for Manual Sharing Over Button Sharing

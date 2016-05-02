@@ -10,8 +10,6 @@ excerpt: "There is an important social engagement metric that is often overlooke
 author: mike_seid
 ---
 
-author: mike_seid
-
 <div class="full zoomable"><img src="/images/posts/jump-start/funnel.png"></div>
 
 There is an important social engagement metric that is often overlooked – how many people who start to share your content actually follow through with the share.

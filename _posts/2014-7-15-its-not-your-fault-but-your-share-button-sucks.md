@@ -10,8 +10,6 @@ excerpt: "The golden age of Facebook is upon us, but in a cruel twist, it has ne
 author: patrick_costello
 ---
 
-author: patrick_costello
-
 The golden age of Facebook is upon us, but in a cruel twist, it has never been more difficult for organizations to organically connect with fans. Looking for a simple way to measurably boost fan reach + engagement? Then this post is for you.
 
 Facebook has become increasingly selective about what content reaches users as the volume of content has exceeded user capacity to absorb it all. Simply put, there’s just too much content out there, so less people see your content.

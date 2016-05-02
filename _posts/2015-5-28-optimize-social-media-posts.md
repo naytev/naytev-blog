@@ -12,8 +12,6 @@ categories: [optimization, social sharing]
 author: edward_ridgely
 ---
 
-author: edward_ridgely
-
 ### Drive More Engagement By Making Data Driven Decisions
 
  Your content only gets one first impression. Naytev makes sure it’s the right one by tracking and optimizing organic sharing. The insights we learn from the optimization can be applied across a brand’s larger social strategy.
