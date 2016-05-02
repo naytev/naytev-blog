@@ -13,15 +13,34 @@ layout: null
     {% for post in site.posts | sort 'last_modified_at' %}
     {% unless post.link %}
     <item>
-      <h1>{{ post.title | xml_escape }}</h1>
-      <h2>{{ post.subtitle | xml_escape }}</h2>
+      <title>{{ post.title | xml_escape }}</title>
       <link rel="canonical">{{ site.url }}{{ post.url }}</link>
-      <figure>
-        <img src="/images/{{ post.cover_image }}" />
-      </figure>
       <content:encoded>
         <![CDATA[
-        {{ post.content }}
+        <html lang="en" prefix="op: http://media.facebook.com/op#">
+          <head>
+            <meta charset="utf-8">
+            <link rel="canonical">{{ site.url }}{{ post.url }}</link>
+            <meta property="op:markup_version" content="v1.0">
+          </head>          
+          <body>
+            <article>
+              <header>
+                <h1>{{ post.title | xml_escape }}</h1>
+                <h2>{{ post.subtitle | xml_escape }}</h2>
+                <figure>
+                  <img src="/images/{{ post.cover_image }}" />
+                </figure>
+                <address><a>{{ site.data.authors[post.author].name }}</a></address>
+                <time class="op-published" datetime="{{ post.date }}">{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</time>
+                <time class="op-modified" datetime="{{ post.last_modified_at }}">{{ post.last_modified_at | date: "%a, %d %b %Y %H:%M:%S %z" }}</time>
+              </header>
+              {{ post.content }}
+              <footer>
+              </footer>
+            </article>
+          </body>
+        </html>
         ]]>
       </content:encoded>
       <meta property="fb:article_style" content="default"/>
@@ -34,7 +53,6 @@ layout: null
       </description>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <modDate>{{ post.last_modified_at | date: "%a, %d %b %Y %H:%M:%S %z" }}</modDate>
-      <address><a>{{ site.data.authors[post.author].name }}</a></address>
     </item>
     {% endunless %}
     {% endfor %}
