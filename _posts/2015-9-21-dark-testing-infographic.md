@@ -6,6 +6,8 @@ subtitle: A single page overview of dark testing
 
 excerpt: "Learn how to run a Dark Test, and all the important concepts along the way."
 
+cover_image: guides/dark/dark-testing-infographic.png
+
 categories: [dark-testing]
 
 author: zack_liscio

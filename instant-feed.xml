@@ -14,17 +14,26 @@ layout: null
     {% unless post.link %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
-      <link rel="canonical">{{ site.url }}{{ post.url }}</link>
+      <link rel="canonical" href="{{ site.url }}{{ post.url }}" />
+      <guid isPermaLink="false">{{ post.url }}1</guid>
       <content:encoded>
         <![CDATA[
         <html lang="en" prefix="op: http://media.facebook.com/op#">
           <head>
             <meta charset="utf-8">
-            <link rel="canonical">{{ site.url }}{{ post.url }}</link>
             <meta property="op:markup_version" content="v1.0">
+            <link rel="canonical" href="{{ site.url }}{{ post.url }}"/>
+            <meta property="fb:article_style" content="default"/>
           </head>          
           <body>
             <article>
+              {% if site.inc.analytics.google %}
+                <figure class="op-tracker">
+                  <iframe>
+                    {% include _google-analytics.html %}
+                  </iframe>
+                </figure>
+              {% endif %}
               <header>
                 <h1>{{ post.title | xml_escape }}</h1>
                 <h2>{{ post.subtitle | xml_escape }}</h2>
@@ -43,7 +52,6 @@ layout: null
         </html>
         ]]>
       </content:encoded>
-      <meta property="fb:article_style" content="default"/>
       <description>
         {% if post.excerpt %}
         {{ post.excerpt | xml_escape }}
