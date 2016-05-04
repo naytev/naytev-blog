@@ -51,6 +51,6 @@ Dark testing lets you continually post and automatically refine your messaging w
 #### Don’t Burn Out Fans With the Same Post Topic
 <div class="full zoomable"><img src="/images/guides/dark/magnify.jpg"></div> 
 
-If you’d like to learn how to run a Dark Test, we cover it in detail here <!-- add permalink to How to A/B Test on Facebook With Dark Posting]-->. It normally takes up to 90 minutes to run a test manually, but you can run tests in under 5 minutes using Spark by Naytev.
+If you’d like to learn how to run a Dark Test, we cover it in detail here <!-- add permalink to How to A/B Test on Facebook With Dark Posting]-->. It normally takes up to 90 minutes to run a test manually, but you can run tests in under 5 minutes using Naytev.
 
-You can try Spark by visiting <a href="https://spark.naytev.com/" target="_blank">https://spark.naytev.com/</a>. To get 30% off any plan for the first month, use the coupon code “DOUBLE_RAINBOW” at checkout.
+You can try Naytev by visiting <a href="https://www.naytev.com/" target="_blank">https://www.naytev.com/</a>. To get 30% off any plan for the first month, use the coupon code “DOUBLE_RAINBOW” at checkout.

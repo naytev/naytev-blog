@@ -74,19 +74,19 @@ You can kick off a high-performing, tailored dark test programmatically in under
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/Mb4czYVAtEU" frameborder="0" allowfullscreen="allowfullscreen">Dark Testing Walkthrough</iframe>
 </div>
 
-The platform I used in the video above is called <a href="http://bit.ly/1KEjliA" target="_blank">Spark</a>. My team and I created Spark to make dark testing incredibly easy and scalable. 
+The platform I used in the video above is called <a href="http://www.naytev.com" target="_blank">Naytev</a>. My team and I created Naytev to make dark testing incredibly easy and scalable. 
 
 We already specialize in testing Facebook messages for large brands and publishers, and many clients asked for a way to make dark testing better. We listened. 
 
-Spark has best practices baked into it, eliminating the learning curve for dark testing. We also eliminate unnecessary work, enabling you to create dozens of tests in the same time you normally could only create one or two.
+Naytev has best practices baked into it, eliminating the learning curve for dark testing. We also eliminate unnecessary work, enabling you to create dozens of tests in the same time you normally could only create one or two.
 
 #### How You’ll Feel When You Create a Dark Test 12x Faster Than Everyone Else
 
 <div class="full zoomable"><img src="/images/guides/dark/boxing.jpg"></div>
 
-If you’re interested in using Spark, visit <a href="https://spark.naytev.com/" target="_blank">https://spark.naytev.com/</a>. You can use the coupon code “DOUBLE_RAINBOW” at checkout to get 30% off any plan for the first month.
+You can use the coupon code “DOUBLE_RAINBOW” at checkout to get 30% off any plan for the first month.
 
-Even if you aren’t ready to start using Spark, I hope this article helps dispel the mystery surrounding dark testing. It’s a powerful tool that can benefit teams of any size. 
+Even if you aren’t ready to start using Naytev, I hope this article helps dispel the mystery surrounding dark testing. It’s a powerful tool that can benefit teams of any size. 
 
 #### Have a Fantastic, Double Rainbow Kind of Day
 <div class="full zoomable"><img src="/images/guides/dark/double-rainbow.jpg"></div>

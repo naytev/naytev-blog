@@ -78,7 +78,7 @@ Mobile sharing features can take a variety of different styles, from fixed horiz
 
 <div class="full zoomable"><img src="/images/posts/button-techniques/mobile.png"></div> 
 
-This mobile feature above comes with Naytev’s [free share buttons](https://naytev.zendesk.com/hc/en-us/articles/202474093), is fully customizable, and can be turned on with a simple switch.
+This mobile feature above comes with Naytev’s free share buttons, is fully customizable, and can be turned on with a simple switch.
 
 * Don’t Let Share Buttons Slow Down Your Site
 
@@ -86,9 +86,9 @@ Poorly structured share buttons slow down your page load time, driving away visi
 
 Share buttons that operate independent of one another also require you to add unnecessary lines of code to your site, weighing it down. The Facebook SDK alone is 50kb. Now add Twitter at 35kb and Google+ at 55kb: you’re already up to 140kb.
 
-The easiest way to fix this issue is to use share buttons that efficiently load multiple networks simultaneously. For example, [Naytev’s share buttons load all social networks](https://naytev.zendesk.com/hc/en-us/articles/202627396) with just 52kb – a 63% reduction in weight.
+The easiest way to fix this issue is to use share buttons that efficiently load multiple networks simultaneously. For example, Naytev’s share buttons load all social networks with just 52kb – a 63% reduction in weight.
 
-Alternately, if you use your own custom share buttons, you can use our Share Count API to [reduce page load time](https://naytev.zendesk.com/hc/en-us/articles/203590267) by loading all the share counts in a single HTTP request.
+Alternately, if you use your own custom share buttons, you can use our Share Count API to reduce page load time by loading all the share counts in a single HTTP request.
 
 * A/B Test Your Facebook and Twitter Share Messages
 

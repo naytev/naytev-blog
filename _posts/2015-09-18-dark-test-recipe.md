@@ -65,9 +65,9 @@ You can kick off a great, tailored dark test programmatically in under 5 minutes
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/Mb4czYVAtEU" frameborder="0" allowfullscreen="allowfullscreen">Dark Testing Walkthrough</iframe>
 </div>
 
-<a href="https://spark.naytev.com/" target="_blank">The platform I used in the video above</a> is called Spark. My team and I created Spark to make dark testing incredibly easy and scalable. If you’re interested in Dark Testing in under 5 minutes, try Spark by Naytev.
+<a href="https://www.naytev.com/" target="_blank">The platform I used in the video above</a> is called Naytev. My team and I created Naytev to make dark testing incredibly easy and scalable. If you’re interested in Dark Testing in under 5 minutes, try it out.
 
-Get started by visiting h<a href="https://spark.naytev.com/" target="_blank">https://spark.naytev.com/.</a> Use the coupon code "DOUBLE_RAINBOW" at checkout to get 30% off any plan for the first month.
+Use the coupon code "DOUBLE_RAINBOW" at checkout to get 30% off any plan for the first month.
 
 *How You’ll Feel When You Create a Dark Test 18x Faster Than Everyone Else* 
 <div class="full zoomable"><img src="/images/guides/dark/boxing.jpg"></div>
