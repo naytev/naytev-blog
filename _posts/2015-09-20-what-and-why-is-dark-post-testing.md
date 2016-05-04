@@ -1,7 +1,7 @@
 ---
 layout: post
-title: More Facebook Clicks Without Cat Pics
-subtitle: What is Facebook Dark Testing and Why Should I Care?
+title: What is Facebook Dark Testing and Why Should I Care?
+subtitle: More Facebook Clicks Without Cat Pics
 
 cover_image: guides/dark/milton.jpeg
 
