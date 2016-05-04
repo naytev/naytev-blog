@@ -31,7 +31,7 @@ You may wonder how share button use can be so low, despite button visual prevale
 
 <div class="full zoomable"><img src="/images/posts/button-nobody-clicks/buttons.png"></div>
 
-For Facebook, the share count typically reflects the sum of shares, comments, and likes. Likes normally represent the majority of the “share” activity in these counts, which can make it difficult to tell how many actual shares took place. You can easily see an accurate breakdown for any URL by using [Naytev’s Share Count Tool](http://www.naytev.com/tools/share-count).
+For Facebook, the share count typically reflects the sum of shares, comments, and likes. Likes normally represent the majority of the “share” activity in these counts, which can make it difficult to tell how many actual shares took place.
 
 <div class="full zoomable"><img src="/images/posts/button-nobody-clicks/tool.png"></div>
 

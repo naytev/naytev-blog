@@ -36,4 +36,4 @@ Many people ask us where they can find their click per share rate. You will not 
 
 If content Shares are the powerful lions of the social media savanna, content Likes are the cubs; fun to look at but otherwise, not likely to put in work. Every page containing content you want to reach the maximum audience should take advantage of Share buttons, not Like buttons.
 
-You can get the [stock Facebook Share Button here](https://developers.facebook.com/docs/plugins/share-button). Naytev also offers an [advanced Facebook share button](https://naytev.zendesk.com/hc/en-us/articles/202474093-How-to-Add-Naytev-s-Advanced-Social-Share-Buttons) that’s fully customizable. In our next blog post, we’ll cover best practices for integrating Share buttons with your page design.
+You can get the [stock Facebook Share Button here](https://developers.facebook.com/docs/plugins/share-button). In our next blog post, we’ll cover best practices for integrating Share buttons with your page design.

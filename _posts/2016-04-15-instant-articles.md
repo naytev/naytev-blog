@@ -14,7 +14,7 @@ Until now, Instant Articles have been restricted to a few dozen top publishers. 
 
 <div class="full zoomable"><img src="/images/posts/instant-articles/instantarticles.jpg"></div>
 
-As we wrote last week, [publishers must adapt]({% post_url 2016-4-8-publishers-must-adapt %}) to this new distribution paradigm or face declines in their readership and monetization. Many major publishers have already begun expeirmenting with Instant Articles, unable to ignore the opportunity because of how much of their traffic already comes from Facebook. As users spend more time within the walled gardens of social networks, competing for attention in the News Feed is increasingly complex and zero sum. Publishers who don't offer Instant Articles may see their content deprioritized relative to their competititors. 
+As we wrote last week, [publishers must adapt]({% post_url 2016-04-08-publishers-must-adapt %}) to this new distribution paradigm or face declines in their readership and monetization. Many major publishers have already begun expeirmenting with Instant Articles, unable to ignore the opportunity because of how much of their traffic already comes from Facebook. As users spend more time within the walled gardens of social networks, competing for attention in the News Feed is increasingly complex and zero sum. Publishers who don't offer Instant Articles may see their content deprioritized relative to their competititors. 
 
 Adoption has been comparatively slow as these initial top publishers cautiously tested the program. However, Instant Articles are poised to gain rapid adoption across sites of all sizes with this general release. There are two forces driving this: competitive pressure and ease of integration.
 
