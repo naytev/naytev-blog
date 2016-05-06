@@ -1,3 +1,17 @@
+# Naytev Blog Instructions
+
+To run locally: 
+```bundle exec jekyll serve```
+
+If you have future posts:
+```bundle exec jekyll serve --future```
+
+To Deploy:
+
+```jekyll build --config=_config.yml,_config_prod.yml```
+```s3_website push```
+
+
 # Jekyll Incorporated
 Modern Jekyll based blog. Great for companies, products or anything. See live at [blog.sendtoinc.com](http://blog.sendtoinc.com)
 
