@@ -16,8 +16,6 @@ author: zack_liscio
 
 **Who:** Tech's top journalists, developers, designers, strategists, and thought leaders (plus a whole bunch of wonderful content enthusiasts)
 
- <br/> 
-
 Will you be in Austin for SXSW Interactive next week? If so, I hope you’ll join Patrick and the Naytev team on Sunday afternoon, March 13, 2016 for one of the best media parties in town.
 
 <div class="full zoomable"><img src="/images/posts/sxsw-invite/fullinvite.jpg"></div>
@@ -25,10 +23,8 @@ Will you be in Austin for SXSW Interactive next week? If so, I hope you’ll joi
 
 We’re excited to announce that Naytev will be co-sponsoring the annual Awesomest Journalist Party Ever, along with the Knight Foundation, Fusion, and WordPress.
 
+You can find more details on [the official event site](http://theawesomest.journalismparty.com/ever/vi/).
 
-#### You can find more details on [the official event site](http://theawesomest.journalismparty.com/ever/vi/).
-#### And please RSVP [through Eventbrite](https://www.eventbrite.com/e/the-awesomest-journalism-party-ever-vi-tickets-21349138849) if you’re planning to attend.
-
-<br/>
+Please RSVP [through Eventbrite](https://www.eventbrite.com/e/the-awesomest-journalism-party-ever-vi-tickets-21349138849) if you’re planning to attend.
 
 *P.S. We've got an awesome new feature! Naytev now makes it possible A/B test videos on Facebook. We’ll have a few people from the team in town to demonstrate. If you’re interested in better engagement in your News Feed, shoot us a message!*
