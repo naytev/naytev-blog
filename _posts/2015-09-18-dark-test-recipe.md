@@ -19,7 +19,7 @@ There are two ways to run a dark test: **manual** and **programmatic**. Manual i
 
 ## Common Emotions Associated With Manual Dark Testing
 
-<div class="full zoomable"><img src="/images/guides/dark/emotions.png"></div>
+{% include _image.html src="/images/guides/dark/emotions.png" %}
 
 Before getting started, make sure you have administrative privileges for your Facebook Page and an active Ad Account. You’ll need both before running a test with either approach.
 
@@ -66,4 +66,4 @@ You can kick off a great, tailored dark test programmatically in under 5 minutes
 Use the coupon code "DOUBLE_RAINBOW" at checkout to get 30% off any plan for the first month.
 
 *How You’ll Feel When You Create a Dark Test 18x Faster Than Everyone Else* 
-<div class="full zoomable"><img src="/images/guides/dark/boxing.jpg"></div>
+{% include _image.html src="/images/guides/dark/boxing.jpg" %}

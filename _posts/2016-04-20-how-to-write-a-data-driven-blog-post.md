@@ -10,7 +10,7 @@ author: zack_liscio
 
 It's no secret that data is informing content creation at most top publications, but what does that process look like in practice? We've summarized the six-step process we use to increase our blog's pageviews and drive conversions. We've intentionally not included numbers on the steps, as they form a cycle and are repeated as you create additional content and grow your audience.
 
-<div class="full zoomable"><img src="/images/posts/how-to-blog/cycle.png"></div>
+{% include _image.html src="/images/posts/how-to-blog/cycle.png" %}
 
 * **Plan** - First things first, you'll need to create some content. It's helpful to take a step back and recognize what your goals are for your content. Are you trying to establish thought leadership in your industry? Hoping to add new leads to the funnel? Regardless, you need to figure out what people in the space are already creating and consuming and how you fit into that landscape. 
   
@@ -18,7 +18,7 @@ It's no secret that data is informing content creation at most top publications,
 
 * **Write** - Write your post. There are lots of great resources on how to write interesting and compelling content, but possibly the most important general rule is to know your audience. The people actually reading your content will determine how you can best present information for them. Interestingly, there's increasing data that [longer, more in-depth posts perform best](https://www.snapagency.com/blog/whatll-be-the-best-length-for-a-blog-article-in-2016-for-seo/). Regardless, always aim to deliver value to the reader, rather than approaching your content as an opportunity to create value for yourself.
 
-    <div class="full zoomable"><img src="/images/posts/how-to-blog/contentlength.png"></div>
+    {% include _image.html src="/images/posts/how-to-blog/contentlength.png" %}
 
     Make sure you also take the time to [craft a headline that works for social media]({% post_url 2015-04-01-the-formula-perfect-social-share-message %}). It doesn't matter how good your content is if no one ever clicks to read it, and social (mainly Facebook) is increasingly dominant in generating traffic.
 

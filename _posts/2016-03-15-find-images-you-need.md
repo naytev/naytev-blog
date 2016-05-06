@@ -9,11 +9,11 @@ author: cara_tucker
 
 The “do whatever” Creative Commons Zero (CC0) wave has allowed publishers to pull amazing images from a motley crew of sources. For those unfamiliar, CC0 means the owner of the photograph has waived all rights and copyrights, and the image can be used commercially, in any setting, for free. 
 
-<div class="full zoomable"><img src="/images/posts/find-image-you-need/dognose.jpg"></div>
+{% include _image.html src="/images/posts/find-image-you-need/dognose.jpg" %}
 
 There are many sources available for stock photos, but not all are equally equipped to support your hunt for content-relevant images. It is easy to get lost in the gorgeous, sweeping photos available on sources like [Life of Pix](http://www.lifeofpix.com/) or [Magdeleine](http://magdeleine.co/) and from top photographers like [Jay Mantri](http://jaymantri.com/). Misty beechtrees, latte art, pets, and sunsets are bathed with Instagrammy edits, giving them a distinctly hipster, arty feel. 
 
-<div class="full zoomable"><img src="/images/posts/find-image-you-need/mistylane.jpg"></div>
+{% include _image.html src="/images/posts/find-image-you-need/mistylane.jpg" %}
 
 Thanks to their sheer aesthetic power, sites like these top out nearly every free stock recommendation list. They make fantastic browsing, and sometimes they’re exactly what you need. But more often than not, you need images that suit what’s already written, which requires a broader selection of images and the ability to search. 
 
@@ -31,11 +31,11 @@ Over time, I’ve developed an efficient do-whatever stock workflow for my own p
 
 	To allow for this approach, Pixabay has a thorough search and tagging system. You can plug in just about anything and get at least one interesting result. For example, I searched for “poverty” to get this image from Nepal.
 
-	<div class="full zoomable"><img src="/images/posts/find-image-you-need/povertynepal.jpg"></div>
+	{% include _image.html src="/images/posts/find-image-you-need/povertynepal.jpg" %}
 
 	The system also handed me an educational coloring book vector of the Cynic philosopher Diogenes living in a barrel, among pages of other choices.
 
-	<div class="full zoomable"><img src="/images/posts/find-image-you-need/povertydiogenes.png"></div>
+	{% include _image.html src="/images/posts/find-image-you-need/povertydiogenes.png" %}
 
 	While I don’t need a naked Greek man in a barrel at the moment, I appreciate that my search turned up such an indirect but related result. It's a good demonstration of a smart system. If you've ever searched a paid stock site for an abstract concept like "poverty" or "hunger," you've learned to expect the cringe-inducing studio shots of shiny, clean models pouting and holding their tummies. Pixabay will struggle with some nunaced searches in the same way, but it will handle quite a few of them with grace.
 
@@ -45,7 +45,7 @@ Over time, I’ve developed an efficient do-whatever stock workflow for my own p
 
 	(Sidenote: They’re also among the few no-attribution sites that pull those semi-awkward, infographic-ready digital illustrations you’ll need at some point.)
 
-<div class="full zoomable"><img src="/images/posts/find-image-you-need/infographicpeople.jpg"></div>
+{% include _image.html src="/images/posts/find-image-you-need/infographicpeople.jpg" %}
 
 * **2. [Unsplash](https://unsplash.com/), [Splitshire](https://www.splitshire.com/), and [Pexels](https://www.pexels.com/)**
   *When You’re Prioritizing Tone Over Subject*
@@ -54,11 +54,11 @@ Over time, I’ve developed an efficient do-whatever stock workflow for my own p
 
   That’s where [Unsplash](https://unsplash.com/), [Splitshire](https://www.splitshire.com/), [Pexels](https://www.pexels.com/), and their ilk can help. They all have semi-decent search functions, but they shine in categorization. 
 
-  <div class="full zoomable"><img src="/images/posts/find-image-you-need/girlincoat.jpg"></div>
+  {% include _image.html src="/images/posts/find-image-you-need/girlincoat.jpg" %}
 
   I found the young woman above on Splitshire. I knew I wanted a photo of 18- to 35-year-old women with a calm, confident feel. I happened upon a wintery image I liked under “People,” then spent about two minutes looking for a similar image with a contrasting tone under “Fashion.”
 
-  <div class="full zoomable"><img src="/images/posts/find-image-you-need/fashiongirlincoat.jpg"></div>
+  {% include _image.html src="/images/posts/find-image-you-need/fashiongirlincoat.jpg" %}
 
   When I ran searches for “woman cold,” “girl coat,” “snow fashion,” and similar combinations, Splitshire rolled its eyes at me. I tried the same searches on Pexels and Unsplash. None returned these images, or any like them.
 
@@ -79,14 +79,14 @@ Over time, I’ve developed an efficient do-whatever stock workflow for my own p
 
   Sometimes you just need a picture of a particular species of ladybug, and nothing else will do. 
 
-  <div class="full zoomable"><img src="/images/posts/find-image-you-need/ladybuggrid.jpg"></div>
+  {% include _image.html src="/images/posts/find-image-you-need/ladybuggrid.jpg" %}
   *©entomart*
 
   You’ll notice I needed to credit that. That’s why I head to these sources last; the requirements really do vary image by image, and I end up losing time and great finds. Flickr, at least, is theoretically set up to let you filter for usage types, but it’s undependable.
 
   Sometimes, once you know what you need by site, you can dupe it (unlabelled) from more general sources that you know are CC0. But not always.
 
-  <div class="full zoomable"><img src="/images/posts/find-image-you-need/ladybugplant.jpg"></div>
+  {% include _image.html src="/images/posts/find-image-you-need/ladybugplant.jpg" %}
 
   At that point, I’m happy to pay for traditional stock or give full credits. Keep an eye on the time/cost in your search. Know when to leave CC0 behind and grab an expert.
 

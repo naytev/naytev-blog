@@ -30,8 +30,7 @@ This analysis can help you benchmark your site’s performance and fine tune you
 
 Below is a breakdown of share volume for articles by publisher category. Facebook remains the dominant social sharing force for many publishers, but in two publisher categories, Facebook sharing has been handily bested by sharing from other networks.
 
-<div class="full zoomable"><img src="/images/posts/hard-simple-truth/dominate.png" ></div> 
-
+{% include _image.html  src="/images/posts/hard-simple-truth/dominate.png" %}
 
 The overall sharing spread is more diverse than we expected. Despite concerns about Twitter’s underwhelming platform growth, it still drives significant sharing for many publishers. In addition, Pinterest is huge for lifestyle content brands, driving up to 85% of their social sharing. This lopsided Pinterest sharing is a direct result of Lifestyle publications targeting an audience primed to Pin, and they are giving that audience more and better images than most other publishers. 
 
@@ -42,7 +41,7 @@ Bear a few things in mind with our results. First, this isn’t a comprehensive 
 Additionally, significant pigeonholing is inevitable in any categorical dataset. Today’s publishers are many things. Our results aren’t meant to map directly onto a complete publication. Rather, they present options that could help you optimize your social focus based on your content category. It might be worth looking into some beautiful, Pin-worthy photography sets for your next fashion feature, for example.
 
 
-<div class="full zoomable"><img src="/images/posts/hard-simple-truth/chalk.jpg" ></div> 
+{% include _image.html src="/images/posts/hard-simple-truth/chalk.jpg" %}
 
 ## Despite Diverse Sharing, One Network Rules Social Traffic
 
@@ -54,7 +53,7 @@ Social traffic is key for a modern publisher to thrive and stay relevant. The gl
 
 Twitter and Pinterest do outpace Facebook in shares for some publishers. When it comes to traffic, though, Facebook drives the overwhelming majority of social referrals for most publishers. As shown in the graph below, this trend holds true even for even for lifestyle publications; Pinterest may drive their shares, but not their traffic.
 
-<div class="full zoomable"><img src="/images/posts/hard-simple-truth/traffic.png" ></div> 
+{% include _image.html src="/images/posts/hard-simple-truth/traffic.png" %}
 
 This traffic breakdown above is from a typical top lifestyle publisher. This lopsided social referral traffic phenomenon holds true for technology publications too. Together, Twitter and Linkedin represent more shares for technology sites, but Facebook drives the clear majority of social traffic.
 

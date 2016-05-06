@@ -10,7 +10,7 @@ excerpt: "There is an important social engagement metric that is often overlooke
 author: mike_seid
 ---
 
-<div class="full zoomable"><img src="/images/posts/jump-start/funnel.png"></div>
+{% include _image.html src="/images/posts/jump-start/funnel.png" %}
 
 There is an important social engagement metric that is often overlooked – how many people who start to share your content actually follow through with the share.
 
@@ -32,7 +32,7 @@ We have a few tips for boosting your share message follow through:
 
 Knowing your current follow through rate and testing different messages is hard, but we’ve made both easy with Naytev. We show you exactly how many times your given piece of content doesn’t get posted. We call failed share conversions, “Bails”.
 
-<div class="full zoomable"><img src="/images/posts/jump-start/data.png"></div>
+{% include _image.html src="/images/posts/jump-start/data.png" %}
 
 As you can see in the example above, the first post was much more successful in terms of share follow through. The first post had a follow through of around 81% while the  second post only has a follow through rating of 47%. This metric can be an early indicator in how a social message will perform over time.
 

@@ -18,7 +18,7 @@ author: zack_liscio
 
 Will you be in Austin for SXSW Interactive next week? If so, I hope you’ll join Patrick and the Naytev team on Sunday afternoon, March 13, 2016 for one of the best media parties in town.
 
-<div class="full zoomable"><img src="/images/posts/sxsw-invite/fullinvite.jpg"></div>
+{% include _image.html src="/images/posts/sxsw-invite/fullinvite.jpg" %}
 
 
 We’re excited to announce that Naytev will be co-sponsoring the annual Awesomest Journalist Party Ever, along with the Knight Foundation, Fusion, and WordPress.

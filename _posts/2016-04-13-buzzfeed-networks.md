@@ -20,7 +20,7 @@ At the other end of the spectrum are sites like [NowThisNews](https://nowthisnew
 
 BuzzFeed’s solution to that problem is to forego the display advertising model of owned and earned properties. They are similar to NowThis in that 95% of their content engagement happens on platforms they do not own, mainly social channels. What makes this model possible is that they monetize their network by creating engaging content on behalf of clients (sponsored content) rather than appending ad units to their websites. This allows them to monetize reach far beyond the bounds of their website. Without the need to focus on bringing traffic back, they are free to make content that feels more natural and attuned to the specific network.
 
-<div class="full zoomable"><img src="/images/posts/buzzfeed-networks/mediamodels.png"></div>
+{% include _image.html src="/images/posts/buzzfeed-networks/mediamodels.png" %}
 
 ## Content
 
@@ -36,7 +36,7 @@ BuzzFeed is more than just a website, but it also goes beyond a collection of so
 
 Buzzfeed’s massive audience defines the company as much as its varied distribution channels do. That fact is not lost on investors. BuzzFeed has [raised hundreds of millions of dollars](https://www.crunchbase.com/organization/buzzfeed#/entity) because it gathers a large audience, then acts to  engage them in a coordinated way across so many channels. 
 
-<div class="full zoomable"><img src="/images/posts/buzzfeed-networks/frankcooper.jpeg"></div>
+{% include _image.html src="/images/posts/buzzfeed-networks/frankcooper.jpeg" %}
 
 At SXSW 2016 in March, CMO Frank Cooper (pictured above) [announced Swarm](http://www.adweek.com/news/technology/buzzfeed-launches-new-ad-format-further-monetize-its-big-social-reach-170172), which "allows advertisers to run campaigns simultaneously across all of his company's Web and mobile properties and six of its social platforms: Snapchat Discover, Vine, YouTube, Facebook, Instagram and Tumblr." This new product demonstrates why BuzzFeed works outside of a traditional owned and earned property. It is able to parlay the value of a coordinated, cross-channel media push into enormous measurable value for their clients, without relying on plastering tired banner ads across the homepage. 
 

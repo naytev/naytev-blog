@@ -38,7 +38,7 @@ layout: null
                 <h1>{{ post.title | xml_escape }}</h1>
                 <h2>{{ post.subtitle | xml_escape }}</h2>
                 <figure>
-                  <img src="/images/{{ post.cover_image }}" />
+                  <img src="{{site.url}}/images/{{ post.cover_image }}" />
                 </figure>
                 <address><a>{{ site.data.authors[post.author].name }}</a></address>
                 <time class="op-published" datetime="{{ post.date }}">{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</time>

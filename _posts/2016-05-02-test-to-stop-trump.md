@@ -28,15 +28,15 @@ Here's how we did it:
 
   We created our target audiences for each state directly in Facebook's Power Editor: Audiences >> Create Audience >> Saved Audience so that we could target by any data Facebook has available.
 
-<div class="full zoomable"><img src="/images/posts/stop-trump/californiaresidents.png"></div>
+{% include _image.html src="/images/posts/stop-trump/californiaresidents.png" %}
 
   Because the absence of a college degree was such a strong predictor of support for Donald Trump, we excluded anyone with a degree from our test.
 
-<div class="full zoomable"><img src="/images/posts/stop-trump/education.png"></div>
+{% include _image.html src="/images/posts/stop-trump/education.png" %}
 
   Our final audiences have 1.7 million people in Indiana and 12 million people in California.
 
-<div class="full zoomable"><img src="/images/posts/stop-trump/audiences.png"></div>
+{% include _image.html src="/images/posts/stop-trump/audiences.png" %}
 *Facebook Audience of Adults Without College Degrees*  
 
 * **2. Design Test Messaging**
@@ -63,17 +63,17 @@ Here's how we did it:
 
   We loaded all of our versions of the headlines and images into Naytev, generated every available combination (2 images x 3 headlines = 6 messages per test), and paired each state's messaging with its respective audience. Pairing messages created some mixed sentiment posts (e.g. silly Trump image + pro Trump headline), which we were curious to evaluate too. We applied a $100 ad spend for both the California and Indiana test messages, for a total spend of $200.
 
-<div class="full zoomable"><img src="/images/posts/stop-trump/california.png"></div>
+{% include _image.html src="/images/posts/stop-trump/california.png" %}
 *Preview of California Test Messages: Positive, Negative, Neutral, and Mixed*
 
 * **4. Analyze Results**
 
   Here are the finished results:
 
-<div class="full zoomable"><img src="/images/posts/stop-trump/californiaresults.png"></div>
+{% include _image.html src="/images/posts/stop-trump/californiaresults.png" %}
 *California Results: Slightly Pro-Trump Message Engages Most*
 
-<div class="full zoomable"><img src="/images/posts/stop-trump/indianaresults.png"></div>
+{% include _image.html src="/images/posts/stop-trump/indianaresults.png" %}
 *Indiana Results: Similar Messaging Ranking, but Weaker Discourse than California*
 
   What did we learn? Here are our main takeaways:
@@ -82,13 +82,13 @@ Here's how we did it:
 
   - The neutral headline phrased as a question drove the highest post engagement in both states. Asking whether voters should vote for Trump in their state incited an enormous volume of comments (over 200 on each of the top messages). This a great way to generate visibility through conversation, but ultimately much harder to control, as the conversations quickly degenerated into vile name calling. 
 
-<div class="full zoomable"><img src="/images/posts/stop-trump/dissonance.png"></div>
+{% include _image.html src="/images/posts/stop-trump/dissonance.png" %}
 
   - **The negative image / positive headline combination (above) generated the highest CTR and lowest CPC in both states.** We believe that the dissonance of the pairing created a strong curiosity gap without triggering readers' clickbait senses. These message combinations take a strong opinion in one direction, so it's unsurprising that they perform well. As Refinery29 points out, ["Titles with negative qualifiers have on average 135% more comments per article than other stories and 28% more shares"](http://intelligence.r29.com/post/123550777526/3-ways-to-immediately-make-your-facebook-posts). In the case of our test, the question headline seems to encouraged divisive comments which themselves yielded continued high engagement.
 
   - **People are commenting without clicking through.** The top message in California had hundreds of comments but only 73 clicks. Additionally, the link would have directed them to a non-partisan site helping explore which candidates match the user's view, so no strong opinions there. The vast majority of people who engaged with our test were willing to add their opinion to the comment thread without feeling any obligation to read the link they were commenting on.
 
-<div class="full zoomable"><img src="/images/posts/stop-trump/results.png"></div> 
+{% include _image.html src="/images/posts/stop-trump/results.png" %} 
 
   So, how does this help us stop Trump? Anyone using Facebook in the past year (all 1.6bn of us) has noticed that the upcoming election is a hot topic. For better or worse, our reality is that the News Feed is increasingly the place where ideas are discovered, consumed, and debated. Those able to harness the power of digital [will win elections]({% post_url 2015-01-09-how-to-win-2016-elections-6-cutting-edge-digital-tactics %}), and testing helps us do that effectively and refine our tactics as we learn. If we hope to change minds, the first step is understanding how to reach voters on their terms and in ways that engage them. Only then do we have a chance of preventing [the Donald Drumpf](https://www.youtube.com/watch?v=DnpO_RTSNmQ).
 

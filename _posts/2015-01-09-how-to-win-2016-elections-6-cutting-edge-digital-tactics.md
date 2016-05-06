@@ -23,17 +23,17 @@ Having run digital for a winning campaign in one of the closest U.S. Senate elec
 * **1. View Goals Through The Acquisition Marketing Lens:**
   Focus on what matters most: acquiring enough voters to win. Acquiring more voters will hinge in part on acquiring more volunteers to identify voters and turn them out to the polls. Both voter and volunteer acquisition are enabled by acquiring more donors who will provide larger amounts of capital. Fundamentally, acquisition marketing is what campaigns are all about. Message matters, too, but only insofar as it furthers these three acquisition goals. 
 
-  <div class="full zoomable"><img src="/images/posts/elections/pyramid.png"></div>
+  {% include _image.html src="/images/posts/elections/pyramid.png" %}
 
 * **2. Approach Acquisition With An Emphasis On Customer Lifetime Value (CLV):**
   While not everything that matters can be measured, not everything that can be measured matters. Focus on measuring metrics in a meaningful way. Measure which type of donor provides the greatest CLV: those acquired through online search, email campaigns, or social media. Is a Facebook supporter more valuable than a Twitter follower? Measure and find out using a URL builder tool that tracks the origin of a donor, then monitor how much that donor gives over time. Remember that CLV can also be measured through volunteer activity metrics like door knocks or phone calls, too. 
 
-  <div class="full zoomable"><img src="/images/posts/elections/wordofmouth.png"></div>
+  {% include _image.html src="/images/posts/elections/wordofmouth.png" %}
 
 * **3. Use Social Media With A Greater Emphasis On Influencer Marketing:**
   The key to success on social is robust engagement, but political organizations have varying levels of resources, whether money or manpower. Become smarter about engagement by identifying and prioritizing those social media supporters (or potential supporters) with a larger online audience and, more importantly, greater influence. Is a supporter’s social action more likely to be shared?  Working with a strong base of influencers, who might share the persona of Amy Awesome below, will provide great customer referral value (CRV) and boost your online influence. 
 
-  <div class="full zoomable"><img src="/images/posts/elections/amyawesome.png"></div>
+  {% include _image.html src="/images/posts/elections/amyawesome.png" %}
 
 * **4. Make A-B Testing An Essential Component Of All Digital Marketing Efforts:**
   Whether you’re running online ads or email campaigns, anything digital can be tested and optimized. Solutions like [Optimizely](https://www.optimizely.com/) have made A-B testing for websites and mobile apps easier than it’s ever been. A-B testing for social sharing that indicates the best headlines, copy, and images can also provide a new and critical means to boost digital marketing efforts, particularly given the tremendous source of website traffic provided by social media. This will foster greater awareness and higher acquisition conversion rates, leading to more victories.

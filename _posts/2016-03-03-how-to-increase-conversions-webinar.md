@@ -14,7 +14,7 @@ author: patrick_costello
 * **Co-hosted with Bounce Exchange**  
 * [**RSVP**](http://www.bounceexchange.com/webinars/increase-conversions-across-every-step-in-the-reader-journey.html) it's going to be great!
 
-<div class="full zoomable"><img src="/images/posts/webinar-increase-conversions/promocropped.jpg"></div>
+{% include _image.html src="/images/posts/webinar-increase-conversions/promocropped.jpg" %}
 
 Hi, everyone! 
 
@@ -22,7 +22,7 @@ We'd like to invite you to join a webinar Naytev is co-hosting with Bounce Excha
 
 A learning opportunity for beginners and seasoned testers alike!
 
-<div class="full zoomable"><img src="/images/posts/webinar-increase-conversions/promo.png"></div>
+{% include _image.html src="/images/posts/webinar-increase-conversions/promo.png" %}
 
 **Background:** It's not enough to make your articles and landing pages high-converting powerhouses. You've got to focus on the top of the funnel as well. 
 

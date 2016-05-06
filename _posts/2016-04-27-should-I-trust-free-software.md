@@ -11,7 +11,7 @@ There are a host of free plugins available for adding social share buttons to a 
 
 * **1 - Conflicts of Interest**
   
-  <div class="full zoomable"><img src="/images/posts/free-software/venn.png"></div> 
+  {% include _image.html src="/images/posts/free-software/venn.png" %} 
   
   Supporting software costs money. Servers, developers, and all the other costs of running a business add up, and if the business isn't charging you directly, they've probably found a more lucrative way to monetize the relationship. When it comes to share buttons, there's a good chance you're the product. 
   
@@ -21,13 +21,13 @@ There are a host of free plugins available for adding social share buttons to a 
   
 * **2 - Website Performance**
   
-  <div class="full zoomable"><img src="/images/posts/free-software/speed.jpg"></div>
+  {% include _image.html src="/images/posts/free-software/speed.jpg" %}
   
   Making money through alternative means like advertising also comes with big performance implications. For example, in a [recent review of 10 different share button providers](https://www.xfive.co/blog/social-media-buttons-test-performance-privacy-features/), the worst performer, [ShareThis](http://www.sharethis.com), made 36 external requests and loaded 469kb of data. According to the author, ShareThis alone took over 6 seconds to load. In case you're curious, here are the details on [all the behind the scenes activity](http://www.webpagetest.org/result/150612_S8_PHW/3/details/) from this "free" resource. Outside the necessary requests for loading the buttons themselves, most of the calls are to a host of ad trackers which follow you around the internet.  
   
 * **3 - Product Support**
  
-  <div class="full zoomable"><img src="/images/posts/free-software/support.jpg"></div>
+  {% include _image.html src="/images/posts/free-software/support.jpg" %}
   
   Free software sometimes has unseen costs in the form of support. Unlike software you're paying to use, free social share buttons do not typically guarantee the same level of support that Enterprise software does. While this isn't as big of a deal for smaller blogs, major websites and publishers require quick responses and fixes. Unexpected bug fixes without support can be costly in both developer time and poor user experience.  
 

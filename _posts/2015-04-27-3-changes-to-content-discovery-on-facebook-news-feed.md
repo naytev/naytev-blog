@@ -10,7 +10,7 @@ excerpt: On Tuesday, April 21st Facebook announced updates to what content is di
 author: edward_ridgely
 ---
 
-<div class="full zoomable"><img src="/images/posts/newsfeed-changes/balance.png"></div> 
+{% include _image.html src="/images/posts/newsfeed-changes/balance.png" %} 
 
 On Tuesday, April 21st Facebook [announced updates](http://newsroom.fb.com/news/2015/04/news-feed-fyi-balancing-content-from-friends-and-pages/) to what content is displayed in each user’s Facebook News Feed. Here's a quick overview of the most important takeaways for your content:
 
@@ -32,7 +32,7 @@ On Tuesday, April 21st Facebook [announced updates](http://newsroom.fb.com/news/
 
 *What this means for you:* As with the second update, this further solidifies organic sharing as the primary driver of visibility on social. Likes and comments are still helpful, but shares are king. The Naytev team has seen this transition first hand – read more about it in our blog post, [“The Facebook Share Button vs. Like Button Showdown”](http://blog.naytev.com/facebook-share-button-vs-like-button-showdown/).
 
-<div class="full zoomable"><img src="/images/posts/newsfeed-changes/jaspers.png"></div> 
+{% include _image.html src="/images/posts/newsfeed-changes/jaspers.png" %} 
 
 ## Facebook will deprioritize posts like the one above where users like or comment on a post shared by a brand (e.g. Jasper’s Market)
 

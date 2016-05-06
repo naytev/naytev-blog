@@ -16,7 +16,7 @@ author: naytev
 
 Dark Testing is the secret art of using Unpublished Page Posts on Facebook to test your images and headlines before you post. We've compiled a simple guide to help explain what Dark Testing is, why you'd want to use it, and the best way to integrate it with your workflow. We'll outline how to do it yourself manually and how to use a tool like Naytev to create tests ten times faster. 
 
-<div class="full zoomable"><img src="/images/guides/dark/naytev.png"></div>
+{% include _image.html src="/images/guides/dark/naytev.png" %}
 
 The first three articles are available now:
 

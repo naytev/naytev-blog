@@ -20,7 +20,7 @@ Now, top networks are going a step further, replacing publication websites as th
 
 **Network Distribution is Redefining the Content Industry**
 
-<div class="full zoomable"><img src="/images/posts/publishers-must-adapt/distributed.png"></div>
+{% include _image.html src="/images/posts/publishers-must-adapt/distributed.png" %}
 
 The transition to consuming content on distributed networks is natural. Audiences already spend the majority of their time on these platforms, and the direct integration of content provides a faster, more uniform experience. Already [bloated with ad trackers](http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html) and suffering from the [rise of ad blockers](http://digiday.com/publishers/global-rise-ad-blocking-4-charts/), publishers are unable to compete with distribution channels like Facebook Instant Articles and Google AMP. Yet they cannot afford to forego the exposure these channels offer.  
 
@@ -28,7 +28,7 @@ As a result, readers’ habits are deepening within these channels, which now co
 
 **Audiences Are Building Strong Habits Around Distributed Networks **
 
-<div class="full zoomable"><img src="/images/posts/publishers-must-adapt/1in5.png"></div>
+{% include _image.html src="/images/posts/publishers-must-adapt/1in5.png" %}
 
 Most publishers have already recognized this behavior shift, and many are investing heavily to diversify their cross-platform reach. Some publishers are choosing to center their entire business strategy on distributed content. [NowThis News, for example, is a new publisher that presents zero content on their website](https://nowthisnews.com/); instead they distribute content across 8 social platforms.
 

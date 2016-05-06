@@ -19,27 +19,27 @@ Naytev has found that only about 6% social sharing takes place via share buttons
 
 Here’s an insider secret – 80% to 90% of people share content with their social networks manually, by copying a URL and pasting it directly as an update. The remaining 5-10% share via mobile browsers, news readers (e.g. Feedly), and internally on Facebook.
 
-<div class="full zoomable"><img src="/images/posts/button-nobody-clicks/sixpercent.png"></div>
+{% include _image.html src="/images/posts/button-nobody-clicks/sixpercent.png" %}
 
 _Note: We focus on Facebook and Twitter as part of this analysis. In aggregate, these networks account for 85%+ of shares on the major sites Naytev works with._
 
 Let’s consider the implications of low share button use for an article that gets 10,000 pageviews. If 2% of those pageviews convert to Facebook shares, you would get 200 shares. Of those 200 Facebook shares, 10 might be button shares. Thus, only 0.10% of traffic used the article’s Facebook share button. This clickthrough rate is in the same low range as what you commonly see when running a display ad campaign.
 
-<div class="full zoomable"><img src="/images/posts/button-nobody-clicks/website.png"></div>
+{% include _image.html src="/images/posts/button-nobody-clicks/website.png" %}
 
 You may wonder how share button use can be so low, despite button visual prevalence and indicators of engagement. Visual indicators can be misleading. For example, Facebook share counts rarely tell you the actual number of shares – it is common practice for these counts to aggregate many types of social engagement. In contrast, Twitter counts reflect just Tweets (i.e. “Favorites” are not included).
 
-<div class="full zoomable"><img src="/images/posts/button-nobody-clicks/buttons.png"></div>
+{% include _image.html src="/images/posts/button-nobody-clicks/buttons.png" %}
 
 For Facebook, the share count typically reflects the sum of shares, comments, and likes. Likes normally represent the majority of the “share” activity in these counts, which can make it difficult to tell how many actual shares took place.
 
-<div class="full zoomable"><img src="/images/posts/button-nobody-clicks/tool.png"></div>
+{% include _image.html src="/images/posts/button-nobody-clicks/tool.png" %}
 
 > People Use the Twitter Tweet Button More than the Facebook Share Button
 
 5.4% of Facebook shares take place via buttons, while 8.2% of Tweets take place via buttons. Furthermore, we found that the use of Facebook share buttons is steady across the sites we assessed, but  the use of Tweet button can spike, occasionally clearing 20%. These spikes are often correlated with sites that often produce viral content and use very conspicuous share buttons. We explore button display in our post, [7 Share Button Techniques To Boost Your Website on Social](http://blog.naytev.com/7-share-button-techniques-boost-website-social/).
 
-<div class="full zoomable"><img src="/images/posts/button-nobody-clicks/twitter.png"></div>
+{% include _image.html src="/images/posts/button-nobody-clicks/twitter.png" %}
 
 The greater use of Tweet buttons can be explained by differences in sharing between Twitter and Facebook. If you paste a link into your Facebook feed, your post will auto populate with rich media, achieving the same result as if you used the Facebook share button – there’s no need for you to write anything.
 
@@ -47,7 +47,7 @@ However, if you paste the same link into your Twitter feed, the Tweet will not a
 
 Ultimately, using the Tweet button ensures a sharer’s post includes some engaging content, which is the point of sharing to begin with. Below is an example of the auto-population on Facebook vs. the empty Tweet when you manually share a recent Naytev post, [The Facebook Share Button vs. Like Button Showdown](http://blog.naytev.com/facebook-share-button-vs-like-button-showdown):
 
-<div class="full zoomable"><img src="/images/posts/button-nobody-clicks/richmedia.png"></div>
+{% include _image.html src="/images/posts/button-nobody-clicks/richmedia.png" %}
 
 ## Why You Should Still Use Share Buttons
 

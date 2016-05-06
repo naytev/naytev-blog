@@ -19,7 +19,7 @@ Facebook sharing is the cornerstone of social visibility for most sites. We high
 
 Facebook has been systematically cutting the reach of brand Pages, leading to what some have called the [“Death of Organic Reach”](http://marketingland.com/facebook-kills-organic-reach-108160). It’s even worse when people Like a specific page (e.g. an article). As Buffer recently highlighted, Liking a piece of content is a [near empty exchange](https://blog.bufferapp.com/facebook-like-button).
 
-<div class="full zoomable"><img src="/images/posts/button-techniques/vs.png"></div> 
+{% include _image.html src="/images/posts/button-techniques/vs.png" %} 
 
 In contrast, Shares provides reliable, high-quality word-of-mouth exposure to the sharer’s network of friends. The high visibility of each new share adds up, driving extensive engagement. In conclusion, ditch your Like buttons and keep the focus on Sharing.
 
@@ -27,7 +27,7 @@ In contrast, Shares provides reliable, high-quality word-of-mouth exposure to th
 
 Just because you can add share buttons for a dozen networks doesn’t mean you should. Using too many share options creates visual clutter and can lead to share decision paralysis.
 
-<div class="full zoomable"><img src="/images/posts/button-techniques/twotofour.png"></div> 
+{% include _image.html src="/images/posts/button-techniques/twotofour.png" %} 
 
 We recommend showing just the 2-4 social channels that are most valuable to your brand. Below are some suggested button lineups. We recommend including an email share button with each lineup.
 
@@ -50,15 +50,15 @@ We recommend using a horizontal share bar at the top and bottom of each article,
 
 * Horizontal Share Feature at Top of Page
 
-<div class="full zoomable"><img src="/images/posts/button-techniques/best.png"></div> 
+{% include _image.html src="/images/posts/button-techniques/best.png" %} 
 
 * Floating Vertical Share Feature Visible As Reader Scrolls
 
-<div class="full zoomable"><img src="/images/posts/button-techniques/floating.png"></div> 
+{% include _image.html src="/images/posts/button-techniques/floating.png" %} 
 
 * Horizontal Share Feature at Bottom of Page
 
- <div class="full zoomable"><img src="/images/posts/button-techniques/horiz.png"></div> 
+ {% include _image.html src="/images/posts/button-techniques/horiz.png" %} 
 
 * Know When to Show Your Share Counts
 
@@ -68,7 +68,7 @@ We don’t recommend using share counts unless your content is regularly driving
 
 With that said, it’s not a problem if you choose to not show share counts; several leading websites don’t use share counts either (e.g. The Washington Post).
 
-<div class="full zoomable"><img src="/images/posts/button-techniques/comparison.png"></div> 
+{% include _image.html src="/images/posts/button-techniques/comparison.png" %} 
 
 * Use Mobile Friendly Share Buttons
 
@@ -76,7 +76,7 @@ Site visitors are increasingly engaging with content on the go. Providing highly
 
 Mobile sharing features can take a variety of different styles, from fixed horizontal buttons to a single button that reveals more options. If you view this post from your phone you can see the mobile share buttons that we use. Clicking the red share arrow will reveal several share options.
 
-<div class="full zoomable"><img src="/images/posts/button-techniques/mobile.png"></div> 
+{% include _image.html src="/images/posts/button-techniques/mobile.png" %} 
 
 This mobile feature above comes with Naytev’s free share buttons, is fully customizable, and can be turned on with a simple switch.
 
@@ -96,7 +96,7 @@ Top publishers and brands now amplify the reach of shares that take place on the
 
 Default share messages, defined in your site’s Open Graph (OG) tags, normally use the title and first image on your page. However, these default messages often don’t engage people on social as well as they could. When you don’t test your share messages, you put all your eggs in one basket, and may miss out on thousands of new word-of-mouth visitors monthly.
 
-<div class="full zoomable"><img src="/images/posts/button-techniques/ab.png"></div> 
+{% include _image.html src="/images/posts/button-techniques/ab.png" %} 
 
 Here’s an example of how [VentureBeat saw a nearly 700% boost in Twitter engagement](https://www.naytev.com/casestudy/venturebeat) by simply testing different Tweet messages.
 

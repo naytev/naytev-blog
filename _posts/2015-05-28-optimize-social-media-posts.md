@@ -20,19 +20,19 @@ We’re often asked: “Can Naytev boost engagement on my Facebook Fan Page or T
 
 ## Post Content Proven To Work – Illustrative Testing and Reposting
 
-<div class="full zoomable"><img src="/images/posts/optimize-posts/publisher.png"></div> 
+{% include _image.html src="/images/posts/optimize-posts/publisher.png" %} 
 
 In this post we’ll share a technique used by many Naytev clients: Take top performing share messages from your active Naytev experiments, and repost these proven messages to your Facebook fans and Twitter followers. For Naytev, that means posting the winning message via our [Naytev Facebook Fan Page](http://blog.naytev.com/optimize-social-media-posts/www.facebook.com/naytev) and Twitter Handle ([@GoNaytev](http://www.twitter.com/gonaytev)) to drive even more engagement. Below is a sample of reposting a message from a Naytev experiment to Naytev’s Facebook Account.
 
 ## Select A Top Share Message Identified In Your Naytev Experiment Dashboard and Post the Message On Your Facebook Page
 
-<div class="full zoomable"><img src="/images/posts/optimize-posts/repost.png"></div> 
+{% include _image.html src="/images/posts/optimize-posts/repost.png" %} 
 
 Be sure to wait until your Naytev share message experiment has at least preliminary results ready, as indicated by the Phase Indicator in your Naytev Experiment dashboard. The beaker icon indicates that preliminary results are ready, and the check mark icon indicates that final results are ready.
 
 ## 2 Experiment Phases With Sufficient Data to Enable Enhanced Reposting
 
-<div class="full zoomable"><img src="/images/posts/optimize-posts/phases.png"></div> 
+{% include _image.html src="/images/posts/optimize-posts/phases.png" %} 
 
 Once the experiment is ready, repost away. With social [page reach falling precipitously](http://blog.naytev.com/its-not-your-fault-but-your-share-button-sucks/) it’s more important now than ever to optimize social media reposting. Naytev gives you the tools to drive much more engagement from your social reposts.
 
