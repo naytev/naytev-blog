@@ -18,11 +18,11 @@ As we wrote last week, [publishers must adapt]({% post_url 2016-04-08-publishers
 
 Adoption has been comparatively slow as these initial top publishers cautiously tested the program. However, Instant Articles are poised to gain rapid adoption across sites of all sizes with this general release. There are two forces driving this: competitive pressure and ease of integration.
 
-### Ease of Integration
+## Ease of Integration
 
 It is now frictionless for even long tail websites to integrate with Instant Articles. For starters, there are [WordPress](https://wordpress.org/) and [Drupal](https://www.drupal.org/) plugins, making it easy for CMS integrations to take advantage of this new format. WordPress alone represents  [over 75 million websites as of 2014](https://managewp.com/14-surprising-statistics-about-wordpress-usage/), and Drupal represents [12% of the top 100,000 websites](http://www.itworld.com/article/2700748/big-data/not-a-drop-in-the-bucket--more-than-1-million-websites-now-use-drupal.html). Medium has also announced that they'll be releasing Instant Articles support in the coming weeks.
 
-### Competitive Pressure
+## Competitive Pressure
 
 Facebook has never directly indicated that Instant Articles will be prioritized over traditional links in the News Feed. That said, the platform rewards low abandonment, high user engagement, and happy users, all of which are clear benefits of the new format. Instant Articles will quickly reach critical mass, with publishers unable to compete if others in their categories are publishing directly to Facebook. No one who relies on Facebook for traffic (i.e. every publisher) will be able to resist once the format gains momentum.
 

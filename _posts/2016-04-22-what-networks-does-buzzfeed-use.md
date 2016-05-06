@@ -33,7 +33,7 @@ BuzzFeed's distribution strategy is most interesting when considered in the cont
 
 -----
 
-### The Full List (45 distribution channels)
+## The Full List (45 distribution channels)
 
 * **Social Networks & Platforms (10)**
 	* Facebook

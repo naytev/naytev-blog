@@ -49,7 +49,7 @@ Ultimately, using the Tweet button ensures a sharer’s post includes some engag
 
 <div class="full zoomable"><img src="/images/posts/button-nobody-clicks/richmedia.png"></div>
 
-### Why You Should Still Use Share Buttons
+## Why You Should Still Use Share Buttons
 
 While share button use is relatively low, we still highly recommend including them on your website or blog. Here’s why:
 

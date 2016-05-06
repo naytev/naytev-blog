@@ -26,7 +26,7 @@ We analyzed 65,000 recent articles across a range of top publishers we work with
 This analysis can help you benchmark your site’s performance and fine tune your social strategy.
 
 
-### Social Sharing Is Lopsided, With Some Surprise Winners
+## Social Sharing Is Lopsided, With Some Surprise Winners
 
 Below is a breakdown of share volume for articles by publisher category. Facebook remains the dominant social sharing force for many publishers, but in two publisher categories, Facebook sharing has been handily bested by sharing from other networks.
 
@@ -44,7 +44,7 @@ Additionally, significant pigeonholing is inevitable in any categorical dataset.
 
 <div class="full zoomable"><img src="/images/posts/hard-simple-truth/chalk.jpg" ></div> 
 
-### Despite Diverse Sharing, One Network Rules Social Traffic
+## Despite Diverse Sharing, One Network Rules Social Traffic
 
 Shares are not the only valuable social performance metric; **your social content needs to drive people to your site too.**
 
@@ -60,7 +60,7 @@ This traffic breakdown above is from a typical top lifestyle publisher. This lop
 
 The power of Facebook referral traffic is both a boon and a risk for publishers. Tapping into the traffic growth opportunities offered by Facebook can accelerate you past many publishers. At the same time, relying on Facebook too much may cause you to miss opportunities on other platforms, and expose you to large traffic swings with Facebook’s ongoing content display algorithm changes.
 
-### Ride the Facebook Wave, but Don’t Forget to Develop Cross-Platform Loyalty 
+## Ride the Facebook Wave, but Don’t Forget to Develop Cross-Platform Loyalty 
 
 While you can achieve great sharing success on a variety of platforms, Facebook offers the biggest, fastest boost in traffic that social has to offer.
 
@@ -71,7 +71,7 @@ We see great opportunities for publishers to amplify their visibility on their m
 Whatever your current social engagement strategies may be, we hope this update on the state of sharing and social referral traffic helps your team enhance them.
 
 
-### Postscript: A Little More About the Data Analyzed
+## Postscript: A Little More About the Data Analyzed
 
 All analysis was conducted using Naytev’s platform. You can learn more about Naytev here, and even try it free for 14 days.
 

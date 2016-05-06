@@ -17,7 +17,7 @@ There are many sources available for stock photos, but not all are equally equip
 
 Thanks to their sheer aesthetic power, sites like these top out nearly every free stock recommendation list. They make fantastic browsing, and sometimes they’re exactly what you need. But more often than not, you need images that suit what’s already written, which requires a broader selection of images and the ability to search. 
 
-#### Find What You Need
+## Find What You Need
 Over time, I’ve developed an efficient do-whatever stock workflow for my own projects. All of the images on Naytev's blog are copyright-free, and we're always looking for new ways to integrate the great patchwork of no-attribution collections into our everyday work. The steps I follow allow me to find the perfect image as quickly as possible, while still allowing the unexpected to catch my eye. 
 
 * **1. [Pixabay](https://pixabay.com/)**

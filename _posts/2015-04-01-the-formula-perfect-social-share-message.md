@@ -124,7 +124,7 @@ Our team is in a unique position to identify what messaging drives the greatest 
 
 		Naytev enables you to easily modify and test different ways of how your content will show up when people share it on Facebook and Twitter. The examples we shared in this post are sourced from messages our team has created and tested for a variety of major publishers. You can learn more and <a href="https://www.naytev.com/signup" class="naytev-sponsored-link">start a free 14 day trial of Naytev here</a>.
 
-### Key Takeaways
+## Key Takeaways
 
 In short, keep these practices below in mind when crafting your share messages:
 

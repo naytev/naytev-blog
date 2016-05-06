@@ -26,7 +26,7 @@ So not only do you need pictures, you need relevant, quality pictures that your 
 
 <div class="full zoomable"><img src="/images/posts/lame-stock-photos/bummerbunny.jpg"></div> 
 
-#### Image Is Everything
+Image Is Everything**
 It’s always been a monumental task to find good images, and it will only get harder from here.
 
 When I say “good,” I mean a lot of things: relevant, high-quality, colorful, fresh, and dynamic, just to start. 
@@ -43,7 +43,7 @@ All the forces that are making it difficult to find fresh images are also encour
 
 These photographers and artists aren’t taking traditional stock photos. They’re capturing their lives and everything surrounding them. They’re sharing it all online, hoping someone would like to use it. Best of all, many are sharing that great content freely, with no use limitations or stipulations at all.
 
-#### The “Do Whatever You Want” Dedication
+**The “Do Whatever You Want” Dedication**
 In 2009, Creative Commons launched CC0 1.0, a “dedication” with which photographers and artists could waive all rights to a given image. With one neat dodge, this universal waiver let creators set most U.S. copyright restrictions aside. 
 
 That means that you, dear reader, get to use them for free. No strings attached. You can:
@@ -55,7 +55,7 @@ That means that you, dear reader, get to use them for free. No strings attached.
 
 In the 7 years that have followed CC0's debut, a number of extraordinary resources have sprung up. Through CC0 or similar personal waivers, professional-grade photographers have started “do whatever you want” sites of their own, and larger sites have sprung up to pool those resources into more searchable formats. 
 
-#### The New Stock-Makers
+**The New Stock-Makers**
 
 “Stock photos” have a terrible reputation, mostly deserved. As a genre of photography, it has created a recognizably dead-eyed version of real life. [(Just look at “Women Laughing Alone With Salad”.)](http://womenlaughingalonewithsalad.tumblr.com/) People know a stock photo when they see one.
  
@@ -71,5 +71,5 @@ In our upcoming posts, we’ll walk through the best of the “do whatever you w
 
 So, reader, let us know when you’ve dumped iStock. We’ll be here.
 
-{% include _figure.html src="/images/posts/lame-stock-photos/badbunny2.jpg" caption="Or you could stick with the irrelevant rabbit pics, I guess." %}
-
+<div class="full zoomable"><img src="/images/posts/lame-stock-photos/badbunny2.jpg" ></div> 
+*Or you could stick with the irrelevant rabbit pics, I guess.*

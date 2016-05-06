@@ -12,25 +12,25 @@ categories: [optimization, social sharing]
 author: edward_ridgely
 ---
 
-### Drive More Engagement By Making Data Driven Decisions
+## Drive More Engagement By Making Data Driven Decisions
 
  Your content only gets one first impression. Naytev makes sure it’s the right one by tracking and optimizing organic sharing. The insights we learn from the optimization can be applied across a brand’s larger social strategy.
 
 We’re often asked: “Can Naytev boost engagement on my Facebook Fan Page or Twitter handle?” The answer is yes.
 
-### Post Content Proven To Work – Illustrative Testing and Reposting
+## Post Content Proven To Work – Illustrative Testing and Reposting
 
 <div class="full zoomable"><img src="/images/posts/optimize-posts/publisher.png"></div> 
 
 In this post we’ll share a technique used by many Naytev clients: Take top performing share messages from your active Naytev experiments, and repost these proven messages to your Facebook fans and Twitter followers. For Naytev, that means posting the winning message via our [Naytev Facebook Fan Page](http://blog.naytev.com/optimize-social-media-posts/www.facebook.com/naytev) and Twitter Handle ([@GoNaytev](http://www.twitter.com/gonaytev)) to drive even more engagement. Below is a sample of reposting a message from a Naytev experiment to Naytev’s Facebook Account.
 
-### Select A Top Share Message Identified In Your Naytev Experiment Dashboard and Post the Message On Your Facebook Page
+## Select A Top Share Message Identified In Your Naytev Experiment Dashboard and Post the Message On Your Facebook Page
 
 <div class="full zoomable"><img src="/images/posts/optimize-posts/repost.png"></div> 
 
 Be sure to wait until your Naytev share message experiment has at least preliminary results ready, as indicated by the Phase Indicator in your Naytev Experiment dashboard. The beaker icon indicates that preliminary results are ready, and the check mark icon indicates that final results are ready.
 
-### 2 Experiment Phases With Sufficient Data to Enable Enhanced Reposting
+## 2 Experiment Phases With Sufficient Data to Enable Enhanced Reposting
 
 <div class="full zoomable"><img src="/images/posts/optimize-posts/phases.png"></div> 
 

@@ -12,7 +12,7 @@ author: mark_pierotti
 
 As part of the Naytev engineering team, I’m frequently asked about why we chose to use [Scala](http://www.scala-lang.org/) as our primary development language.  This question is a blast to answer because I get to talk about its fantastic [concurrency API](http://www.scala-lang.org/api/current/index.html#scala.concurrent.package) and the ease with which you can pump the most raw horsepower out of your servers.  The real star of the show is Scala’s Future[T] data type (and the libraries which help you create instances of it). 
 
-### Addressing A Common Problem
+## Addressing A Common Problem
 
 To get a better sense of why this really matters, consider a situation in which you must expose a REST endpoint that is responsible for calling out to four 3rd party API’s, aggregating the results, and returning a combined value to your client.
 
@@ -34,7 +34,7 @@ If we assume n to be about 200ms, this function’s duration comes out to a whop
 
 We can do better than this.
 
-### The Power of the Future[T]
+## The Power of the Future[T]
 
 Enter the Future type.  A future is a wrapper for a value that will be available at some indefinite point in the future.
 
@@ -98,7 +98,7 @@ The magic is that the for-comprehension synchronizes the results of all the sub-
 
 Finally, the _Await.await(...)_ call allows us to finally unwrap the value of the future by waiting for its result to pop into existence.
 
-### Scala In Production
+## Scala In Production
 
 Futures are a powerful abstraction that let us work with the results of asynchronous calls without having to actually block a result until the last possible moment. They let us easily manage parallelism through composition, giving us the ability to make our servers work at their full multi-threaded capacity wherever possible.
 

@@ -42,7 +42,7 @@ It seems a foregone conclusion that a modern media company cannot exist in isola
 
 While Facebook will continue to dominate social in the near future, publishers are wary of becoming overly dependent on a single network for the existence of their content. Facebook may still be king, but it’s clear publishers are continuing to experiment with distribution beyond Facebook and their websites, and their varying successes and failures reveal the first glimpse of how this fragmented distribution paradigm will change the face of media.
 
-### Methodology: 
+## Methodology: 
 
 * **Publishers:** The 7 unique media brands from <a href="http://blog.shareablee.com/top-10-media-publishers-for-february-2016-buzzfeed-a-star-on-twitter" target="_blank">Shareablee’s Top 10 media Publishers for February 2016</a>.
 * **Social Action Counts:** BuzzSumo report for the top 10,000 articles from each publisher ranked by total social actions

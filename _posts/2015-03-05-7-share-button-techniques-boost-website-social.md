@@ -13,7 +13,7 @@ author: patrick_costello
 
 Most websites lose high value readers and customers daily because they don’t follow a few easy share button fundamentals. Our last post covered how [people use share buttons as infrequently as they click display ads](http://blog.naytev.com/social-share-buttons-analysis/), and this post shows how to overcome barriers to sharing.
 
-### (1) Use Facebook’s Share Button For Your Content
+## (1) Use Facebook’s Share Button For Your Content
 
 Facebook sharing is the cornerstone of social visibility for most sites. We highly recommend that you [ask readers to Share, not Like, your content](http://blog.naytev.com/facebook-share-button-vs-like-button-showdown/) because it will reach a larger audience.
 
@@ -23,7 +23,7 @@ Facebook has been systematically cutting the reach of brand Pages, leading to wh
 
 In contrast, Shares provides reliable, high-quality word-of-mouth exposure to the sharer’s network of friends. The high visibility of each new share adds up, driving extensive engagement. In conclusion, ditch your Like buttons and keep the focus on Sharing.
 
-### (2) Don’t Overwhelm Your Readers With Share Options
+## (2) Don’t Overwhelm Your Readers With Share Options
 
 Just because you can add share buttons for a dozen networks doesn’t mean you should. Using too many share options creates visual clutter and can lead to share decision paralysis.
 
@@ -38,7 +38,7 @@ B2C Product Lineup: Facebook, Twitter, Pinterest, Email
 B2C Service Lineup: Facebook, Twitter, Linkedin, Email
 Google+ shares may not come in droves, but they [may be indirectly helpful for SEO](http://mashable.com/2012/02/21/google-plus-1-seo/). You may wonder about other share options, such as Reddit, Stumbleupon, Instagram, etc. There’s potential for these secondary share options to help, but right now Facebook and Twitter are orders of magnitude more important. These two typically account for 85%+ all sharing.
 
-### (3) Use Highly Visible Share Buttons
+## (3) Use Highly Visible Share Buttons
 
 If your share buttons aren’t easily seen, readers won’t use them. We recommend using large, colorful share buttons and placing them strategically throughout your page. Placing them just at the top of the page can cost you shares – not everyone will scroll back up to share.
 
@@ -46,7 +46,7 @@ While [under 10% of sharers will likely use your buttons](http://blog.naytev.com
 
 We recommend using a horizontal share bar at the top and bottom of each article, as well as a vertical share bar that moves with your reader as they scroll. The new tech publication, [Hot Topics](http://www.hottopics.ht/stories/finance/needs-branches-10-mobile-banks-app/), is a great example of well executed share features:
 
-### High Visibility Share Button Best Practices Followed by Hot Topics
+## High Visibility Share Button Best Practices Followed by Hot Topics
 
 * Horizontal Share Feature at Top of Page
 

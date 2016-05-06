@@ -18,7 +18,7 @@ Facebook’s recent changes to the News Feed algorithm have been particularly pu
 
 The number of “Likes” a brand earns is withering into a vanity metric. You may invest in acquiring a new fan today, but to reach that fan in the future you’ll need to pay for promoted posts again and again. Even the most socially savvy organizations like Upworthy are vulnerable.
 
-### How are you supposed to organically connect with consumers?
+## How are you supposed to organically connect with consumers?
 
 An often overlooked, but highly effective channel is word-of-mouth sharing. To use this channel, you need three things:
 
@@ -38,7 +38,7 @@ Here comes the shameless plug! Wait for it…we eliminate this hassle and remove
 
 In less than 5 minutes, you can start editing the messages issued when people share your content. You can test different share messages as well. The best part? Our system tracks the performance of each message, and automatically uses the best performing version.
 
-### How much more traffic and revenue would you have gotten if you used the best message every time?
+## How much more traffic and revenue would you have gotten if you used the best message every time?
 
 <div class="full zoomable"><img src="/images/posts/button-sucks/ab_graphs.png"></div>
 

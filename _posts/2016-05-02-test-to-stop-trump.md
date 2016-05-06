@@ -43,20 +43,20 @@ Here's how we did it:
 
   We want to understand which style of messaging best engages voters who fall within the core base of Trump voters. Let's test different messages and thumbnail images, varying positive vs. neutral vs. negative sentiments. We didn't include descriptions, as they're not frequently seen anyway. We also included the relevant state name for each message.
 
-  ##### Post Text:
+  **Post Text:**
   - We kept the post text, which is the messaging that appears above the image in a Facebook post, constant and neutral for all message variants: "The [Indiana, California] Republican Primary is coming up soon"
 
-  ##### Headlines:
+  **Headlines:**
   - Positive: "Why you should vote Trump if you live in [Indiana, California]"
   - Neutral: "Should you vote for Donald Trump if you live in [Indiana, California]?"
   - Negative: "Trump Would be a Disaster for [Indiana, California]"
 
-  ##### Images:
+  **Images:**
   - Positive: We used Trump's own official image from his campaign website
   - Negative: We used a picture with Trump making a silly face
   - Neutral: We didn't include a "neutral" image as we couldn't find a Trump shot that our team could agree was neutral.
 
-  ###### Call To Action:
+  **Call To Action:**
   We arranged for all test messages to direct post clicks to [ISideWith.com](https://www.isidewith.com/), a non-partisan website that helps voters understand which candidate aligns with their views. It would be incredibly interesting to see how we can influence conversion for a specific call to action using different presentations of content in the News Feed, but we'll save that for another day.
 
 * **3. Run Dark Tests**

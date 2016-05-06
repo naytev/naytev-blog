@@ -15,26 +15,22 @@ guide: true
 
 ---
 
-# How to A/B Test on Facebook With Dark Posting
-### *Learn How to Run A Test Up To 18x Faster*
-
-
 There are two ways to run a dark test: **manual** and **programmatic**. Manual is not fun; it takes about 12x to 18x longer than programmatic testing. Below is a breakdown of both approaches. Be forewarned:
 
-##### Common Emotions Associated With Manual Dark Testing
+## Common Emotions Associated With Manual Dark Testing
 
 <div class="full zoomable"><img src="/images/guides/dark/emotions.png"></div>
 
 Before getting started, make sure you have administrative privileges for your Facebook Page and an active Ad Account. You’ll need both before running a test with either approach.
 
-### 1. Manual Dark Testing: 60 to 90 Minutes per Test
+## 1. Manual Dark Testing: 60 to 90 Minutes per Test
 You can run a manual dark test via Facebook Power Editor <a href="https://www.facebook.com/ads/manage/powereditor" target="_blank">Facebook Power Editor</a> or <a href="https://business.facebook.com/" target="_blank">Facebook Business Manager</a>.
 
 To master the basics of running a dark test, most people need to run a handful of tests and speak with others also running tests to pick up tips on best practices from others already running tests. 
 
 There are also some good online resources, like this overview of dark testing by <a href="http://intelligence.r29.com/post/97572432956/ab-testing-on-facebook" target="_blank">overview of dark testing by Refinery29,</a> that can help you learn.
 
-##### Here are the basic steps:
+## Here are the basic steps:
 
 1. Create a Campaign: <a href="https://www.facebook.com/business/help/958899790787765" target="_blank">Here’s how.</a>
 2. Create a Lookalike Audience. <a href="https://www.facebook.com/business/help/465262276878947" target="_blank">Here’s how.</a>
@@ -55,7 +51,7 @@ However, you *will* know you’re getting the hang of things when you whittle do
 If you’d like to remain in a more Zen-like state but still run dark tests, I suggest doing so programmatically.
 
 
-### 2. Programmatic Dark Testing: 2 to 5 Minutes per Test
+## 2. Programmatic Dark Testing: 2 to 5 Minutes per Test
 
 Programmatic testing allows you to ignore the mind-numbing steps of manual testing, and focus on what really matters: your messaging and results. 
 

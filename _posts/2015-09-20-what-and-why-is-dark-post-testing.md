@@ -27,7 +27,7 @@ Testing messaging for social media  remains frustratingly elusive, even for expe
 
 Fortunately, there’s an easy way to test your messages like a rockstar: run dark or “Unpublished” posts on Facebook. 
 
-#### Great Advice Rarely Followed: “Always Be Testing”
+**Great Advice Rarely Followed: “Always Be Testing”**
 <div class="full zoomable"><img src="/images/guides/dark/always-be-testing.jpg"></div>
 _Sneak Preview from Glengarry Glen Ross 2_
 
@@ -50,19 +50,19 @@ People  run dark tests to accomplish a variety of goals. Below are a few of the 
 
 To run a Dark Test, you’ll need you’ll need a Facebook Page and an active Ad Account. There are two ways to run a dark test: **Manual** and **Programmatic**. Below, we cover both approaches.
 
-### 1. Manual Dark Testing: 60 to 90 Minutes per Test
+## 1. Manual Dark Testing: 60 to 90 Minutes per Test
 
 Manual is not fun; it takes about 12x to 18x longer than programmatic testing, but if you’re determined to try it, here’s how: <a href="#" target="_blank">Dark Test Workflows</a> . You’ll need to use <a href="https://www.facebook.com/ads/manage/powereditor" target="_blank">Facebook Power Editor</a> or <a href="https://business.facebook.com/" target="_blank">Facebook Business Manager</a> to run a test manually. There are 9 overall steps and a few dozen decisions to make along the way.
 
 I’ve spoken with many teams about their experience running dark tests manually, and the common emotional thread is extreme frustration:
 
-#### Common Emotions Associated With Manual Dark Testing
+**Common Emotions Associated With Manual Dark Testing**
 
 <div class="full zoomable"><img src="/images/guides/dark/emotions.png"></div>
 
 The problem is that Facebook makes you manually define settings for every new test you run, and every message variation you want to include. If you’d like to remain in a more Zen-like state but still run dark tests, I suggest doing so programmatically.
 
-### 2. Programmatic Dark Testing: 2 to 5 Minutes per Test
+## 2. Programmatic Dark Testing: 2 to 5 Minutes per Test
 
 Programmatic testing allows you to ignore the mind-numbing steps of Manual Testing, and focus on what really matters: your messaging and results. 
 
@@ -80,7 +80,7 @@ We already specialize in testing Facebook messages for large brands and publishe
 
 Naytev has best practices baked into it, eliminating the learning curve for dark testing. We also eliminate unnecessary work, enabling you to create dozens of tests in the same time you normally could only create one or two.
 
-#### How You’ll Feel When You Create a Dark Test 12x Faster Than Everyone Else
+**How You’ll Feel When You Create a Dark Test 12x Faster Than Everyone Else**
 
 <div class="full zoomable"><img src="/images/guides/dark/boxing.jpg"></div>
 
@@ -88,7 +88,7 @@ You can use the coupon code “DOUBLE_RAINBOW” at checkout to get 30% off any 
 
 Even if you aren’t ready to start using Naytev, I hope this article helps dispel the mystery surrounding dark testing. It’s a powerful tool that can benefit teams of any size. 
 
-#### Have a Fantastic, Double Rainbow Kind of Day
+**Have a Fantastic, Double Rainbow Kind of Day**
 <div class="full zoomable"><img src="/images/guides/dark/double-rainbow.jpg"></div>
 
 P.S. Like the images in this article? Most are from resources we recommend using for great Facebook share messages in our blog post: <a href="http://bit.ly/1QRMpUz" target="_blank">The Formula for a Perfect Social Share Message</a>.

@@ -32,7 +32,7 @@ The first three articles are available now:
 	</li>
 </ul>
 
-#### Facebook Dark Post Testing: The Definitive Guide
+**Facebook Dark Post Testing: The Definitive Guide**
 
 We'll continue to update the guide over the coming months. We've also created a permanent page to consolidate all past and future information about Dark Testing, so that you can share, bookmark, or otherwise use this guide to your heart's desire:
 
