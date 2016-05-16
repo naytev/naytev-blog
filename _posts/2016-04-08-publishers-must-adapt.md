@@ -26,7 +26,7 @@ The transition to consuming content on distributed networks is natural. Audience
 
 As a result, readers’ habits are deepening within these channels, which now command unprecedented attention. For example, [1 in 5 minutes spent on mobile phones is spent on Facebook's platforms](http://www.reuters.com/article/us-facebook-results-idUSKCN0ST2VF20151105). Most publishers are lucky if a particular reader visits their website a few times each month.
 
-**Audiences Are Building Strong Habits Around Distributed Networks **
+**Audiences Are Building Strong Habits Around Distributed Networks**
 
 {% include _image.html src="/images/posts/publishers-must-adapt/1in5.png" %}
 
