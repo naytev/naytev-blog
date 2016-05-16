@@ -33,59 +33,59 @@ BuzzFeed's distribution strategy is most interesting when considered in the cont
 
 -----
 
-## The Full List (45 distribution channels)
+# The Full List (45 distribution channels)
 
-* **Social Networks & Platforms (10)**
-	* Facebook
-	* Instagram
-	* Periscope
-	* Pinterest
-	* Snapchat
-	* Tumblr
-	* Twitter
-	* Vine
-	* YouTube
-	* Imgur
+## **Social Networks & Platforms (10)**
+  - Facebook
+  - Instagram
+  - Periscope
+  - Pinterest
+  - Snapchat
+  - Tumblr
+  - Twitter
+  - Vine
+  - YouTube
+  - Imgur
 
-* **Messenger Apps (7)**
-	* WeChat
-	* Weibo
-	* Line
-	* Kik
-	* Yo
-	* Tango
-	* Viber
+## **Messenger Apps (7)**
+  - WeChat
+  - Weibo
+  - Line
+  - Kik
+  - Yo
+  - Tango
+  - Viber
 
-* **BuzzFeed Apps (5)**
-	* BuzzFeed Main
-	* BuzzFeed Video
-	* Cute or Not
-	* BuzzFeed News
-	* QuizChat
+## **BuzzFeed Apps (5)**
+  - BuzzFeed Main
+  - BuzzFeed Video
+  - Cute or Not
+  - BuzzFeed News
+  - QuizChat
 
-* **Curator/Partner (3)**
-	* Apple News
-	* FlipBoard
-	* Notify
+## **Curator/Partner (3)**
+  - Apple News
+  - FlipBoard
+  - Notify
 
-* **Video Syndication (20)**
-	* Yahoo
-	* AOL
-	* Blinkx/Grab
-	* Conde Nast
-	* MSN
-	* UVidi
-	* Amazon
-	* Bell Media
-	* Vessel
-	* Onedio
-	* Baidu
-	* Tencent
-	* Terra
-	* Xumo
-	* Rambler
-	* Expressen
-	* Go90
-	* Watchable
-	* Italia Online
-	* Fans 1st
+## **Video Syndication (20)**
+  - Yahoo
+  - AOL
+  - Blinkx/Grab
+  - Conde Nast
+  - MSN
+  - UVidi
+  - Amazon
+  - Bell Media
+  - Vessel
+  - Onedio
+  - Baidu
+  - Tencent
+  - Terra
+  - Xumo
+  - Rambler
+  - Expressen
+  - Go90
+  - Watchable
+  - Italia Online
+  - Fans 1st

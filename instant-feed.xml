@@ -24,6 +24,7 @@ layout: null
             <meta property="op:markup_version" content="v1.0">
             <link rel="canonical" href="{{ site.url }}{{ post.url }}"/>
             <meta property="fb:article_style" content="default"/>
+            <meta property="fb:use_automatic_ad_placement" content="true">
           </head>          
           <body>
             <article>
@@ -43,6 +44,9 @@ layout: null
                 <address><a>{{ site.data.authors[post.author].name }}</a></address>
                 <time class="op-published" datetime="{{ post.date }}">{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</time>
                 <time class="op-modified" datetime="{{ post.last_modified_at }}">{{ post.last_modified_at | date: "%a, %d %b %Y %H:%M:%S %z" }}</time>
+                <figure class="op-ad">
+                  <iframe width="320" height="50" style="border:0; margin:0;" src="https://www.facebook.com/adnw_request?placement=545648768956165_552001674987541&adtype=banner320x50"></iframe>
+                </figure>
               </header>
               {{ post.content }}
               <footer>

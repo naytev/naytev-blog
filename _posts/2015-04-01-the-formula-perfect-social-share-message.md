@@ -15,28 +15,29 @@ What if I told you that your social share message is all that’s keeping your c
 
 Our team is in a unique position to identify what messaging drives the greatest social engagement and new readers. This post highlights winning strategies our team has identified for creating high impact share messages.
 
-1. Pair Headlines With Images That Together Tell a Good Story
+* **1. Pair Headlines With Images That Together Tell a Good Story**
 
-	The most impactful factor of a share message is how well the image and headline play off one another, hands-down. Your brand’s reach on Facebook relies on attractive images to pique readers’ interests. A good image is designed to make your reader pause on their quest to the mythical bottom of the news feed.
+  The most impactful factor of a share message is how well the image and headline play off one another, hands-down. Your brand’s reach on Facebook relies on attractive images to pique readers’ interests. A good image is designed to make your reader pause on their quest to the mythical bottom of the news feed.
 
-	Below is an example of effective image selection from one of the message tests we ran for a client. It illustrates the content’s purpose: teaching readers how to make gumbo from scratch. Our winning photo generated a 15% boost in traffic for the article.
+  Below is an example of effective image selection from one of the message tests we ran for a client. It illustrates the content’s purpose: teaching readers how to make gumbo from scratch. Our winning photo generated a 15% boost in traffic for the article.
 
-	## “Glamor Shots” and Close-ups Attract Readers
+  **“Glamor Shots” and Close-ups Attract Readers**
 
-	{% include _image.html src="/images/posts/perfect-formula/glamor.jpg" %} 
-	{% include _image.html src="/images/posts/perfect-formula/glamorvariants.png" %}
+  {% include _image.html src="/images/posts/perfect-formula/glamor.jpg" %} 
 
-	We recommend using photos or illustrations of people, places and things related to your content. Rich colors and angles help set your images apart from the norm. Got data? Well-designed infographics with limited text are perfect for Facebook. If the web page that you want people to share has only one or no images, we recommend trying additional images in your share messages that can be sourced from services like [Getty Images](http://www.gettyimages.com/), [Shutterstock](http://www.shutterstock.com/), [Morguefile](http://www.morguefile.com/), [Gratisography](http://www.gratisography.com/), and the [Creative Commons search engine](http://search.creativecommons.org/) (look for images approved for free commercial use).
+  {% include _image.html src="/images/posts/perfect-formula/glamorvariants.png" %}
 
-	What images don’t drive engagement: logos. When presented on Facebook, logos look like placeholders or transparent attempts at marketing. They often drive attention away from the content. Simply put, we recommend staying away from logos. 
+  We recommend using photos or illustrations of people, places and things related to your content. Rich colors and angles help set your images apart from the norm. Got data? Well-designed infographics with limited text are perfect for Facebook. If the web page that you want people to share has only one or no images, we recommend trying additional images in your share messages that can be sourced from services like [Getty Images](http://www.gettyimages.com/), [Shutterstock](http://www.shutterstock.com/), [Morguefile](http://www.morguefile.com/), [Gratisography](http://www.gratisography.com/), and the [Creative Commons search engine](http://search.creativecommons.org/) (look for images approved for free commercial use).
 
-	Below is a prime example of a rich image vs. a logo. We left the headline and description as-is, but replaced the Punisher logo with a powerful, emotive photo of the Norwegian armed forces mentioned in the article. The result: a whopping 156,000+ extra reader sessions.
+  What images don’t drive engagement: logos. When presented on Facebook, logos look like placeholders or transparent attempts at marketing. They often drive attention away from the content. Simply put, we recommend staying away from logos. 
 
-	Complement Headlines With Related Photos, Not Logos 
+  Below is a prime example of a rich image vs. a logo. We left the headline and description as-is, but replaced the Punisher logo with a powerful, emotive photo of the Norwegian armed forces mentioned in the article. The result: a whopping 156,000+ extra reader sessions.
 
-	{% include _image.html src="/images/posts/perfect-formula/related.png" %} 
+  Complement Headlines With Related Photos, Not Logos 
 
-2. Write Varied Headlines That Offer New Perspectives
+  {% include _image.html src="/images/posts/perfect-formula/related.png" %} 
+
+*  **2. Write Varied Headlines That Offer New Perspectives**
 
 	Your headlines need to tell a great story. When considering alternate headlines, think of additional elements of the story that you can share. Descriptive language that provides context to your share image will strengthen your story. 
 
@@ -60,7 +61,7 @@ Our team is in a unique position to identify what messaging drives the greatest 
 
 	{% include _image.html src="/images/posts/perfect-formula/celebrity.png" %} 
 
-3. Use Data, But Keep It Conversational
+* **3. Use Data, But Keep It Conversational**
 
 	If you have data, use it. Spend at least one message breaking down the data involved in your content in a conversational, “human” way. Highlight an interesting data point you would be tempted to share with your friends, online or off. One way to personalize the numbers contained in the Apple Watch story below is to give the audience what they want.
 
@@ -70,7 +71,7 @@ Our team is in a unique position to identify what messaging drives the greatest 
 
 	{% include _image.html src="/images/posts/perfect-formula/questions.png" %} 
 
-4. Make Your Readers Feel Something 
+* **4. Make Your Readers Feel Something**
 
 	There’s a saying in the San Francisco poetry community: “If your words can make me feel feelings and think thoughts, then you’re onto something.” This applies to headline writing, too! Every good story entices the reader to feel or think.
 
@@ -88,7 +89,7 @@ Our team is in a unique position to identify what messaging drives the greatest 
 
 	The toned down headline in the image above is something Jaden’s fans wouldn’t mind clicking on! Simply modifying the article’s tone from “shamelessly negative” to “sarcastically positive” ultimately drove 157,000 additional reader sessions for this article. 
 
-5. Avoid Hyperbolic Language and Clickbait Headlines
+* **5. Avoid Hyperbolic Language and Clickbait Headlines**
 
 	If you take anything away from this article, let it be that we discourage using clickbait headlines.  Clickbait headlines are characterized by hyperbolic statements that promise readers a transcendent experience upon viewing the content within. They often include words like “epic,” “surprise,” “hilarious,” and “amazing,” and are best read in the voice of a stereotypical teenaged girl who describes nearly everything the same way.
 
@@ -100,7 +101,7 @@ Our team is in a unique position to identify what messaging drives the greatest 
 
 	Whomever’s surprised by the story above probably doesn’t get out much. (Spoiler alert: It’s a cafe.) The last thing we’ll say about clickbait is that lacks distinction and doesn’t drive brand loyalty. Staying true to your voice enables your content to stand out, command loyalty and build brand value.
 
-6. Use Facebook Descriptions to Supplement Headlines
+* **6. Use Facebook Descriptions to Supplement Headlines**
 
 	In a perfect world, the image captures your readers’ attention, and the accompanying headline makes them want to read your content. But what if they’re not yet convinced that your content is worth ending their stroll down the News Feed?
 
@@ -110,15 +111,15 @@ Our team is in a unique position to identify what messaging drives the greatest 
 
 	{% include _image.html src="/images/posts/perfect-formula/descriptions.png" %} 
 
-7. How to Change Your Social Share Messages
+* **7. How to Change Your Social Share Messages**
 	
 	There are two ways you can change your social share messages:
 
-	1. Standard: Change your “Top-Down” share messages on your brand’s social media pages.
+	- Standard: Change your “Top-Down” share messages on your brand’s social media pages.
 
 		Posting on your Facebook fan page and Twitter profile is where most people still focus their time. However, with [social networks systematically cutting your page reach](http://marketingland.com/facebook-kills-organic-reach-108160), it has never been more important to focus on the organic sharing already taking place on your website.
 
-	2. Recommended: Change your “Bottom-Up” organic share messages on your website.
+	- Recommended: Change your “Bottom-Up” organic share messages on your website.
 
 		Social networks are a key point of discovery for your content, and organic sharing is increasingly the primary source of this discovery (not  “Top Down” posts from a brand’s social media page). The way your content appears on social when people share it is hard coded in your site’s open graph (OG) tags. Changing your OG tags is prohibitively resource intensive, especially if you want to manually change them multiple times and for pieces of content.
 
