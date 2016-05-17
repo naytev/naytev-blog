@@ -41,6 +41,10 @@ layout: base
 
         </footer>
 
+        {% if page.popup %}
+            {% include _popup.html %}
+        {% endif %}
+
         {% if site.inc.disqus.shortname %}
         <section>
             {% include _disqus.html %}
