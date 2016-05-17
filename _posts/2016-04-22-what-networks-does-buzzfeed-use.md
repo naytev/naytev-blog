@@ -7,6 +7,7 @@ og_image: posts/buzzfeed/splash_og.png
 excerpt: "BuzzFeed is commonly cited as relying on over 30 distribution channels ranging from social networks to custom apps to reach its large, fragmented audience. Here are the platforms they actually use."
 categories: [distributed-media]
 author: zack_liscio
+popup: true
 ---
 
 Among the most defining characteristics of BuzzFeed's strategy is the way their content reaches readers: the vast majority is distributed through channels other than their website. The publication often cites the fact that [their teams publish content to over 30 platforms, across 11 countries, in seven languages](http://www.buzzfeed.com/daozers/how-buzzfeed-thinks-about-data-and-some-charts-too). This led us to ask which platforms are they actively using and what does this fragmented paradigm actually look like in practice.
