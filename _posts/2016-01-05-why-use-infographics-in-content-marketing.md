@@ -2,7 +2,7 @@
 layout: post
 title: Why Use Infographics In Content Marketing?
 
-subtitle: 
+subtitle: 3 Reasons Infographics Will Improve Your Content
 
 cover_image: posts/why-infographics/top-colors.png
 
