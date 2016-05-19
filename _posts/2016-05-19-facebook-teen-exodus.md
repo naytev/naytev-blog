@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Is There Really Teen Exodus from Facebook?'
+title: 'Is There Really a Teen Exodus from Facebook?'
 subtitle: 'A Reality Check for Facebook Contrarians'
 cover_image: posts/facebook-teen-exodus/cover.jpg
 excerpt: 'Millions of teenagers are leaving Facebook. Teens think Facebook is lame and meaningless. These are just some of takeaways from articles in the past couple years covering teenager engagement trends on Facebook. With such press highlights, you might think there’s a mass exodus of teens from Facebook.'
