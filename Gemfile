@@ -12,4 +12,5 @@ gem 'github-pages'
 gem 's3_website'
 gem 'bourbon'
 gem 'neat'
+gem "jekyll_url", path: '/Users/mbseid/Dev/naytev/jekyll_url', group: [:jekyll_plugins]
 gem 'jekyll-compose', group: [:jekyll_plugins]

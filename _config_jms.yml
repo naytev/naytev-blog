@@ -1,0 +1,3 @@
+url: "http://localhost:3000/preview"
+assets:
+  cdn: "http://localhost:3000/preview"

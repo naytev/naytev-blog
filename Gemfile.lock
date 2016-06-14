@@ -1,3 +1,8 @@
+PATH
+  remote: /Users/mbseid/Dev/naytev/jekyll_url
+  specs:
+    jekyll_url (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -175,6 +180,7 @@ DEPENDENCIES
   jekyll-compose
   jekyll-last-modified-at
   jekyll-paginate
+  jekyll_url!
   maruku
   neat
   rake
