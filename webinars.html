@@ -1,0 +1,16 @@
+---
+layout: base
+---
+
+<article class='container'>
+<h1>Webinars</h1>
+<p>Here are all the webinars we've put together.</p>
+
+<ul>
+{% for webinar in site.webinars %}
+
+<li>{{ webinar.title }}</li>
+
+{% endfor %}
+</ul>
+</article>

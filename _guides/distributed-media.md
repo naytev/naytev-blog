@@ -1,9 +1,6 @@
 ---
-layout: guide
-body_class: guide
-guide_title: "Distributed Media"
-
-guide_subtitle: Thinking Beyond the Website in 2016
+title: "Distributed Media"
+subtitle: Thinking Beyond the Website in 2016
 cover_image: guides/distributed/distributed.png
 category: distributed-media
 ---

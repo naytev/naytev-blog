@@ -29,6 +29,7 @@ inc:
     gplus:      false
     hn:         false
 
+
  # Analytics
   analytics:
     google: true # Add tracking code in _includes/_google-analytics.html
@@ -42,6 +43,39 @@ inc:
   google_font: 'Droid+Sans:400,700'
 
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
+
+# Collections
+
+collections:
+  guides:
+    output: true
+  webinars:
+    output: true
+  ebooks: 
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: guides
+    values:
+      layout: guide
+      body_class: guide
+      type: guide
+  - scope:
+      path: ""
+      type: ebooks
+    values:
+      layout: ebook
+      body_class: ebook
+      type: ebook
+  - scope:
+      path: ""
+      type: webinars
+    values:
+      layout: webinar
+      body_class: webinar
+      type: webinar            
 
 url: 'http://localhost:4000'
 optimized_url:  http://blog.naytev.com

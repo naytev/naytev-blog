@@ -1,0 +1,16 @@
+---
+layout: base
+---
+
+<article class='container'>
+<h1>Ebooks</h1>
+<p>Here are all the ebookss we've put together.</p>
+
+<ul>
+{% for ebook in site.ebooks %}
+
+<li>{{ ebook.title }}</li>
+
+{% endfor %}
+</ul>
+</article>

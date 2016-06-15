@@ -1,9 +1,6 @@
 ---
-layout: guide
-body_class: guide
-guide_title: "Facebook Dark Post Testing"
-
-guide_subtitle: The Definitive Guide
+title: "Facebook Dark Post Testing"
+subtitle: The Definitive Guide
 cover_image: guides/dark/swingline.jpg
 category: dark-testing
 ---
