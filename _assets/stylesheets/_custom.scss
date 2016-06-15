@@ -37,6 +37,26 @@ article:not(#featured) {
 	padding-top: 10px;
 }
 
+.content-stub {
+	margin: 20px;
+	background: #fff;
+	> div {
+		padding: 20px 25px;
+	}
+	@extend .z-depth-1;
+	h2.title {
+		color: $navy;
+	}
+	.content-stub-img-wrapper {
+		padding: 0px;
+		max-height: 250px;
+		overflow: hidden;
+		border-bottom: 1px solid whitesmoke;
+		img {
+			margin-top: 0;
+		}
+	}
+}
 body.homepage {
 
 	.container {

@@ -2,29 +2,41 @@
 layout: base
 ---
 
-<article>
+<article class="container">
+    <header>
+        <span class='label label-primary'><i class='fa fa-flag'></i> GUIDE</span>
+        <h1 class="title">{{ page.title }}</h1>
+        {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
+    </header>
 
-    <div class="container">
-        <header>
-            <span class='label label-primary'><i class='fa fa-flag'></i> GUIDE</span>
-            <h1 class="title">{{ page.title }}</h1>
-            {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
-        </header>
+        {{ content }}
 
-        <section>
+        {% for post in site.categories[page.category]  %}
+            {% unless post.draft %}
+            {% assign author = site.data.authors[post.author] %}
+            <div class='col-md-6 col-sm-12'>
+                <a href="{{ post.url }}" rel="prefetch">
+                    <div class='content-stub'> 
+                      <div class='content-stub-img-wrapper'>
+                        <img src="/images/{{ post.cover_image }}" class="image">
+                      </div>  
+                      <div>
+                      <h2 class="title">{{ post.title }}</h2>
+                      <p>{{ post.excerpt }}</p>
+                      <div class="meta">
+                          By <address>{{ author.name }}</address> <br/>
+                          {{ post.content | reading_time }} read
+                      </div>
+                      </div>
+                    </div>
+                </a>
+            </div>
+          {% endunless %}
+        {% endfor %}
 
-            {{ content }}
+        {% include _social.html %}
 
-            {% include _social.html %}
-        </section>
-
-        <footer>
-
-        </footer>
-
-        {% if page.popup %}
-            {% include _popup.html %}
-        {% endif %}
-
-    </div>
+    {% if page.popup %}
+        {% include _popup.html %}
+    {% endif %}
 </article>

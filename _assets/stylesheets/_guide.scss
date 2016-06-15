@@ -1,4 +1,14 @@
 body.guide {
+	background: whitesmoke;
+	article.container {
+		background: transparent;
+	}
+	section.index {
+		background: #fff;
+		padding: 20px 25px;
+		margin-bottom: 20px;
+		@extend .z-depth-1;
+	}
 	.blog-cover {
 		height: 400px;
 	}
