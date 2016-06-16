@@ -26,7 +26,8 @@ layout: base
                         <var class="atc_location">{{ page.live_webinar_link }}</var>
                     </var>
                 </span>
-                <!-- <a class='btn btn-sm btn-outline btn-primary'><i class='fa fa-calendar-plus-o'></i> Add to Calendar</a> -->
+            {% elsif page.embed_link %}
+                <h4>Watch the recording from this webinar below!</h4>
             {% endif %}
 
         </header>
