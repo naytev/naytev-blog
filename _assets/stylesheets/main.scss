@@ -17,7 +17,6 @@ $accent: #18a689;
 @import "bootstrap";
 @import "base";
 @import "article";
-@import "icons";
 @import "syntax";
 
 @import "custom";
@@ -29,3 +28,5 @@ $accent: #18a689;
 @import "responsive";
 
 @import "navbarscroll";
+
+@import "./inspinia/style.scss";

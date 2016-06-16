@@ -11,15 +11,18 @@ layout: base
 
         {{ content }}
 
+    <div class='stubs'>
         {% for post in site.categories[page.category]  %}
             {% unless post.draft %}
             {% assign author = site.data.authors[post.author] %}
             <div class='col-md-6 col-sm-12'>
                 <a href="{{ post.url }}" rel="prefetch">
                     <div class='content-stub'> 
+                    {% if post.cover_image %}
                       <div class='content-stub-img-wrapper'>
                         <img src="/images/{{ post.cover_image }}" class="image">
                       </div>  
+                    {% endif %}
                       <div>
                       <h2 class="title">{{ post.title }}</h2>
                       <p>{{ post.excerpt }}</p>
@@ -33,6 +36,7 @@ layout: base
             </div>
           {% endunless %}
         {% endfor %}
+      </div>
 
         {% include _social.html %}
 
