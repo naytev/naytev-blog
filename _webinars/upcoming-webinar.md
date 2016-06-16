@@ -1,8 +1,12 @@
 ---
-title: "Test Webinar"
+title: "Upcoming Webinar"
 subtitle: Lorem webinar
 cover_image: webinars/test.png
-duration: 45
+duration_minutes: 45
+air_date: 2016-11-29 00:00:00 -0700
+promo_image: webinars/upcoming.jpeg
+calendar_description: "A Naytev Webinar that will be all the rage."
+live_webinar_link: "http://blog.naytev.com/some-cool-webinar"
 
 ---
 
