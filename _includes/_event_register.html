@@ -14,12 +14,19 @@
             <div class="modal-body">
                 <div class='registration-start'>
                     <p>{{ include.calendar_description }}</p>
-                            
-                    <div class="form-group"><label>First Name</label> <input type="text" placeholder="First Name" class="form-control"></div>
-                    <div class="form-group"><label>Last Name</label> <input type="text" placeholder="Last Name" class="form-control"></div>
-                    <div class="form-group"><label>Work Email</label> <input type="email" placeholder="Work email" class="form-control"></div>
-                    <div class="form-group"><label>Company Name</label> <input type="text" placeholder="Company Name" class="form-control"></div>
-                    <div class='text-center'><button class='btn btn-primary btn-lg' id="registration-submit">{{include.call_to_action}}</button></div>
+
+                    <form id='registration-form'
+                          method="POST"
+                          action="https://docs.google.com/forms/d/1OGAEfNFy25bqQdwDFzgCiLMzRx1_lyYKcQV6yi6-XtA"
+                          onsubmit="return window.submitGoogleForm(this);">
+
+                        <div class="form-group"><label>First Name</label> <input required name="entry.324639070" type="text" placeholder="First Name" class="form-control"></div>
+                        <div class="form-group"><label>Last Name</label> <input required name="entry.2030185983" type="text" placeholder="Last Name" class="form-control"></div>
+                        <div class="form-group"><label>Work Email</label> <input required name="entry.1031652394" type="email" placeholder="Work email" class="form-control"></div>
+                        <div class="form-group"><label>Company Name</label> <input required name="entry.1046695546" type="text" placeholder="Company Name" class="form-control"></div>
+                        <div class='text-center'><button type="submit" class='btn btn-primary btn-lg' id="registration-submit">{{include.call_to_action}}</button></div>
+                    </form>
+                        
                 </div>
                 <div class='registration-complete text-center'>
                     <h2><i class='fa fa-thumbs-o-up text-success'></i> Your spot is confirmed!</h2>
@@ -40,8 +47,7 @@
 </div>
 
 <script>
-    $("#registration-submit").bind("click", function(e){
-        e.preventDefault();
+    $("#registration-form").bind("submit", function(e){
         $(".registration-start").hide();
         $(".registration-complete").fadeIn();
     });
