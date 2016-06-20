@@ -45,7 +45,13 @@
             <a href="#" data-toggle='dropdown' role='button' aria-haspopup='true' aria-expanded='false'>Webinars<span class="caret"></span></a>
             <ul class="dropdown-menu">
             {% for webinar in site.webinars %}
-              <li><a href="{{site.url}}{{webinar.url}}">{{webinar.title}}</a></li>
+              <li><a href="{{site.url}}{{webinar.url}}">
+                {% if webinar.short_title %}
+                  {{ webinar.short_title }}
+                {% else %}
+                  {{ webinar.title }}
+                {% endif %}
+              </a></li>
             {% endfor %}
             </ul>
           </li>
