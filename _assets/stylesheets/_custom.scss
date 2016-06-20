@@ -38,9 +38,11 @@ article:not(#featured) {
 }
 
 .content-stub {
-	margin: 20px;
+	margin: 15px;
+	width: 350px;
 	background: #fff;
-	> div {
+	padding: 0px;
+	.content-stub-link > div:not(.content-stub-img-wrapper) {
 		padding: 20px 25px;
 	}
 	@extend .z-depth-1;

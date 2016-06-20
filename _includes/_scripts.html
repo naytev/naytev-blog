@@ -3,6 +3,7 @@
 {% javascript main %}
 {% javascript addtocalendar %}
 {% javascript googleform %}
+{% javascript intercom %}
 {% if site.inc.sharing.twitter %}<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>{% endif %}
 {% if site.inc.sharing.facebook %}<div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -40,4 +41,15 @@
 {% endif %}
 {% if page.mailchimp_popup %}
   {% include _mailchimp_popup.html %}
+{% endif %}
+{% if page.masonry %}
+  {% javascript masonry %}
+  <script>
+  $(window).load(function(){
+   $('.stubs').masonry({
+      // options...
+      itemSelector: '.content-stub'
+    });
+  });
+  </script>
 {% endif %}

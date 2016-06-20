@@ -11,28 +11,26 @@ layout: base
 
         {{ content }}
 
-    <div class='stubs'>
+    <div class='stubs clearfix'>
         {% for post in site.categories[page.category]  %}
             {% unless post.draft %}
             {% assign author = site.data.authors[post.author] %}
-            <div class='col-md-6 col-sm-12'>
-                <a href="{{ post.url }}" rel="prefetch">
-                    <div class='content-stub'> 
-                    {% if post.cover_image %}
-                      <div class='content-stub-img-wrapper'>
-                        <img src="/images/{{ post.cover_image }}" class="image">
-                      </div>  
-                    {% endif %}
-                      <div>
-                      <h2 class="title">{{ post.title }}</h2>
-                      <p>{{ post.excerpt }}</p>
-                      <div class="meta">
-                          By <address>{{ author.name }}</address> <br/>
-                          {{ post.content | reading_time }} read
-                      </div>
-                      </div>
-                    </div>
-                </a>
+            <div class='content-stub'>
+              <a href="{{ post.url }}" class='content-stub-link'> 
+                {% if post.cover_image %}
+                  <div class='content-stub-img-wrapper'>
+                    <img src="/images/{{ post.cover_image }}" class="image">
+                  </div>  
+                {% endif %}
+                  <div>
+                  <h2 class="title">{{ post.title }}</h2>
+                  <p>{{ post.excerpt }}</p>
+                  <div class="meta">
+                      By <address>{{ author.name }}</address> <br/>
+                      {{ post.content | reading_time }} read
+                  </div>
+                  </div>
+              </a>
             </div>
           {% endunless %}
         {% endfor %}

@@ -63,6 +63,7 @@ defaults:
       body_class: guide
       type: guide
       action: Read
+      masonry: true
   - scope:
       path: ""
       type: ebooks
