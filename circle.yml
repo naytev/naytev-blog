@@ -4,6 +4,9 @@ machine:
 dependencies:
     override:
         - bundle install
+test:
+  override:
+    - echo "test"
 deployment:
    production: # just a label; label names are completely up to you
     branch: master
