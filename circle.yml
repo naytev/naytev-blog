@@ -7,7 +7,15 @@ dependencies:
 test:
   post:
       - chmod +x ./_scripts/cibuild
-      - ./_scripts/cibuild
+      - chmod +x ./_scripts/cibuild_staging
+    production: 
+      commands:
+        - ./_scripts/cibuild
+
+   dev: 
+      branch: dev
+      commands:
+        - ./_scripts/cibuild_staging
 deployment:
    production: # just a label; label names are completely up to you
     branch: master
