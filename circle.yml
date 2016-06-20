@@ -1,0 +1,19 @@
+machine:
+  ruby:
+    version: "2.2"
+dependencies:
+    override:
+        - bundle install
+test:
+  post:
+      - chmod +x ./_scripts/cibuild
+      - ./_scripts/cibuild
+deployment:
+   production: # just a label; label names are completely up to you
+    branch: master
+    commands:
+      - S3_BUCKET=blog.naytev.com CLOUDFRONT_ID=EAS8NJISRIV5E bundle exec s3_website push
+   dev: # just a label; label names are completely up to you
+    branch: master
+    commands:
+      - S3_BUCKET=blog.naytev-staging.tech bundle exec s3_website push
