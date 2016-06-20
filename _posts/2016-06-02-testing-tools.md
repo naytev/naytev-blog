@@ -51,4 +51,4 @@ A newer alterative to Unbounce is [Lander](http://www.landerapp.com), a landing 
 
 {% include _image.html src="/images/posts/testing-tools/naytev-logo.png" %}
 
-[Naytev](https://wwww.naytev.com) is the gold standard in A/B testing for social. Major publishers and brands alike use Naytev to test how their content appears on social media.
+[Naytev](https://www.naytev.com) is the gold standard in A/B testing for social. Major publishers and brands alike use Naytev to test how their content appears on social media.
