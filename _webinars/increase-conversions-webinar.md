@@ -1,6 +1,6 @@
 ---
 title: "Increase Conversions Across Every Step in the Customer Journey"
-short_title: "Increase Conversions Across Customer Journey"
+short_title: "Increase Conversions Across Customer Journey" 
 subtitle: Sync on-site and social testing
 cover_image: webinars/test.png
 duration_minutes: 64

@@ -44,6 +44,8 @@ inc:
 
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
+timezone: America/Los_Angeles
+
 # Collections
 
 collections:
