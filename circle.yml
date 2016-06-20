@@ -14,4 +14,4 @@ deployment:
     branch: dev
     commands: 
       - bundle exec jekyll build --config _config.yml,_config_staging.yml
-      - S3_BUCKET=blog.naytev-staging.tech bundle exec s3_website push
+      - S3_BUCKET=blog.naytev-staging.tech CLOUDFRONT_ID=E30KKM3CMIGHYA bundle exec s3_website push
