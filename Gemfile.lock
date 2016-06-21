@@ -41,9 +41,9 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
+    jekyll-url (0.1.0)
     jekyll-watch (1.4.0)
       listen (~> 3.0, < 3.1)
-    jekyll_url (0.1.0)
     kramdown (1.11.1)
     liquid (3.0.6)
     listen (3.0.8)
@@ -86,7 +86,7 @@ DEPENDENCIES
   jekyll-compose
   jekyll-last-modified-at
   jekyll-paginate
-  jekyll_url
+  jekyll-url
   maruku
   neat
   rake
