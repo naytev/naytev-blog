@@ -1,0 +1,14 @@
+---
+layout: base
+---
+
+<article class='container'>
+	<h1>Guides</h1>
+	<p>Here are all the guides we've put together.</p>
+
+	<ul>
+		{% for guide in site.guides %}
+			<li><a href='{{site.url}}{{guide.url}}'>{{ guide.title }}</a></li>
+		{% endfor %}
+	</ul>
+</article>
