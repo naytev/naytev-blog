@@ -8,9 +8,9 @@ body_class: homepage
 {% for post in paginator.posts limit: 1 %}
     {% assign author = site.data.authors[post.author] %}
     {% if post.cover_image %}
-        <div class="blog-cover" style="background-image:url(/images/{{ post.cover_image }});">
+        <div class="blog-cover" style="background-image:url({{site.url}}/images/{{ post.cover_image }});">
     {% else %}
-        <div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
+        <div class="blog-cover" style="background-image:url({{site.url}}/images/{{ site.inc.cover_image }});">
     {% endif %}
         <section>
         </section>
@@ -44,7 +44,7 @@ body_class: homepage
         <div class='row'>
             <div class='col-md-4 col-sm-12'>
                 <div class='index-img-wrapper'>
-                    <img src="/images/{{ post.cover_image }}" class="image">
+                    <img src="{{site.url}}/images/{{ post.cover_image }}" class="image">
                 </div>
             </div>
             <div class='col-md-8 col-sm-12'>
