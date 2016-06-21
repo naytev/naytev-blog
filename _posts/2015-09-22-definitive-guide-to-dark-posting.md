@@ -36,7 +36,7 @@ The first three articles are available now:
 
 We'll continue to update the guide over the coming months. We've also created a permanent page to consolidate all past and future information about Dark Testing, so that you can share, bookmark, or otherwise use this guide to your heart's desire:
 
-View the entire <a href="/dark-post-testing-guide" target="_blank">Dark Testing Guide</a> here.
+View the entire <a href="/guides/dark-post-testing-guide" target="_blank">Dark Testing Guide</a> here.
 
 Happy testing!
 

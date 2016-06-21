@@ -49,41 +49,46 @@
     src="https://www.facebook.com/tr?id=867296566658387&ev=PageView&noscript=1"
     /></noscript>
     <!-- End Facebook Pixel Code -->    
+    {% include _scripts.html %}
 </head>
-<body {% if page.body_class %}class= "{{ page.body_class }}"{% endif %}>
-    
-{% include _navbar.html %}
+<body class="top-navigation {% if page.body_class %}{{ page.body_class }}{% endif %}">
+    <div id='wrapper'>
+        <div id='page-wrapper'>
+            
+            {% include _navbar.html %}
 
-{{ content }}
+            {{ content }}
 
-<footer class="site-footer">
-    <div class="container">
-        &copy; {{ site.time | date: "%Y" }} 
-        
-        <nav>
-            <a href="https://www.naytev.com">{{ site.inc.company }}</a> &middot;
-            <a href="https://www.naytev.com">Home</a> &middot;
-            <a href="http://blog.naytev.com">Insights</a> &middot;
-            <a href="https://www.naytev.com/pricing">Pricing</a> &middot;
-            {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">About</a>{% endif %}
-            <a href="/dark-post-testing-guide">Dark Testing Guide</a>
-        </nav>
-        
-        <nav class="social">
-            {% if site.inc.twitter %}
-            <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="fa fa-twitter black"></i></a>
-            {% endif %}
-            {% if site.inc.facebook %}
-            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Follow on Facebook" target="_blank"><i class="fa fa-facebook black"></i></a>
-            {% endif %}    
-            <a href="/feed.xml" title="RSS Feed">
-                <i class="fa fa-rss black"></i>
-            </a>
-        </nav>
+            <footer class="site-footer">
+                <div class="container">
+                    &copy; {{ site.time | date: "%Y" }} 
+                    
+                    <nav>
+                        <a href="https://www.naytev.com">{{ site.inc.company }}</a> &middot;
+                        <a href="https://www.naytev.com">Home</a> &middot;
+                        <a href="http://blog.naytev.com">Insights</a> &middot;
+                        <a href="https://www.naytev.com/pricing">Pricing</a> &middot;
+                        {% if site.inc.about_link %}<a href="{{ site.inc.about_link }}">About</a>{% endif %}
+                        <a href="/dark-post-testing-guide">Dark Testing Guide</a>
+                    </nav>
+                    
+                    <nav class="social">
+                        {% if site.inc.twitter %}
+                        <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
+                        {% endif %}
+                        {% if site.inc.facebook %}
+                        <a href="http://facebook.com/{{ site.inc.facebook }}" title="Follow on Facebook" target="_blank"><i class="fa fa-facebook"></i></a>
+                        {% endif %}    
+                        <a href="/feed.xml" title="RSS Feed">
+                            <i class="fa fa-rss"></i>
+                        </a>
+                    </nav>
+                </div>
+            </footer>
+
+
+        </div>
     </div>
-</footer>
-
-{% include _scripts.html %}
 
 </body>
 </html>

@@ -1,0 +1,51 @@
+---
+layout: base
+---
+
+<article>
+
+    <div class="container">
+        <header>
+            <span class='label label-warning'><i class='fa fa-video-camera'></i> WEBINAR</span>
+            <h1 class="title">{{ page.title }}</h1>
+            {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
+            {% if page.air_date > site.time %}
+                <h5 class='text-success'><i class='fa fa-calendar'></i> {{ page.air_date | date: '%A %B %d, %Y @ %I:%M %p'}}</h5>
+            {% endif %}
+            <h5 class='text-success'><i class='fa fa-clock-o'></i> {{ page.duration_minutes }} minutes</h5>
+            {% if page.air_date > site.time %}
+
+                {% capture duration_seconds %}{{ page.duration_minutes | times: 60 }}{% endcapture %}
+
+                {% capture start_time %}{{ page.air_date | date: "%c" }}{% endcapture %}
+                
+                {% capture end_time %}{{page.air_date | date: "%s" | plus: duration_seconds | date: "%c" }}{% endcapture %}
+
+                {% include _event_register.html call_to_action="Register Now! FREE" end_time=end_time start_time=start_time title=page.title description=page.calendar_description location=page.live_webinar_link %}
+
+            {% elsif page.embed_link %}
+                <h4>Watch the recording from this webinar below!</h4>
+            {% endif %}
+
+        </header>
+
+        <section>
+
+            {{ content }}
+
+            {% if page.embed_link %}
+                {{ page.embed_link }}
+            {% elsif page.promo_image %}
+                {% capture promo_image %}/images/{{page.promo_image}}{% endcapture %}
+                {% include _image.html src=promo_image %} 
+            {% endif %}
+
+            {% include _social.html %}
+        </section>
+
+        {% if page.popup %}
+            {% include _popup.html %}
+        {% endif %}
+
+    </div>
+</article>

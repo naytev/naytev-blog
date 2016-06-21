@@ -37,6 +37,28 @@ article:not(#featured) {
 	padding-top: 10px;
 }
 
+.content-stub {
+	margin: 15px;
+	width: 350px;
+	background: #fff;
+	padding: 0px;
+	.content-stub-link > div:not(.content-stub-img-wrapper) {
+		padding: 20px 25px;
+	}
+	@extend .z-depth-1;
+	h2.title {
+		color: $navy;
+	}
+	.content-stub-img-wrapper {
+		padding: 0px;
+		max-height: 250px;
+		overflow: hidden;
+		border-bottom: 1px solid whitesmoke;
+		img {
+			margin: 0;
+		}
+	}
+}
 body.homepage {
 
 	.container {
@@ -65,22 +87,6 @@ body.homepage {
 		@extend .z-depth-1;
 	}
 
-	@media (min-width: 721px) {
-		article:not(#featured) {
-			section > div:first-child {
-				@include outer-container;
-				> div {
-					&:first-of-type {
-					 @include span-columns(4);
-					}
-					&:last-of-type {
-					  @include span-columns(8);	
-					}
-				}
-			}
-		}
-	}
-
 	@media (max-width: 720px) { 
 
 		#featured {
@@ -102,39 +108,7 @@ body.homepage {
 			.index img {
 				display: inline;
 			}	
-
-			section > div:first-child {
-				@include outer-container;
-				> div {
-					&:first-of-type {
-					 @include span-columns(12);
-					}
-					&:last-of-type {
-					  @include span-columns(12);	
-					}
-				}			
-			}
 		}	
-	}
-}
-
-body.guide {
-	.container {
-		max-width: 960px;
-	}
-	.blog-cover {
-		height: 400px;
-	}
-	#guide-overview {
-		padding: 40px 20px 20px 20px !important;
-	}
-	section.index {
-		@include outer-container;
-		> div {
-		@include span-columns(4);
-		@include omega;
-		padding: 20px;
-		}
 	}
 }
 
@@ -145,7 +119,7 @@ body.guide {
 		}
     	section.index {
         	> div {
-        		@include span-columns(12);
+        		// @include span-columns(12);
         	}
     	}
     }
