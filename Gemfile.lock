@@ -1,8 +1,3 @@
-PATH
-  remote: /Users/mbseid/Dev/naytev/jekyll-url
-  specs:
-    jekyll-url (0.1.1)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -46,6 +41,7 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
+    jekyll-url (0.1.2)
     jekyll-watch (1.4.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.11.1)
@@ -90,7 +86,7 @@ DEPENDENCIES
   jekyll-compose
   jekyll-last-modified-at
   jekyll-paginate
-  jekyll-url!
+  jekyll-url
   maruku
   neat
   rake
@@ -99,4 +95,4 @@ DEPENDENCIES
   uglifier
 
 BUNDLED WITH
-   1.11.2
+   1.12.5
