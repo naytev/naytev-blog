@@ -2,7 +2,7 @@
 layout: post
 title: The Hard, Simple Truth
 
-subtitle: One Social Network Still Dominates Publisher Site Traffic
+subtitle: One Social Network Still Dominates Publisher Site Traffic, mike is awesome
 
 cover_image: posts/hard-simple-truth/colors.jpg
 
