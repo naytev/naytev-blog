@@ -41,7 +41,7 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
-    jekyll-url (0.1.1)
+    jekyll-url (0.1.2)
     jekyll-watch (1.4.0)
       listen (~> 3.0, < 3.1)
     kramdown (1.11.1)
