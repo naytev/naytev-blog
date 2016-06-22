@@ -28,7 +28,7 @@ The first three articles are available now:
 		<a href="/reasons-you-should-run-dark-post-tests/" target="_blank">4 Reasons You Should A/B Test With Dark Posts</a>
 	</li>
 	<li>
-		<a href="/dark-test-recipe/" target="_blank">How to A/B Test on Facebook Using Dark Posts</a>
+		<a href="/dark-test-recipe/" target="_blank">How to A/B Test on Facebook Using Dark Posts wooot woot</a>
 	</li>
 </ul>
 
