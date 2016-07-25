@@ -1,0 +1,54 @@
+<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#register_modal">
+    {{ include.call_to_action }}
+</button>
+
+<div class="modal inmodal" id="register_modal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+    <div class="modal-content animated bounceInRight">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <i class="fa fa-laptop modal-icon"></i>
+                <h4 class="modal-title">Register for {{ include.title }}</h4>
+                <small class="font-bold">{{ include.start_time | date: '%A %B %d, %Y @ %I:%M %p' }}</small>
+            </div>
+            <div class="modal-body">
+                <div class='registration-start'>
+                    <p>{{ include.calendar_description }}</p>
+
+                    <form id='registration-form'
+                          method="POST"
+                          action="https://docs.google.com/forms/d/1OGAEfNFy25bqQdwDFzgCiLMzRx1_lyYKcQV6yi6-XtA"
+                          onsubmit="return window.submitGoogleForm(this);">
+
+                        <div class="form-group"><label>First Name</label> <input required name="entry.324639070" type="text" placeholder="First Name" class="form-control"></div>
+                        <div class="form-group"><label>Last Name</label> <input required name="entry.2030185983" type="text" placeholder="Last Name" class="form-control"></div>
+                        <div class="form-group"><label>Work Email</label> <input required name="entry.1031652394" type="email" placeholder="Work email" class="form-control"></div>
+                        <div class="form-group"><label>Company Name</label> <input required name="entry.1046695546" type="text" placeholder="Company Name" class="form-control"></div>
+                        <div class='text-center'><button type="submit" class='btn btn-primary btn-lg' id="registration-submit">{{include.call_to_action}}</button></div>
+                    </form>
+                        
+                </div>
+                <div class='registration-complete text-center'>
+                    <h2><i class='fa fa-thumbs-o-up text-success'></i> Your spot is confirmed!</h2>
+                    <span class="addtocalendar btn-lg atc-style-blue">
+                        <var class="atc_event">
+                            <var class="atc_date_start">{{ include.start_time }}</var>
+                            <var class="atc_date_end">{{ include.end_time }}</var>
+                            <var class="atc_timezone">America/Los_Angeles</var>
+                            <var class="atc_title">{{ include.title }}</var>
+                            <var class="atc_description">{{ include.description }}</var>
+                            <var class="atc_location">{{ include.location }}</var>
+                        </var>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $("#registration-form").bind("submit", function(e){
+        $(".registration-start").hide();
+        $(".registration-complete").fadeIn();
+    });
+</script>

@@ -2,50 +2,43 @@
 layout: base
 ---
 
-<div class="blog-cover" style="background-image:url(/images/{{ page.cover_image }});">
-    
-    <section>
-        <div class="container">
-            <h1>{{ page.guide_title }}</h1>
-            {% if page.guide_subtitle %}<h3>{{ page.guide_subtitle }}</h3>{% endif %}
-        
-        </div>
-    </section>
-</div>
-
-
-<article class="container" id="guide-overview">
-  {{ content }}  
-</article>
-
 <article class="container">
-  <section class="index">
-  {% for post in site.categories[page.category]  %}
-    {% unless post.draft %}
-    {% assign author = site.data.authors[post.author] %}
-      
-          <div>
-              <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
-              <p>{{ post.excerpt }}</p>
-              <div class="meta">
-                  By <address>{{ author.name }}</address> <br/>
-                  {{ post.content | reading_time }} read
-              </div>
-          </div>
-      
-      {% endunless %}
-  {% endfor %}
-  </section>
-  <section class="pagination" style="text-align:center">
-    {% if paginator.previous_page %}
-      {% if paginator.previous_page == 1 %}
-      <a href="/" class="btn btn-outline">‹ Newer</a>
-      {% else %}
-      <a href="/page{{ paginator.previous_page }}" class="btn btn-outline">‹ Newer</a>
-      {% endif %}
+    <header>
+        <span class='label label-primary'><i class='fa fa-flag'></i> GUIDE</span>
+        <h1 class="title">{{ page.title }}</h1>
+        {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
+    </header>
+
+        {{ content }}
+
+    <div class='stubs clearfix'>
+        {% for post in site.categories[page.category]  %}
+            {% unless post.draft %}
+            {% assign author = site.data.authors[post.author] %}
+            <div class='content-stub'>
+              <a href="{{ post.url }}" class='content-stub-link'> 
+                {% if post.cover_image %}
+                  <div class='content-stub-img-wrapper'>
+                    <img src="{{site.url}}/images/{{ post.cover_image }}" class="image">
+                  </div>  
+                {% endif %}
+                  <div>
+                  <h2 class="title">{{ post.title }}</h2>
+                  <p>{{ post.excerpt }}</p>
+                  <div class="meta">
+                      By <address>{{ author.name }}</address> <br/>
+                      {{ post.content | reading_time }} read
+                  </div>
+                  </div>
+              </a>
+            </div>
+          {% endunless %}
+        {% endfor %}
+      </div>
+
+        {% include _social.html %}
+
+    {% if page.popup %}
+        {% include _popup.html %}
     {% endif %}
-    {% if paginator.next_page %}
-      <a href="/page{{ paginator.next_page }}" class="btn btn-outline">Older ›</a>
-    {% endif %}
-  </section>
 </article>

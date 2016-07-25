@@ -1,0 +1,16 @@
+body.webinar {
+	article {
+		background-color: whitesmoke;
+	}
+	.blog-cover {
+		height: 400px;
+	}
+	#guide-overview {
+		padding: 40px 20px 20px 20px !important;
+	}
+	section.index {
+		> div {
+		padding: 20px;
+		}
+	}
+}

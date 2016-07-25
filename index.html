@@ -8,9 +8,9 @@ body_class: homepage
 {% for post in paginator.posts limit: 1 %}
     {% assign author = site.data.authors[post.author] %}
     {% if post.cover_image %}
-        <div class="blog-cover" style="background-image:url(/images/{{ post.cover_image }});">
+        <div class="blog-cover" style="background-image:url({{site.url}}/images/{{ post.cover_image }});">
     {% else %}
-        <div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
+        <div class="blog-cover" style="background-image:url({{site.url}}/images/{{ site.inc.cover_image }});">
     {% endif %}
         <section>
         </section>
@@ -20,7 +20,7 @@ body_class: homepage
         <section class="index" >
             <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
                 <div>
-                    <h1 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h1>
+                    <h1 class="title"><a href="{{site.url}}{{ post.url }}" rel="prefetch">{{ post.title }}</a></h1>
                     <h3>{{ post.subtitle }} </h3>
                     <p>{{ post.excerpt }}</p>
                 </div>
@@ -41,12 +41,14 @@ body_class: homepage
   {% assign author = site.data.authors[post.author] %}
     <section class="index">
         <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
-        <div>
-            <div class='index-img-wrapper'>
-                <img src="/images/{{ post.cover_image }}" class="image">
+        <div class='row'>
+            <div class='col-md-4 col-sm-12'>
+                <div class='index-img-wrapper'>
+                    <img src="{{site.url}}/images/{{ post.cover_image }}" class="image">
+                </div>
             </div>
-            <div>
-                <h2 class="title"><a href="{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
+            <div class='col-md-8 col-sm-12'>
+                <h2 class="title"><a href="{{site.url}}{{ post.url }}" rel="prefetch">{{ post.title }}</a></h2>
                 <p>{{ post.excerpt }}</p>
             </div>
         </div>
@@ -61,13 +63,13 @@ body_class: homepage
     <section class="pagination" style="text-align:center">
       {% if paginator.previous_page %}
         {% if paginator.previous_page == 1 %}
-        <a href="/" class="btn btn-outline">‹ Newer</a>
+        <a href="{{site.url}}" class="btn btn-outline">‹ Newer</a>
         {% else %}
-        <a href="/page{{ paginator.previous_page }}" class="btn btn-outline">‹ Newer</a>
+        <a href="{{site.url}}/page{{ paginator.previous_page }}" class="btn btn-outline">‹ Newer</a>
         {% endif %}
       {% endif %}
       {% if paginator.next_page %}
-        <a href="/page{{ paginator.next_page }}" class="btn btn-outline">Older ›</a>
+        <a href="{{site.url}}/page{{ paginator.next_page }}" class="btn btn-outline">Older ›</a>
       {% endif %}
     </section>
 </article>
