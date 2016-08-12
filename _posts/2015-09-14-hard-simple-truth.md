@@ -72,9 +72,9 @@ Whatever your current social engagement strategies may be, we hope this update o
 
 ## Postscript: A Little More About the Data Analyzed
 
-All analysis was conducted using Naytev’s platform. You can learn more about Naytev here, and even try it free for 14 days.
+All analysis was conducted using Naytev’s platform. You can <a href="http://www.naytev.com/" target="_blank">learn more about Naytev here</a>.
 
-Naytev’s analysis included publicly reported share volume data as well as anonymized publisher site performance data. <a href="http://www.naytev.com/tools/share-count" target="_blank">Visit Naytev’s Share Count tool</a> to see the same share count data we used for the more than 65,000 articles analyzed.
+Naytev’s analysis included publicly reported share volume data as well as anonymized publisher site performance data.
 
 To ensure consistency, we excluded Facebook Likes and Comments, forms of engagement that <a href="http://blog.naytev.com/social-share-buttons-analysis" target="_blank" >publishers typically bundle when reporting share counts publicly</a>, because unlike shares, they do not drive traffic.
 
