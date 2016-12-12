@@ -199,9 +199,14 @@
 
     .mc-field-group { 
       display: inline-block; 
+      vertical-align: top;
+      padding-bottom: 7px;
       label {
         display: none;
         color: #676a6c;
+      }
+      input{
+        line-height: 1.5em;
       }
     } /* positions input field horizontally */
 
