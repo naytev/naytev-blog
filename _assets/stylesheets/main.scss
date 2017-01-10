@@ -1,10 +1,14 @@
 /* CONFIGURATION */
 
 /* Bodytext font */
-$font: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 /* Font for headings */
-$fontheadings: "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$fontheadings: "Brandon Grotesque", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+h1,h2,h3,h4,h5 {
+	font-weight: 400;
+}
 
 /* Text colors */
 $text: #21272d;
