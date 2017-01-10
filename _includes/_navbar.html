@@ -8,15 +8,17 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="{{site.url}}"><img src="{{site.url}}/images/{{ site.inc.logo }}" alt="Naytev"></a>
+      <a class="navbar-brand" href="https://www.naytev.com"><img src="{{site.url}}/images/{{ site.inc.logo }}" alt="Naytev"></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="main-dropdown">
       <ul class="nav navbar-nav" id="landing-header">
-        
+        <li>
+          <a href="{{site.url}}">Insights</a>
+        </li> 
         {% if site.guides.size > 0 %}
-
+        
         <li class='dropdown'>
           <a href="#" data-toggle='dropdown' role='button' aria-haspopup='true' aria-expanded='false'>Guides<span class="caret"></span></a>
           <ul class="dropdown-menu">
@@ -59,10 +61,11 @@
 
 
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Naytev <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="https://www.naytev.com" target="_blank" class="home">Home</a></li>
             <li><a href="http://success.naytev.com/get-started" target="_blank">Documentation</a></li>
+            <li><a href="https://www.naytev.com/careers" target="_blank">Careers</a></li>
+            <li><a href="https://www.naytev.com/pricing" target="_blank">Pricing</a></li>
             <li><a href="https://www.naytev.com/ecommerce" target="_blank">Ecommerce</a></li>
           </ul>
         </li>

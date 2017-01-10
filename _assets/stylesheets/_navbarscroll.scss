@@ -28,8 +28,8 @@
   }
   .navbar-default .nav li a {
     color: #fff;
-    font-family: 'Open Sans', helvetica, arial, sans-serif;
-    font-weight: 700;
+    font-family: 'Brandon Grotesque', helvetica, arial, sans-serif;
+    font-weight: 400;
     letter-spacing: 1px;
     text-transform: uppercase;
     font-size: 14px;
@@ -210,11 +210,31 @@
       }
     } /* positions input field horizontally */
 
-    #mce-EMAIL { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: .9em; border: 2px solid #ABB0B2 ; color: #676a6c; background-color: #fff; padding: .2em 1em .2em .4em; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; display: inline-block; margin: 0; } /* Input Styles */
+    #mc-embedded-subscribe {
+      @extend .btn;
+      @extend .btn-primary;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+    }
+
+    #mce-EMAIL { 
+      font-family: 'Open Sans', Helvetica, Arial, sans-serif; 
+      font-size: 1em; 
+      border: 1px solid $border-color; 
+      color: #676a6c; 
+      background-color: #fff; 
+      padding: .2em 1em .2em .4em; 
+      -webkit-border-radius: 3px; 
+      -moz-border-radius: 3px; 
+      border-radius: 3px; 
+      display: inline-block; 
+      margin: 0; 
+      @extend .form-control;
+    } /* Input Styles */
 
     .clear { display: inline-block; } /* positions button horizontally in line with input */
 
-    .button { font-family: 'Helvetica Neue', Helvetica,  Arial, sans-serif; font-size: .9em; letter-spacing: .03em; color: #fff; background-color: #18a689 ; padding: .2em 1em; border: 2px solid #18a689 ; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; display: inline-block; margin: 0; } /* Button Styles */
+    .button { font-family: 'Brandon Grotesque', Helvetica,  Arial, sans-serif; font-size: .9em; letter-spacing: .03em; color: #fff; background-color: $navy ; padding: .2em 1em; border: 2px solid $navy ; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; display: inline-block; margin: 0; } /* Button Styles */
 
     :-webkit-input-placeholder { color: #676a6c ; } /* WebKit browsers */ 
     :-moz-placeholder { color: #676a6c ; } /* Mozilla Firefox 4 to 18 */

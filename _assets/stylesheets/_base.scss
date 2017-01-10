@@ -46,12 +46,12 @@ h1, h2 {
 }
 
 a {
-    color:$accent;
+    color:$blue;
     text-decoration:none;
     transition:all 0.2s ease;
     
     &:hover {
-        color:darken($accent, 50%);
+        color:darken($navy, 50%);
         text-decoration:none;
     }
 }
