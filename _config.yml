@@ -90,7 +90,7 @@ destination: ./_site
 plugins_dir:     ./_plugins
 layouts_dir:     ./_layouts
 include:     ['.htaccess']
-exclude:     []
+exclude:     [vendor]
 timezone:    nil
 
 # Show future posts
