@@ -49,9 +49,7 @@ Don’t know how to link your RSS Feeds to your account? [Learn right here. ](ht
 
 {% include _image.html src="/images/posts/Performance-Dashboard-Update/Financial-Impact.png" %}
 
-Given Naytev’s unique approach to bridging paid and organic engagement for testing, it’s important to understand the financial impact of optimizing your social content packaging. We calculate financial savings by comparing your winning message to median message cost. We average this across all tests to see how much money you saved by determining the best message beforehand. Through this we can show you the average cost per click, 10 second view, impression, and overall engagement.
-
-You already know that Naytev's intuitive testing process saves you time, but now you can see the direct financial ROI within your Performance Dashboard.
+Naytev takes a unique approach of bridging paid and organic engagement for testing. With this in mind, we share the financial impact of optimizing your social content packaging. First, we’ll show you your average cost across key metrics - this is a weighted average, reflecting total budget spent divided by total engagement earned. We also calculate savings, comparing the weighted average cost metrics of your median performing test messages with those of your best messages. We do this automatically for you, so you can always keep tabs on your team’s return on investment.
  
 ## Organic From Paid Performance Boost
 
