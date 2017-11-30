@@ -6,7 +6,6 @@ cover_image: posts/facebook-domain-verification/gift.jpeg
 excerpt:""
 author: patrick_costello
 ---
-
 Facebook has provided much needed details on how to edit your link posts and take control of how your content appears on Facebook. Facebook has introduced the concept of “Domain Ownership” which allows businesses to claim domains and say “This link is mine!”. In this post we share how to complete the update in 3 steps: 
 
 - Add your Web Domain to your Facebook Business Account
