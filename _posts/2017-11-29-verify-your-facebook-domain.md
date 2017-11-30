@@ -1,52 +1,54 @@
 ---
 layout: post
+subtitle:
+excerpt: ""
 title: 3 Ways to Verify Your Facebook Domain and Edit Link Post Previews
 subtitle: Take Control of Your Content Packaging
 cover_image: posts/Verify-Your/gift.jpeg
 author: patrick_costello
 ---
 
-Facebook has provided much needed details on how to edit your link posts and take control of how your content appears on Facebook. Facebook has introduced the concept of “Domain Ownership” which allows businesses to claim domains and say “This link is mine!”. In this post we share how to complete the update in 3 steps: 
+Facebook has provided much needed details on how to edit your link posts and take control of how your content appears on Facebook. Facebook has introduced the concept of “Domain Ownership” which allows businesses to claim domains and say “This link is mine!”. In this post we share how to complete the update in 3 steps:
 
 - Add your Web Domain to your Facebook Business Account
 - Complete DNS Verification or HTML File Upload
 - Associate Your Pages with a Verified Domain
 
-## When Do You Need to Make Updates? 
+## When Do You Need to Make Updates?
 
-We recommend taking action as soon as possible, but no later than early January 2018. Facebook states, “In early Q1 2018, we will only allow verified domain owners to edit their link posts.” Configuration should take less than a few hours. 
+We recommend taking action as soon as possible, but no later than early January 2018. Facebook states, “In early Q1 2018, we will only allow verified domain owners to edit their link posts.” Configuration should take less than a few hours.
 
-*Content is a product, and how you package your product is critical. The sooner you make these updates to take control of your packaging the better.* 
+*Content is a product, and how you package your product is critical. The sooner you make these updates to take control of your packaging the better.*
 
 ## Context: With Great Power Comes Great Responsibility
 
-[On July 18th, 2017, Facebook discontinued the ability for most teams to modify their link content previews](https://www.facebook.com/business/help/247886969033572) due to concerns around bad actors modifying the packaging of content that wasn’t theirs to modify. 
+[On July 18th, 2017, Facebook discontinued the ability for most teams to modify their link content previews](https://www.facebook.com/business/help/247886969033572) due to concerns around bad actors modifying the packaging of content that wasn’t theirs to modify.
 
 > “As part of our continuing efforts to stop the spread of misinformation and false news on our platform, we’re removing the ability for any Page to edit how a link appears on Facebook. By removing the ability to alter link metadata (i.e. headline, description, image) from all link sharing entry points on Facebook, we are eliminating a channel that has been abused to post false news. Our blog post has more information. On July 18, 2017 the ability to overwrite metadata for previews attached to link posts will no longer be available for most Pages and apps.” – Facebook
 
 
-Imagine a bad actor modifying the [Washington Post article that debunks the story that NASA was kidnapping children and sending them to Mars](https://www.washingtonpost.com/news/speaking-of-science/wp/2017/07/01/no-alex-jones-nasa-is-not-hiding-kidnapped-children-on-mars-nasa-says/?utm_term=.988134806ef4), instead writing “NASA Takes Kidnapped Children to Mars”. Unfortunately, some people believe this, sharing without reading. Bad News Bears. 
+Imagine a bad actor modifying the [Washington Post article that debunks the story that NASA was kidnapping children and sending them to Mars](https://www.washingtonpost.com/news/speaking-of-science/wp/2017/07/01/no-alex-jones-nasa-is-not-hiding-kidnapped-children-on-mars-nasa-says/?utm_term=.988134806ef4), instead writing “NASA Takes Kidnapped Children to Mars”. Unfortunately, some people believe this, sharing without reading. Bad News Bears.
 
 {% include _image.html src="/images/posts/Verify-Your/mars.gif"%}
 
-Yes, this is a silly example, but the underlying issue - unrestricted editing - can cause issues. Facebook understandably needed to take action. That said, social media teams regularly modify their Facebook link post image, headline, and description to something other than the default content defined in their Open Graph Tags (aka “OG” tags; [learn more here](https://developers.facebook.com/docs/sharing/best-practices/). Facebook previously allowed teams to do this for years, since default text and images often aren’t optimized for Facebook. Headlines can be too long, not punchy enough for social, or need revisions, and images may simply be low quality or not the best performing option. 
+Yes, this is a silly example, but the underlying issue - unrestricted editing - can cause issues. Facebook understandably needed to take action. That said, social media teams regularly modify their Facebook link post image, headline, and description to something other than the default content defined in their Open Graph Tags (aka “OG” tags; [learn more here](https://developers.facebook.com/docs/sharing/best-practices/). Facebook previously allowed teams to do this for years, since default text and images often aren’t optimized for Facebook. Headlines can be too long, not punchy enough for social, or need revisions, and images may simply be low quality or not the best performing option.
 
-Editing enables teams to improve post engagement by using better content packaging. This is why clients use [Naytev](https://www.naytev.com) to A/B Test Facebook posts. 
+Editing enables teams to improve post engagement by using better content packaging. This is why clients use [Naytev](https://www.naytev.com) to A/B Test Facebook posts.
 
 # A Flexible Solution Is Here! Facebook Domain Verification with Business Manager
-Facebook is providing a few ways to not only edit link previews again, but also allow you to claim content ownership so that only your team can modify your link post previews. Awesome! 
+Facebook is providing a few ways to not only edit link previews again, but also allow you to claim content ownership so that only your team can modify your link post previews. Awesome!
 
 All methods involve verifying your ownership of your web domain. Here are your options:
 
 * DNS Verification (involves Business Manager)
-* HTML File Upload (involves Business Manager) 
+* HTML File Upload (involves Business Manager)
 * Open Graph Markup Tag (no Business Manager)
 
-Facebook (and Naytev) recommend option 1 or 2; they’re easier to manage and more flexible. Below are Facebook’s exact recommended steps for implementing these two options. 
+Facebook (and Naytev) recommend option 1 or 2; they’re easier to manage and more flexible. Below are Facebook’s exact recommended steps for implementing these two options.
 
 ## Complete Facebook Domain Verification with Business Manager
 
-We’ll keep this brief. There are 3 Steps: 
+We’ll keep this brief. There are 3 Steps:
 
 - Add your Web Domain to your Facebook Business Account
 - Complete DNS Verification OR HTML File Upload
