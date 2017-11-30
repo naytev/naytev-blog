@@ -86,7 +86,7 @@ Just like before, the images aren’t meaningfully different. If you’re trying
 
 Another thing to keep in mind is the quality of your images. Blurry, out of focus (unless it’s artistic), and low-res images have a much lower engagement rate with audiences. Stock Photos generally have a bad rap, but we at Naytev love sites like [Pexels](www.pexels.com), [Pixabay](www.pixabay.com), and [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page). They offer myriad photo options spanning a huge range of moods, subjects, and topics. 
 
-{% include _image.html src="/images/posts/bestpractices1/Highquality.png" %}
+{% include _image.html src="/images/posts/bestpractices1/highquality.png" %}
 
 All the images used in the examples above are royalty free and taken from our favorite sites. We have two blogposts that dive into the free resources we love and use:
 
