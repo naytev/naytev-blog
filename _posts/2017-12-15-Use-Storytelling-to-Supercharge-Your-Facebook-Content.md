@@ -2,12 +2,12 @@
 layout: post
 title: Use Storytelling to Supercharge Your Facebook Content
 subtitle: Want to stand out in the Facebook feed? Here's your secret weapon. 
-cover_image: posts/brighttalk/Header.jpg
+cover_image: posts/brighttalk/header.jpg
 excerpt: ""
 author: justine_chong
 ---
 
-If you missed our CEO's Brighttalk webinar due to your busy schedule, dont worry! You can catch it in full below:
+If you missed our CSO's Brighttalk webinar due to your busy schedule, dont worry! You can catch it in full below:
 
 <div markdown="0" class="jsBrightTALKEmbedWrapper" style="width:100%; height:100%; position:relative;background: #ffffff ;"><script class="jsBrightTALKEmbedConfig" type="application/json">{ "channelId" : 43, "language": "en-US", "commId" : 291867, "displayMode" : "standalone", "height" : "auto" }</script><script src="https://www.brighttalk.com/clients/js/player-embed/player-embed.js" class="jsBrightTALKEmbed"></script></div>
 
@@ -28,7 +28,7 @@ Oh, you have a little more time that that? We got you. Here are the talk's high 
 
 ## How can you remain dominant on your fan's Facebook Feed? 
 {% include _image.html src="/images/posts/brighttalk/facebookisalwayschanging.jpg"%}
-{% include _image.html src="/images/posts/brighttalk/What can you achieve with testing.jpg"%}
+{% include _image.html src="/images/posts/brighttalk/achieve-with-testing.jpg"%}
 - A Facebook A/B Test is defined as taking a singular piece of content and uploading different variations of copy, thumbnail, and headline to test against a singular audience. 
     - Naytev's Testing methodology combines the traditional buckets of *Paid Engagement* and *Organic Engagement* to help achieve your social media goals. 
 - Naytev streamlines the testing process and cuts down test prep time, but you can also manually create A/B Tests Directly in the Facebook Ads Manager by following these steps.
@@ -66,12 +66,12 @@ Oh, you have a little more time that that? We got you. Here are the talk's high 
 ## Test Best Practices & Things to Keep in Mind
 {% include _image.html src="/images/posts/brighttalk/packaging.jpg"%}
 - Take a multivariate approach to storytelling.
-{% include _image.html src="/images/posts/brighttalk/WholePackage.jpg"%}
+{% include _image.html src="/images/posts/brighttalk/wholepackage.jpg"%}
 - It's not a single variable that makes someone click on your content, it's how it comes together as a package.
 - Make sure your message variants are truly different from each other. What makes a meaningful difference? Check out our past blogpost on Best Practices here.
 - Stick to creating 6-9 Message Variations
 - Let your Ad Set run to completion to capitalize on the organic "social echo" that Paid Spend gives you. 
-{% include _image.html src="/images/posts/brighttalk/MakeTime.jpg"%}
+{% include _image.html src="/images/posts/brighttalk/maketime.jpg"%}
 - Testing is so instrumental, many publishing teams plan to include testing within their editorial schedule. 
 
 ## Analyze Your Test Results 
