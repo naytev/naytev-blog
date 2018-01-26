@@ -7,7 +7,7 @@ excerpt: '"The end is nigh", "All hope is lost", "Organic is dead". Some claim F
 author: patrick_costello
 ---
 
-“The end is nigh”, “All hope is lost”, “Organic is dead”. Some claim Facebook’s News Feed algorithm update is a death blow to organic content performance. But it’s not. It’s an opportunity for great content to shine.
+“The end is nigh”, “All hope is lost”, “Organic is dead”. Some claim Facebook’s News Feed algorithm update is a death blow to organic content performance. But as usual, these claims are greatly overblown. To the contrary, this round of updates creates a new opportunity for great content to shine.
 
 Rather than rehash doomsday concerns, let’s focus on what we know and how to quickly adapt. First, here’s a consolidated recap of Facebook’s update:
 
