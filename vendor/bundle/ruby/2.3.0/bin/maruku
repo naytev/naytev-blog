@@ -19,5 +19,4 @@ if ARGV.first
   end
 end
 
-gem 'maruku', version
 load Gem.bin_path('maruku', 'maruku', version)

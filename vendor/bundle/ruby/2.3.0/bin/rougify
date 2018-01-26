@@ -19,5 +19,4 @@ if ARGV.first
   end
 end
 
-gem 'rouge', version
 load Gem.bin_path('rouge', 'rougify', version)

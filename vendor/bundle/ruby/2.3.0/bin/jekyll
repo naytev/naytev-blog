@@ -19,5 +19,4 @@ if ARGV.first
   end
 end
 
-gem 'jekyll', version
 load Gem.bin_path('jekyll', 'jekyll', version)
