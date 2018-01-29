@@ -1,9 +1,12 @@
 ---
+title: Adapt to Facebook’s Algorithm Update with Better Storytelling
+date: 2018-01-26 00:00:00 -08:00
 layout: post
-title: "Adapt to Facebook’s Algorithm Update with Better Storytelling"
-subtitle: "Focus on the Fundamentals: Great Content + Great Packaging"
+subtitle: 'Focus on the Fundamentals: Great Content + Great Packaging'
 cover_image: posts/algorithm-update/header.jpeg
-excerpt: '"The end is nigh", "All hope is lost", "Organic is dead". Some claim Facebook\’s News Feed algorithm update is a death blow to organic content performance. But it\’s not. It’s an opportunity for great content to shine.'
+excerpt: '"The end is nigh", "All hope is lost", "Organic is dead". Some claim Facebook\’s
+  News Feed algorithm update is a death blow to organic content performance. But it\’s
+  not. It’s an opportunity for great content to shine.'
 author: patrick_costello
 ---
 

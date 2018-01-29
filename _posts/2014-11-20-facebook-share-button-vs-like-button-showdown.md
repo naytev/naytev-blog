@@ -1,12 +1,13 @@
 ---
-layout: post
-
 title: The Facebook Share Button vs. Like Button Showdown
-subtitle: Using the Wrong Button Will Crush Your Exposure and Undermine Your Social Media Marketing
+date: 2014-11-20 00:00:00 -08:00
+layout: post
+subtitle: Using the Wrong Button Will Crush Your Exposure and Undermine Your Social
+  Media Marketing
 cover_image: posts/showdown/showdown.jpg
-
-excerpt: "Every day, websites lose the exposure they deserve to a problem that takes moments to solve: they ask readers to Like their content, when they should ask readers to Share it instead."
-
+excerpt: 'Every day, websites lose the exposure they deserve to a problem that takes
+  moments to solve: they ask readers to Like their content, when they should ask readers
+  to Share it instead.'
 author: aubrie_johnson
 ---
 

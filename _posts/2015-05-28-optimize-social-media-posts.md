@@ -1,14 +1,14 @@
 ---
-layout: post
-
 title: Optimize Social Media Posts
+date: 2015-05-28 00:00:00 -07:00
+categories:
+- optimization
+- social sharing
+layout: post
 subtitle: Drive More Engagement By Making Data Driven Decisions
 cover_image: posts/optimize-posts/dress.jpg
-
-excerpt: Your content only gets one first impression. Naytev makes sure it’s the right one by tracking and optimizing organic sharing. 
-
-categories: [optimization, social sharing]
-
+excerpt: Your content only gets one first impression. Naytev makes sure it’s the right
+  one by tracking and optimizing organic sharing.
 author: edward_ridgely
 ---
 

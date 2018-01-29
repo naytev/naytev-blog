@@ -1,12 +1,13 @@
 ---
+title: A/B Testing is Like a Gym Membership
+date: 2016-05-25 00:00:00 -07:00
 layout: post
-title: 'A/B Testing is Like a Gym Membership'
-subtitle: 'Lessons from the world of exercise'
+subtitle: Lessons from the world of exercise
 cover_image: posts/a-b-testing-membership/dog.png
-excerpt: "Like signing up for a gym membership, simply buying A/B testing software won't improve your performance."
+excerpt: Like signing up for a gym membership, simply buying A/B testing software
+  won't improve your performance.
 author: zack_liscio
 popup: true
-
 ---
 
 It is common knowledge that gym memberships spike in January, when people sign up to fulfill their New Year’s Resolutions. It doesn’t take long before many of them stop attending. There’s a similar pattern with A/B testing; like exercise, people know it’s an important thing they should be doing, but often aren’t willing to put in the time and effort to do it well.

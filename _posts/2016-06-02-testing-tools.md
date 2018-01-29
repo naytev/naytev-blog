@@ -1,12 +1,12 @@
 ---
+title: A/B Testing Tools Roundup
+date: 2016-06-02 00:00:00 -07:00
 layout: post
-title: 'A/B Testing Tools Roundup'
-subtitle: 'The platforms you need for testing'
+subtitle: The platforms you need for testing
 cover_image: posts/testing-tools/cover.jpg
-excerpt: "There are many tools available for A/B testing. Here are the ones you need."
+excerpt: There are many tools available for A/B testing. Here are the ones you need.
 author: zack_liscio
 popup: true
-
 ---
 
 There are many tools available for A/B testing, and depending on your needs, budget, and application, the right tool may differ. Here's a summary of a few of the best tools for each category of testing.

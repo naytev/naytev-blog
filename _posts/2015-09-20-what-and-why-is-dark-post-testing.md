@@ -1,20 +1,16 @@
 ---
-layout: post
 title: What is Facebook Dark Testing and Why Should I Care?
+date: 2015-09-20 00:00:00 -07:00
+categories:
+- dark-testing
+layout: post
 subtitle: More Facebook Clicks Without Cat Pics
-
 cover_image: guides/dark/milton.jpeg
-
-excerpt: "Elite social media teams engineer their content for success by testing their messaging before posting it."
-
-categories: [dark-testing]
-
+excerpt: Elite social media teams engineer their content for success by testing their
+  messaging before posting it.
 author: patrick_costello
-
 guide: true
-
 mailchimp_popup: true
-
 ---
 
 Getting more engagement on social media can improve your bottom line, but only with the right message.

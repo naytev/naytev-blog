@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Use Storytelling to Supercharge Your Facebook Content
+date: 2017-12-15 00:00:00 -08:00
+layout: post
 subtitle: Want to stand out in the Facebook feed? Here's your secret weapon.
 cover_image: posts/brighttalk/header.jpg
-excerpt: ""
+excerpt: ''
 author: justine_chong
 ---
 

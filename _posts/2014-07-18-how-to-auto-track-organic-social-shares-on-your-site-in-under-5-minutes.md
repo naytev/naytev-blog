@@ -1,12 +1,12 @@
 ---
-layout: post
-
 title: How to Auto-Track Organic Social Shares On Your Site In Under 5 Minutes
-subtitle: "A free way to track sharing or your money back."
+date: 2014-07-18 00:00:00 -07:00
+layout: post
+subtitle: A free way to track sharing or your money back.
 cover_image: posts/auto-track/minority-report.jpg
-
-excerpt: "One of the common choruses we heard from our users was they wanted to access the share message that pops up when site visitors hit the share button. They wanted to control the copy and image."
-
+excerpt: One of the common choruses we heard from our users was they wanted to access
+  the share message that pops up when site visitors hit the share button. They wanted
+  to control the copy and image.
 author: edward_ridgely
 ---
 

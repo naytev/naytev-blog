@@ -1,12 +1,11 @@
 ---
-layout: post
-
 title: Naytev is Featured in TechCrunch (and we’re part of Y-Combinator)
-subtitle: "We're excited too."
+date: 2014-08-14 00:00:00 -07:00
+layout: post
+subtitle: We're excited too.
 cover_image: posts/yc/yc.jpg
-
-excerpt: "Today we are excited to announce that Naytev is part of this summer’s Y-Combinator batch (S14)."
-
+excerpt: Today we are excited to announce that Naytev is part of this summer’s Y-Combinator
+  batch (S14).
 author: zack_liscio
 ---
 

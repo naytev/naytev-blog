@@ -1,13 +1,13 @@
 ---
-layout: post
-
 title: Social Share Buttons Analysis
+date: 2015-02-25 00:00:00 -08:00
+layout: post
 subtitle: The Button On Every Website That No One Clicks
 cover_image: posts/button-nobody-clicks/crowd.jpg
 custom_js: naytev-link
-
-excerpt: With social share buttons installed on nearly 2 billion sites, you might think people use them all the time. You would be wrong. Naytev has found that people use share buttons about as much as they click display ads.
-
+excerpt: With social share buttons installed on nearly 2 billion sites, you might
+  think people use them all the time. You would be wrong. Naytev has found that people
+  use share buttons about as much as they click display ads.
 author: patrick_costello
 ---
 

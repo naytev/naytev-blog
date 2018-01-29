@@ -1,11 +1,10 @@
 ---
-layout: post
-
 title: The Intriguing Case of Instagress
+date: 2017-08-10 00:00:00 -07:00
+layout: post
 subtitle: How You Can Boost Organic Engagement with Your Content
 cover_image: posts/instagress/genuinefake.jpg
-excerpt: "The rise and fall of artificial engagement in the social media world."
-
+excerpt: The rise and fall of artificial engagement in the social media world.
 author: justine_chong
 ---
 

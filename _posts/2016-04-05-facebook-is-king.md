@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Facebook is King, Other Networks Fight for Scraps
+date: 2016-04-05 00:00:00 -07:00
+categories:
+- distributed-media
+layout: post
 subtitle: Analyzing Social Actions & Social Distribution for Media
 cover_image: posts/facebook-is-king/facebook-is-king.png
-excerpt: "Tl;dr; Facebook still owns social, but other networks show promise. With all the buzz around publishers rapidly diversifying their content distribution across social networks, we wanted to see how the top social networks are actually performing."
-categories: [distributed-media]
+excerpt: Tl;dr; Facebook still owns social, but other networks show promise. With
+  all the buzz around publishers rapidly diversifying their content distribution across
+  social networks, we wanted to see how the top social networks are actually performing.
 author: zack_liscio
 ---
 

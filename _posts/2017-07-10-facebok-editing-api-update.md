@@ -1,12 +1,14 @@
 ---
-layout: post
 title: The Facebook Metadata Change Isn't the End of the World
-subtitle: "Facebook's Graph API Version 2.9 Update and What It Means To You"
+date: 2017-07-10 00:00:00 -07:00
+layout: post
+subtitle: Facebook's Graph API Version 2.9 Update and What It Means To You
 cover_image: posts/facebook-editing-update/nuclear-weapons-test.jpg
-excerpt: "First and foremost, we want to let you know that testing and Naytev functionality will not be affected. At Naytev we’ve been discussing how this impending change will affect posting with our clients for some time now."
-
+excerpt: First and foremost, we want to let you know that testing and Naytev functionality
+  will not be affected. At Naytev we’ve been discussing how this impending change
+  will affect posting with our clients for some time now.
 author: justine_chong
----	
+---
 
 Since the [Facebook announcement](https://developers.facebook.com/blog/post/2017/06/27/API-Change-Log-Modifying-Link-Previews) letting everyone know they are removing the ability to edit post metadata, there’s been a significant stir in the social media world. With the most recent update from the Facebook for Developers blog, we know a little bit more about what this change will mean for everyone. 
 

@@ -1,15 +1,17 @@
 ---
-layout: post
 title: The Hard, Simple Truth
-
+date: 2015-09-14 00:00:00 -07:00
+categories:
+- optimization
+- social sharing
+- insights
+layout: post
 subtitle: One Social Network Still Dominates Publisher Site Traffic
-
 cover_image: posts/hard-simple-truth/colors.jpg
-
-excerpt: Social is scary for publishers. Platform popularity and  content reach can drop precipitously in the blink of an eye, taking a website’s traffic with it. Some shifts are real but greatly overstated, like the sensational reports about the imminent demise of Facebook and Twitter.
-
-categories: [optimization, social sharing, insights]
-
+excerpt: Social is scary for publishers. Platform popularity and  content reach can
+  drop precipitously in the blink of an eye, taking a website’s traffic with it. Some
+  shifts are real but greatly overstated, like the sensational reports about the imminent
+  demise of Facebook and Twitter.
 author: cara_tucker
 ---
 

@@ -1,10 +1,13 @@
 ---
+title: The One Thing Facebook Announced at F8 That's Already Affecting Your News Feed
+date: 2016-04-15 00:00:00 -07:00
+categories:
+- distributed-media
 layout: post
-title: "The One Thing Facebook Announced at F8 That's Already Affecting Your News Feed"
-subtitle: "The floodgates are open for Instant Articles"
+subtitle: The floodgates are open for Instant Articles
 cover_image: posts/instant-articles/zuck.jpg
-excerpt: "AI, Drones, and Bots, may have gotten all the buzz, but another announcement is already impacting your day to day life." 
-categories: [distributed-media]
+excerpt: AI, Drones, and Bots, may have gotten all the buzz, but another announcement
+  is already impacting your day to day life.
 author: zack_liscio
 ---
 

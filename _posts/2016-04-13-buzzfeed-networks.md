@@ -1,10 +1,13 @@
 ---
+title: What is Buzzfeed, really?
+date: 2016-04-13 00:00:00 -07:00
+categories:
+- distributed-media
 layout: post
-title: 'What is Buzzfeed, really?'
-subtitle: 'Defining a phenomenon that resists classification'
+subtitle: Defining a phenomenon that resists classification
 cover_image: posts/buzzfeed-networks/buzzfeed.png
-excerpt: "Operating outside the traditional bounds of an owned and earned property, we might ask what is BuzzFeed? A network? A style? Something else entirely?"
-categories: [distributed-media]
+excerpt: Operating outside the traditional bounds of an owned and earned property,
+  we might ask what is BuzzFeed? A network? A style? Something else entirely?
 author: zack_liscio
 ---
 

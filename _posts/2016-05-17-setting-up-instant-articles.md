@@ -1,11 +1,13 @@
 ---
+title: What We Learned Setting Up Facebook Instant Articles
+date: 2016-05-17 00:00:00 -07:00
 layout: post
-title: 'What We Learned Setting Up Facebook Instant Articles'
-subtitle: 'Enabling Instant Articles for your blog? Read this first.'
+subtitle: Enabling Instant Articles for your blog? Read this first.
 cover_image: posts/instant-articles-2/cover.jpg
-excerpt: "Now that Facebook Instant Articles are available for all publishers, it’s clear the new format is going to be a major part of most publications and brands’ content distribution strategy. Luckily, the setup is fairly straightforward."
+excerpt: Now that Facebook Instant Articles are available for all publishers, it’s
+  clear the new format is going to be a major part of most publications and brands’
+  content distribution strategy. Luckily, the setup is fairly straightforward.
 author: zack_liscio
-
 ---
 
 Now that Facebook Instant Articles [are available for all publishers](https://media.fb.com/2016/04/12/instant-articles-now-open/), it’s clear the new format is going to be a major part of most publications’ and brands’ content distribution strategy. Luckily, the setup is fairly straightforward.
