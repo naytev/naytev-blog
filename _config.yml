@@ -53,7 +53,7 @@ collections:
     output: true
   webinars:
     output: true
-  ebooks: 
+  ebooks:
     output: true
 
 defaults:
@@ -81,7 +81,7 @@ defaults:
       layout: webinar
       body_class: webinar
       type: webinar
-      action: Watch            
+      action: Watch
 
 url: 'http://localhost:4000'
 optimized_url:  http://blog.naytev.com
@@ -91,7 +91,6 @@ plugins_dir:     ./_plugins
 layouts_dir:     ./_layouts
 include:     ['.htaccess']
 exclude:     [vendor]
-timezone:    nil
 
 # Show future posts
 future:      false
@@ -111,7 +110,7 @@ excerpt_separator: "<!-- more -->"
 safe:        false
 host:        0.0.0.0
 port:        4000
-baseurl:     
+baseurl:
 lsi:         false
 
 rdiscount:
@@ -138,7 +137,7 @@ kramdown:
 
 redcloth:
   hard_breaks: true
-  
+
 sass:
     sass_dir: _sass
 
