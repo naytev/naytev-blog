@@ -3,8 +3,6 @@ layout: base
 body_class: homepage
 ---
 
-
-
 {% for post in paginator.posts limit: 1 %}
     {% assign author = site.data.authors[post.author] %}
     {% if post.cover_image %}

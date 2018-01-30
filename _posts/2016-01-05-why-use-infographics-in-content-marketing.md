@@ -1,17 +1,15 @@
 ---
-layout: post
 title: Why Use Infographics In Content Marketing?
-
+date: 2016-01-05 00:00:00 -08:00
+categories:
+- optimization
+- social sharing
+layout: post
 subtitle: 3 Reasons Infographics Will Improve Your Content
-
 cover_image: posts/why-infographics/top-colors.png
-
-excerpt: Before you hire a designer (or even create your own), here are 3 ways  an infographic can  make your content more engaging for your audience.
-
-categories: [optimization, social sharing]
-
+excerpt: Before you hire a designer (or even create your own), here are 3 ways  an
+  infographic can  make your content more engaging for your audience.
 author: aubrie_johnson
-
 ---
 
 Infographics are shareable, informative graphics that can be a valuable asset to existing and potential customers. Could your business benefit from a well-crafted infographic? Before you hire a designer (or even create your own), here are 3 ways  an infographic can  make your content more engaging for your audience.

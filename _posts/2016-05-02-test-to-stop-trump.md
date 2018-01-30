@@ -1,9 +1,10 @@
 ---
-layout: post
 title: 'How to #stopTrump with A/B Testing'
-subtitle: 'Testing in the Facebook News Feed on Behalf of Democracy'
+date: 2016-05-02 00:00:00 -07:00
+layout: post
+subtitle: Testing in the Facebook News Feed on Behalf of Democracy
 cover_image: posts/stop-trump/machine.jpg
-excerpt: "Using all the tech at our disposal to fight the Voledmort of our times."
+excerpt: Using all the tech at our disposal to fight the Voledmort of our times.
 author: zack_liscio
 og_image: posts/stop-trump/trumpog.png
 ---

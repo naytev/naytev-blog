@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Coffee Cups, Country Lanes, and Everybody's Cat
+date: 2016-03-15 00:00:00 -07:00
+layout: post
 subtitle: 3 Fast Ways to Find the Free Stock Image You Actually Need
 cover_image: posts/find-image-you-need/herohipstercropped.jpg
-excerpt: "It is easy to get lost in the gorgeous, sweeping shots that dominate most CC0 sites. Learn to find what your content is looking for, fast."
+excerpt: It is easy to get lost in the gorgeous, sweeping shots that dominate most
+  CC0 sites. Learn to find what your content is looking for, fast.
 author: cara_tucker
 ---
 

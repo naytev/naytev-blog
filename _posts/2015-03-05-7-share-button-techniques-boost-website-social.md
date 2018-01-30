@@ -1,13 +1,12 @@
 ---
-layout: post
-
 title: 7 Share Button Techniques To Boost Your Website on Social
+date: 2015-03-05 00:00:00 -08:00
+layout: post
 subtitle: Work your share button magic
 cover_image: posts/button-techniques/magic.png
 custom_js: naytev-link
-
-excerpt: Most websites lose high value readers and customers daily because they don’t follow a few easy share button fundamentals. 
-
+excerpt: Most websites lose high value readers and customers daily because they don’t
+  follow a few easy share button fundamentals.
 author: patrick_costello
 ---
 

@@ -1,12 +1,11 @@
 ---
-layout: post
-
 title: 3 Changes To Content Discovery on Facebook News Feed
+date: 2015-04-27 00:00:00 -07:00
+layout: post
 subtitle: What you need to know now
 cover_image: posts/newsfeed-changes/zuck.jpg
-
-excerpt: On Tuesday, April 21st Facebook announced updates to what content is displayed in each user’s Facebook News Feed. Here's a quick overview.
-
+excerpt: On Tuesday, April 21st Facebook announced updates to what content is displayed
+  in each user’s Facebook News Feed. Here's a quick overview.
 author: edward_ridgely
 ---
 

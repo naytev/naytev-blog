@@ -1,11 +1,14 @@
 ---
-layout: post
 title: Powerful New Analytics
+date: 2017-08-24 00:00:00 -07:00
+layout: post
 subtitle: 
 cover_image: posts/Performance-Dashboard-Update/celebrate.jpg
-excerpt: "Our latest and greatest Performance Dashboard that gives you a consolidated view of the important metrics you need."
+excerpt: Our latest and greatest Performance Dashboard that gives you a consolidated
+  view of the important metrics you need.
 author: justine_chong
 ---
+
 After weeks of teasing, we’re very proud to show off the results of our efforts, so prepare yourselves. Behold our: 
 
 

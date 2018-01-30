@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Come Hang Out With Us at SXSW!
+date: 2016-03-11 00:00:00 -08:00
+layout: post
 subtitle: Naytev Is Co-Hosting the Awesomest Journalism Party. Ever. VI.
 cover_image: posts/sxsw-invite/HeroSXSW.png
-excerpt: It's one of the best media parties in town. Plus, you'll get a sneak peek of our awesome new feature!
+excerpt: It's one of the best media parties in town. Plus, you'll get a sneak peek
+  of our awesome new feature!
 author: zack_liscio
 ---
 

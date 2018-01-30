@@ -1,9 +1,11 @@
 ---
+title: Reasons to be Wary of Free Social Plugins
+date: 2016-04-27 00:00:00 -07:00
 layout: post
-title: 'Reasons to be Wary of Free Social Plugins'
-subtitle: 'When free is too good to be true'
+subtitle: When free is too good to be true
 cover_image: posts/free-software/splash.png
-excerpt: "$0 and a javascript snippet later and you've got your shiny new share buttons installed. What does it really cost?"
+excerpt: "$0 and a javascript snippet later and you've got your shiny new share buttons
+  installed. What does it really cost?"
 author: zack_liscio
 ---
 

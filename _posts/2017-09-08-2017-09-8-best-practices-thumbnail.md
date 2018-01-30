@@ -1,9 +1,11 @@
 ---
+title: Best Practices For Choosing A Compelling Thumbnail
+date: 2017-09-08 00:00:00 -07:00
 layout: post
-title: Best Practices For Choosing A Compelling Thumbnail 
-subtitle: 'A/B Testing 101, going back to the basics, and unlocking even more performance in your tests.'
+subtitle: A/B Testing 101, going back to the basics, and unlocking even more performance
+  in your tests.
 cover_image: posts/bestpractices1/hands-woman-photography-children.jpg
-excerpt: ""
+excerpt: ''
 author: justine_chong
 ---
 

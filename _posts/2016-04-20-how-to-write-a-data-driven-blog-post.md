@@ -1,10 +1,13 @@
 ---
+title: How To Write a Data-Driven Blog Post
+date: 2016-04-20 00:00:00 -07:00
+categories:
+- distributed-media
 layout: post
-title: 'How To Write a Data-Driven Blog Post'
-subtitle: 'The 5 basic steps of content creation and distribution'
+subtitle: The 5 basic steps of content creation and distribution
 cover_image: posts/how-to-blog/desk.jpeg
-excerpt: "Still staring at the cursor wondering what to write? The data you need is at hand."
-categories: [distributed-media]
+excerpt: Still staring at the cursor wondering what to write? The data you need is
+  at hand.
 author: zack_liscio
 ---
 

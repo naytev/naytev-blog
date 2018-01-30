@@ -1,9 +1,10 @@
 ---
-title: "Test Ebook"
+title: Test Ebook
+published: false
+categories:
+- ebooks
 subtitle: Lorem ebook
 cover_image: ebooks/test.png
-category: ebooks
-published: false
 ---
 
 Lorem ipsum ebook ebook

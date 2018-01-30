@@ -1,13 +1,13 @@
 ---
-layout: post
-
 title: The Formula for a Perfect Social Share Message
+date: 2015-04-01 00:00:00 -07:00
+layout: post
 subtitle: How to get it right every time
 cover_image: posts/perfect-formula/cover.jpg
 custom_js: naytev-link
-
-excerpt: What if I told you that your social share message is all that’s keeping your content from thousands of new readers? I see this firsthand at Naytev where we automatically test thousands of alternate share messages for dozens of major publishers.
-
+excerpt: What if I told you that your social share message is all that’s keeping your
+  content from thousands of new readers? I see this firsthand at Naytev where we automatically
+  test thousands of alternate share messages for dozens of major publishers.
 author: aubrie_johnson
 ---
 

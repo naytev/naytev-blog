@@ -1,12 +1,12 @@
 ---
-layout: post
-
 title: How To Win The 2016 Elections&#58; 6 Cutting-Edge Digital Tactics
-subtitle: "Guest post by Steve Johnston"
+date: 2015-01-09 00:00:00 -08:00
+layout: post
+subtitle: Guest post by Steve Johnston
 cover_image: posts/elections/politics.jpg
-
-excerpt: "The 2016 elections will be won or lost on the digital battlefield, so it is more important than ever that political campaigns, party committees, and outside advocacy groups make use of the most cutting-edge strategies."
-
+excerpt: The 2016 elections will be won or lost on the digital battlefield, so it
+  is more important than ever that political campaigns, party committees, and outside
+  advocacy groups make use of the most cutting-edge strategies.
 author: naytev
 ---
 

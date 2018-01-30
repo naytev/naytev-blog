@@ -1,11 +1,15 @@
 ---
-layout: post
 title: What Networks Does BuzzFeed Actually Use?
-subtitle: 'The 30+ networks, platforms, and distribution channels'
+date: 2016-04-22 00:00:00 -07:00
+categories:
+- distributed-media
+layout: post
+subtitle: The 30+ networks, platforms, and distribution channels
 cover_image: posts/buzzfeed/splash.png
 og_image: posts/buzzfeed/splash_og.png
-excerpt: "BuzzFeed is commonly cited as relying on over 30 distribution channels ranging from social networks to custom apps to reach its large, fragmented audience. Here are the platforms they actually use."
-categories: [distributed-media]
+excerpt: BuzzFeed is commonly cited as relying on over 30 distribution channels ranging
+  from social networks to custom apps to reach its large, fragmented audience. Here
+  are the platforms they actually use.
 author: zack_liscio
 popup: true
 ---

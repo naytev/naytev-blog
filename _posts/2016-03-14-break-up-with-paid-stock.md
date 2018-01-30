@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Why You Must Break Up With Your Lame Stock Photos Immediately
-subtitle: "Or: Flirting With CC0 Images"
+date: 2016-03-14 00:00:00 -07:00
+layout: post
+subtitle: 'Or: Flirting With CC0 Images'
 cover_image: posts/lame-stock-photos/herocameracrop.jpg
-excerpt: "You don’t need this stuff. You never did."
+excerpt: You don’t need this stuff. You never did.
 author: cara_tucker
 ---
 

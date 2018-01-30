@@ -1,10 +1,14 @@
 ---
+title: Publishers Must Adapt to a “Distributed First” Model or Fall into Obscurity
+date: 2016-04-08 00:00:00 -07:00
+categories:
+- distributed-media
 layout: post
-title: 'Publishers Must Adapt to a “Distributed First” Model or Fall into Obscurity'
-subtitle: 'A New Era of Content Distribution Has Arrived'
+subtitle: A New Era of Content Distribution Has Arrived
 cover_image: posts/publishers-must-adapt/rca.png
-excerpt: "We've entered a period of drastic change for content producers. Destination websites are no longer the center of gravity; content publishers now live and die by how well they distribute content off-site."
-categories: [distributed-media]
+excerpt: We've entered a period of drastic change for content producers. Destination
+  websites are no longer the center of gravity; content publishers now live and die
+  by how well they distribute content off-site.
 author: patrick_costello
 ---
 

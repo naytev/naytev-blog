@@ -1,12 +1,11 @@
 ---
-layout: post
-
 title: It's Not Your Fault, But Your Share Button Sucks
-subtitle: "Why it matters, and how you can fix it."
+date: 2014-07-15 00:00:00 -07:00
+layout: post
+subtitle: Why it matters, and how you can fix it.
 cover_image: posts/button-sucks/ab_cheese.png
-
-excerpt: "The golden age of Facebook is upon us, but in a cruel twist, it has never been more difficult for organizations to organically connect with fans."
-
+excerpt: The golden age of Facebook is upon us, but in a cruel twist, it has never
+  been more difficult for organizations to organically connect with fans.
 author: patrick_costello
 ---
 

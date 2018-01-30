@@ -1,19 +1,15 @@
 ---
-layout: post
 title: 4 Reasons You Should A/B Test With Dark Posts
-
+date: 2015-09-19 00:00:00 -07:00
+categories:
+- dark-testing
+layout: post
 subtitle: Why dark posting should be part of your strategy
-
 cover_image: guides/dark/consultants.png
-
-excerpt: The four most common reasons to run Dark Tests and extract more value from your Facebook Page.
-
-categories: [dark-testing]
-
+excerpt: The four most common reasons to run Dark Tests and extract more value from
+  your Facebook Page.
 author: patrick_costello
-
 guide: true
-
 ---
 
 ## 1. Grow Your Facebook Post Engagement and Fan Base

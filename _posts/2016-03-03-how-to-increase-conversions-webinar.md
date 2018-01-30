@@ -1,9 +1,10 @@
 ---
-layout: post
 title: How to Increase Conversions with A/B Testing
+date: 2016-03-03 00:00:00 -08:00
+layout: post
 subtitle: RSVP for our upcoming webinar, co-hosted with Bounce Exchange
 cover_image: posts/webinar-increase-conversions/herohorses.jpg
-excerpt: "It's not enough to make your articles and landing pages high-converting powerhouses."
+excerpt: It's not enough to make your articles and landing pages high-converting powerhouses.
 author: patrick_costello
 ---
 

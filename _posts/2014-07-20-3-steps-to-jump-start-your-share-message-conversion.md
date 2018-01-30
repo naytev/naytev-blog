@@ -1,12 +1,12 @@
 ---
-layout: post
-
 title: 3 Steps to Jump-Start Your Share Message Conversion
-subtitle: "This often-overlooked metric matters more than you think"
+date: 2014-07-20 00:00:00 -07:00
+layout: post
+subtitle: This often-overlooked metric matters more than you think
 cover_image: posts/jump-start/jumper.jpeg
-
-excerpt: "There is an important social engagement metric that is often overlooked – how many people who start to share your content actually follow through with the share."
-
+excerpt: There is an important social engagement metric that is often overlooked –
+  how many people who start to share your content actually follow through with the
+  share.
 author: mike_seid
 ---
 

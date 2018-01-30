@@ -1,12 +1,15 @@
 ---
+title: Is There Really a Teen Exodus from Facebook?
+date: 2016-05-19 00:00:00 -07:00
 layout: post
-title: 'Is There Really a Teen Exodus from Facebook?'
-subtitle: 'A Reality Check for Facebook Contrarians'
+subtitle: A Reality Check for Facebook Contrarians
 cover_image: posts/facebook-teen-exodus/cover.jpg
-excerpt: 'Millions of teenagers are leaving Facebook. Teens think Facebook is lame and meaningless. These are just some of takeaways from articles in the past couple years covering teenager engagement trends on Facebook. With such press highlights, you might think there’s a mass exodus of teens from Facebook.'
+excerpt: Millions of teenagers are leaving Facebook. Teens think Facebook is lame
+  and meaningless. These are just some of takeaways from articles in the past couple
+  years covering teenager engagement trends on Facebook. With such press highlights,
+  you might think there’s a mass exodus of teens from Facebook.
 author: patrick_costello
 popup: true
-
 ---
 
 Millions of teenagers are leaving Facebook. Teens think Facebook is lame and meaningless. Young people are abandoning Facebook for other social networks. These are just a few of the panicked conclusions from articles in the past couple years covering teenager engagement trends on Facebook. With such press highlights, you might plausibly assume that there’s a mass exodus of teens from Facebook. You'd be wrong.
