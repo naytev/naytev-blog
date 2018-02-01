@@ -1,6 +1,7 @@
 ---
 title: Testing
 date: 2018-02-01 07:49:00 -08:00
+layout: post
 ---
 
 Testing this thing
