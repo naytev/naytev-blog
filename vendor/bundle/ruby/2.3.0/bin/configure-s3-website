@@ -19,5 +19,4 @@ if ARGV.first
   end
 end
 
-gem 'configure-s3-website', version
 load Gem.bin_path('configure-s3-website', 'configure-s3-website', version)

@@ -19,5 +19,4 @@ if ARGV.first
   end
 end
 
-gem 'kramdown', version
 load Gem.bin_path('kramdown', 'kramdown', version)

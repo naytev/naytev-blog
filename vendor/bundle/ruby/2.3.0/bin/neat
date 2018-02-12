@@ -19,5 +19,4 @@ if ARGV.first
   end
 end
 
-gem 'neat', version
 load Gem.bin_path('neat', 'neat', version)

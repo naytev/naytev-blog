@@ -1,6 +1,6 @@
 machine:
   ruby:
-    version: "2.2"
+    version: "2.4.2"
 dependencies:
     override:
         - bundle install
@@ -15,6 +15,6 @@ deployment:
       - S3_BUCKET=blog.naytev.com CLOUDFRONT_ID=EAS8NJISRIV5E bundle exec s3_website push
    dev: # just a label; label names are completely up to you
     branch: dev
-    commands: 
+    commands:
       - bundle exec jekyll build --config _config.yml,_config_staging.yml
       - S3_BUCKET=blog.naytev-staging.tech CLOUDFRONT_ID=E30KKM3CMIGHYA bundle exec s3_website push
