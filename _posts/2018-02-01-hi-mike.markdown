@@ -3,7 +3,8 @@ title: Testing
 date: 2018-02-01 07:49:00 -08:00
 cover_image: "/uploads/193433_1667380962541_8191967_o.jpg"
 subtitle: Testing this thing
-excerpt: 
+excerpt: Hi
+author: patrick_costello
 layout: post
 ---
 
