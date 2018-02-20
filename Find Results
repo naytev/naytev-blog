@@ -1,0 +1,1279 @@
+Searching 829 files for "index-img-wrapper"
+
+/Users/mbseid/Dev/naytev/naytev-blog/index.html:
+   42          <div class='row'>
+   43              <div class='col-md-4 col-sm-12'>
+   44:                 <div class='index-img-wrapper'>
+   45                      <img src="{{site.url}}/images/{{ post.cover_image }}" class="image">
+   46                  </div>
+
+/Users/mbseid/Dev/naytev/naytev-blog/_assets/css/_base.scss:
+   96          margin-right:30px;
+   97      }
+   98:     .index-img-wrapper {
+   99          max-height: 225px;
+  100          margin-bottom: 10px;
+
+/Users/mbseid/Dev/naytev/naytev-blog/_site/index.html:
+  209          <div class='row'>
+  210              <div class='col-md-4 col-sm-12'>
+  211:                 <div class='index-img-wrapper'>
+  212                      <img src="http://localhost:4000/images/uploads/posts/algorithm-update/header.jpeg" class="image">
+  213                  </div>
+  ...
+  233          <div class='row'>
+  234              <div class='col-md-4 col-sm-12'>
+  235:                 <div class='index-img-wrapper'>
+  236                      <img src="http://localhost:4000/images/uploads/posts/brighttalk/header.jpg" class="image">
+  237                  </div>
+  ...
+  257          <div class='row'>
+  258              <div class='col-md-4 col-sm-12'>
+  259:                 <div class='index-img-wrapper'>
+  260                      <img src="http://localhost:4000/images/uploads/posts/facebook-domain-verification/gift.jpeg" class="image">
+  261                  </div>
+  ...
+  281          <div class='row'>
+  282              <div class='col-md-4 col-sm-12'>
+  283:                 <div class='index-img-wrapper'>
+  284                      <img src="http://localhost:4000/images/uploads/posts/bestpractices1/hands-woman-photography-children.jpg" class="image">
+  285                  </div>
+  ...
+  305          <div class='row'>
+  306              <div class='col-md-4 col-sm-12'>
+  307:                 <div class='index-img-wrapper'>
+  308                      <img src="http://localhost:4000/images/uploads/posts/Performance-Dashboard-Update/celebrate.jpg" class="image">
+  309                  </div>
+  ...
+  329          <div class='row'>
+  330              <div class='col-md-4 col-sm-12'>
+  331:                 <div class='index-img-wrapper'>
+  332                      <img src="http://localhost:4000/images/uploads/posts/instagress/genuinefake.jpg" class="image">
+  333                  </div>
+  ...
+  353          <div class='row'>
+  354              <div class='col-md-4 col-sm-12'>
+  355:                 <div class='index-img-wrapper'>
+  356                      <img src="http://localhost:4000/images/uploads/posts/facebook-editing-update/nuclear-weapons-test.jpg" class="image">
+  357                  </div>
+  ...
+  377          <div class='row'>
+  378              <div class='col-md-4 col-sm-12'>
+  379:                 <div class='index-img-wrapper'>
+  380                      <img src="http://localhost:4000/images/uploads/posts/testing-tools/cover.jpg" class="image">
+  381                  </div>
+  ...
+  401          <div class='row'>
+  402              <div class='col-md-4 col-sm-12'>
+  403:                 <div class='index-img-wrapper'>
+  404                      <img src="http://localhost:4000/images/uploads/posts/a-b-testing-membership/dog.png" class="image">
+  405                  </div>
+
+/Users/mbseid/Dev/naytev/naytev-blog/_site/assets/main.css:
+ 5952      margin-top: 0;
+ 5953      margin-right: 30px; }
+ 5954:   .index .index-img-wrapper {
+ 5955      max-height: 225px;
+ 5956      margin-bottom: 10px;
+ 5957      overflow: hidden; }
+ 5958:     .index .index-img-wrapper img {
+ 5959        margin-top: 0px; }
+ 5960  
+
+/Users/mbseid/Dev/naytev/naytev-blog/_site/page2/index.html:
+  209          <div class='row'>
+  210              <div class='col-md-4 col-sm-12'>
+  211:                 <div class='index-img-wrapper'>
+  212                      <img src="http://localhost:4000/images/uploads/posts/instant-articles-2/cover.jpg" class="image">
+  213                  </div>
+  ...
+  233          <div class='row'>
+  234              <div class='col-md-4 col-sm-12'>
+  235:                 <div class='index-img-wrapper'>
+  236                      <img src="http://localhost:4000/images/uploads/posts/ad-bubble/burst.jpg" class="image">
+  237                  </div>
+  ...
+  257          <div class='row'>
+  258              <div class='col-md-4 col-sm-12'>
+  259:                 <div class='index-img-wrapper'>
+  260                      <img src="http://localhost:4000/images/uploads/posts/stop-trump/machine.jpg" class="image">
+  261                  </div>
+  ...
+  281          <div class='row'>
+  282              <div class='col-md-4 col-sm-12'>
+  283:                 <div class='index-img-wrapper'>
+  284                      <img src="http://localhost:4000/images/uploads/posts/free-software/splash.png" class="image">
+  285                  </div>
+  ...
+  305          <div class='row'>
+  306              <div class='col-md-4 col-sm-12'>
+  307:                 <div class='index-img-wrapper'>
+  308                      <img src="http://localhost:4000/images/uploads/posts/buzzfeed/splash.png" class="image">
+  309                  </div>
+  ...
+  329          <div class='row'>
+  330              <div class='col-md-4 col-sm-12'>
+  331:                 <div class='index-img-wrapper'>
+  332                      <img src="http://localhost:4000/images/uploads/posts/how-to-blog/desk.jpeg" class="image">
+  333                  </div>
+  ...
+  353          <div class='row'>
+  354              <div class='col-md-4 col-sm-12'>
+  355:                 <div class='index-img-wrapper'>
+  356                      <img src="http://localhost:4000/images/uploads/posts/instant-articles/zuck.jpg" class="image">
+  357                  </div>
+  ...
+  377          <div class='row'>
+  378              <div class='col-md-4 col-sm-12'>
+  379:                 <div class='index-img-wrapper'>
+  380                      <img src="http://localhost:4000/images/uploads/posts/buzzfeed-networks/buzzfeed.png" class="image">
+  381                  </div>
+  ...
+  401          <div class='row'>
+  402              <div class='col-md-4 col-sm-12'>
+  403:                 <div class='index-img-wrapper'>
+  404                      <img src="http://localhost:4000/images/uploads/posts/publishers-must-adapt/rca.png" class="image">
+  405                  </div>
+
+/Users/mbseid/Dev/naytev/naytev-blog/_site/page3/index.html:
+  209          <div class='row'>
+  210              <div class='col-md-4 col-sm-12'>
+  211:                 <div class='index-img-wrapper'>
+  212                      <img src="http://localhost:4000/images/uploads/posts/find-image-you-need/herohipstercropped.jpg" class="image">
+  213                  </div>
+  ...
+  233          <div class='row'>
+  234              <div class='col-md-4 col-sm-12'>
+  235:                 <div class='index-img-wrapper'>
+  236                      <img src="http://localhost:4000/images/uploads/posts/lame-stock-photos/herocameracrop.jpg" class="image">
+  237                  </div>
+  ...
+  257          <div class='row'>
+  258              <div class='col-md-4 col-sm-12'>
+  259:                 <div class='index-img-wrapper'>
+  260                      <img src="http://localhost:4000/images/uploads/posts/sxsw-invite/HeroSXSW.png" class="image">
+  261                  </div>
+  ...
+  281          <div class='row'>
+  282              <div class='col-md-4 col-sm-12'>
+  283:                 <div class='index-img-wrapper'>
+  284                      <img src="http://localhost:4000/images/uploads/posts/webinar-increase-conversions/herohorses.jpg" class="image">
+  285                  </div>
+  ...
+  305          <div class='row'>
+  306              <div class='col-md-4 col-sm-12'>
+  307:                 <div class='index-img-wrapper'>
+  308                      <img src="http://localhost:4000/images/uploads/posts/why-infographics/top-colors.png" class="image">
+  309                  </div>
+  ...
+  329          <div class='row'>
+  330              <div class='col-md-4 col-sm-12'>
+  331:                 <div class='index-img-wrapper'>
+  332                      <img src="http://localhost:4000/images/guides/dark/fireworks.jpg" class="image">
+  333                  </div>
+
+/Users/mbseid/Dev/naytev/naytev-blog/_site/page4/index.html:
+  209          <div class='row'>
+  210              <div class='col-md-4 col-sm-12'>
+  211:                 <div class='index-img-wrapper'>
+  212                      <img src="http://localhost:4000/images/uploads/posts/clickbait-101/clickbait.jpg" class="image">
+  213                  </div>
+  ...
+  233          <div class='row'>
+  234              <div class='col-md-4 col-sm-12'>
+  235:                 <div class='index-img-wrapper'>
+  236                      <img src="http://localhost:4000/images/uploads/posts/optimize-posts/dress.jpg" class="image">
+  237                  </div>
+  ...
+  257          <div class='row'>
+  258              <div class='col-md-4 col-sm-12'>
+  259:                 <div class='index-img-wrapper'>
+  260                      <img src="http://localhost:4000/images/uploads/posts/newsfeed-changes/zuck.jpg" class="image">
+  261                  </div>
+  ...
+  281          <div class='row'>
+  282              <div class='col-md-4 col-sm-12'>
+  283:                 <div class='index-img-wrapper'>
+  284                      <img src="http://localhost:4000/images/uploads/posts/perfect-formula/cover.jpg" class="image">
+  285                  </div>
+  ...
+  305          <div class='row'>
+  306              <div class='col-md-4 col-sm-12'>
+  307:                 <div class='index-img-wrapper'>
+  308                      <img src="http://localhost:4000/images/uploads/posts/button-techniques/magic.png" class="image">
+  309                  </div>
+  ...
+  329          <div class='row'>
+  330              <div class='col-md-4 col-sm-12'>
+  331:                 <div class='index-img-wrapper'>
+  332                      <img src="http://localhost:4000/images/uploads/posts/button-nobody-clicks/crowd.jpg" class="image">
+  333                  </div>
+  ...
+  353          <div class='row'>
+  354              <div class='col-md-4 col-sm-12'>
+  355:                 <div class='index-img-wrapper'>
+  356                      <img src="http://localhost:4000/images/uploads/posts/elections/politics.jpg" class="image">
+  357                  </div>
+  ...
+  377          <div class='row'>
+  378              <div class='col-md-4 col-sm-12'>
+  379:                 <div class='index-img-wrapper'>
+  380                      <img src="http://localhost:4000/images/uploads/posts/showdown/showdown.jpg" class="image">
+  381                  </div>
+  ...
+  401          <div class='row'>
+  402              <div class='col-md-4 col-sm-12'>
+  403:                 <div class='index-img-wrapper'>
+  404                      <img src="http://localhost:4000/images/uploads/posts/server-throughput/scala.png" class="image">
+  405                  </div>
+
+/Users/mbseid/Dev/naytev/naytev-blog/_site/page5/index.html:
+  209          <div class='row'>
+  210              <div class='col-md-4 col-sm-12'>
+  211:                 <div class='index-img-wrapper'>
+  212                      <img src="http://localhost:4000/images/uploads/posts/jump-start/jumper.jpeg" class="image">
+  213                  </div>
+  ...
+  233          <div class='row'>
+  234              <div class='col-md-4 col-sm-12'>
+  235:                 <div class='index-img-wrapper'>
+  236                      <img src="http://localhost:4000/images/uploads/posts/auto-track/minority-report.jpg" class="image">
+  237                  </div>
+  ...
+  257          <div class='row'>
+  258              <div class='col-md-4 col-sm-12'>
+  259:                 <div class='index-img-wrapper'>
+  260                      <img src="http://localhost:4000/images/uploads/posts/yo/yo.png" class="image">
+  261                  </div>
+  ...
+  281          <div class='row'>
+  282              <div class='col-md-4 col-sm-12'>
+  283:                 <div class='index-img-wrapper'>
+  284                      <img src="http://localhost:4000/images/uploads/posts/button-sucks/ab_cheese.png" class="image">
+  285                  </div>
+  ...
+  305          <div class='row'>
+  306              <div class='col-md-4 col-sm-12'>
+  307:                 <div class='index-img-wrapper'>
+  308                      <img src="http://localhost:4000/images/uploads/posts/intro/naytev.png" class="image">
+  309                  </div>
+
+42 matches across 8 files
+
+
+Searching 829 files for "include _image.html src="/images"
+
+/Users/mbseid/Dev/naytev/naytev-blog/_dark_testing/2015-09-18-dark-test-recipe.md:
+   15  ## Common Emotions Associated With Manual Dark Testing
+   16  
+   17: {% include _image.html src="/images/guides/dark/emotions.png" %}
+   18  
+   19  Before getting started, make sure you have administrative privileges for your Facebook Page and an active Ad Account. You’ll need both before running a test with either approach.
+   ..
+   62  
+   63  *How You’ll Feel When You Create a Dark Test 18x Faster Than Everyone Else*
+   64: {% include _image.html src="/images/guides/dark/boxing.jpg" %}
+   65  
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2014-07-15-its-not-your-fault-but-your-share-button-sucks.md:
+   30  Social shares are free advertising. But the engagement and referrals they drive are only as good as their messaging. Most organizations don’t customize their messaging, and the performance of all messaging (custom or not) is subject to guesswork and chance.
+   31  
+   32: {% include _image.html src="/images/posts/button-sucks/ab_cheese.png" %}
+   33  
+   34  Writing and picking the best message is currently a pain – Facebook doesn’t provide a simple way to modify your messages, let alone test out different versions. It doesn’t have to be this way.
+   ..
+   40  ## How much more traffic and revenue would you have gotten if you used the best message every time?
+   41  
+   42: {% include _image.html src="/images/posts/button-sucks/ab_graphs.png" %}
+   43  
+   44  Social sharing optimization is a new baseline best practice in this era of declining organic reach. Naytev makes this best practice practical. *Try Naytev for free today at www.naytev.com.*
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2014-07-18-how-to-auto-track-organic-social-shares-on-your-site-in-under-5-minutes.md:
+   15  So, we built Auto-Import for social sharing. As the name suggests, Auto-Import collects the content generated when people use Facebook Share and Tweet buttons.
+   16  
+   17: {% include _image.html src="/images/posts/auto-track/control.png" %}
+   18  
+   19  That messaging is transported into the Naytev dashboards giving you a window into how your users share your content. It allows you to watch how an article or blog post is being shared and the amount of referral clicks generated from the piece.
+   ..
+   21  From the moment a site visitor clicks the share button to the point of others joining in on the fun, Auto-Import captures it all. The analytics are action-based so our dashboards can show you how far your site visitors get in the act of sharing. We capture if they click the share button but decide not to post anything; we call this a ‘Bail’. We capture how effective the share was, what traffic comes from it, but best of all, we allow you, the content producer, to convert it into an experiment.
+   22  
+   23: {% include _image.html src="/images/posts/auto-track/automatic.png" %}
+   24  
+   25  Remember, Naytev experiments allow you to optimize the share message. You can create experiments to test and change the picture and title of what people are sharing. The right message means more site traffic. As Sara Critchfield from Upworthy noted, “If 11 words is the difference between 14 million more people seeing your content, isn’t it worth spending more time on it?”. Well, with Auto-Import you can tailor the existing share message however you see fit, use it as one of your message versions, making it faster and easier to run Naytev experiments.
+   ..
+   27  What’s more, you can compare how the original share text fares against the versions you create in your Naytev experiments. Let it serve as the control to see how much referral traffic you’re getting from your tweaks. And thanks to our high-powered machine learning algorithms, our system will measure and push the best version forward. Every. Single. Time. It removes the guesswork AND provides insights into how visitors are interacting with your site.
+   28  
+   29: {% include _image.html src="/images/posts/auto-track/optimize.png" %}
+   30  
+   31  You can start experimenting today. If you’re a user, you’ll see Auto-Import on the left side toolbar. If you’re not a user of Naytev yet, simply sign up and you can create your first experiment. And if you click the share message at the top, you’ll notice we’re doing it already.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2014-07-20-3-steps-to-jump-start-your-share-message-conversion.md:
+   11  ---
+   12  
+   13: {% include _image.html src="/images/posts/jump-start/funnel.png" %}
+   14  
+   15  There is an important social engagement metric that is often overlooked – how many people who start to share your content actually follow through with the share.
+   ..
+   33  Knowing your current follow through rate and testing different messages is hard, but we’ve made both easy with Naytev. We show you exactly how many times your given piece of content doesn’t get posted. We call failed share conversions, “Bails”.
+   34  
+   35: {% include _image.html src="/images/posts/jump-start/data.png" %}
+   36  
+   37  As you can see in the example above, the first post was much more successful in terms of share follow through. The first post had a follow through of around 81% while the  second post only has a follow through rating of 47%. This metric can be an early indicator in how a social message will perform over time.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2014-08-14-naytev-is-featured-in-techcrunch-and-were-part-of-y-combinator.md:
+   12  Today we are excited to announce that Naytev is part of this summer’s [Y-Combinator](http://www.ycombinator.com) batch (S14). While we’ve been pretty secretive so far, the cat is officially out of the bag with today’s awesome TechCrunch Article. [Read the article on TechCrunch](http://techcrunch.com/2014/08/14/yc-backed-naytev-enhances-social-media-shares-to-drive-website-traffic/).
+   13  
+   14: {% include _image.html src="/images/posts/yc/tc.png" %}
+   15  
+   16  So far, we’ve spent the summer living in Silicon Valley adhering as closely as possible to the YC mantra: Make Something People Want. As anyone who has founded a successful company can tell you, that’s no small challenge. Through several iterations of the company, our product has evolved to a place where we’re proud to say we’re helping some of the top publishers in the world increase their engagement.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2014-11-20-facebook-share-button-vs-like-button-showdown.md:
+   14  Every day, websites lose the exposure they deserve to a problem that takes moments to solve: they ask readers to Like their content, when they should ask readers to Share it instead.
+   15  
+   16: {% include _image.html src="/images/posts/showdown/vs.jpg" %}
+   17  
+   18  A brand laden with Likes will reach a few percent of its fans each time it posts something on its brand page. However, a specific _content page_ (e.g. an article) laden with Likes does not enable your content to reach many more people. Liking a piece of content is a [near empty exchange](https://blog.bufferapp.com/facebook-like-button).
+   ..
+   26  Let’s consider a quick example of total value of referral clicks from Facebook Shares over the course of one month. In this scenario, let’s assume we’re looking at a site that posts 1 article per day and gets 10 Facebook button Shares per article. We expect a site like this to see about 5 referral clicks per share.
+   27  
+   28: {% include _image.html src="/images/posts/showdown/value.png" %}
+   29  
+   30  This is a simplified example, especially given that we assume each share receives an average of 5 referral clicks per share. This is an average rate that Naytev has observed across over 100 client sites, but rates can frequently be as low as 2 clicks/share and as high as 10 clicks/share.
+   ..
+   32  Where your site falls on this range, coupled with your monthly volume of Facebook shares, will greatly impact realized monthly value – see how in the chart below.
+   33  
+   34: {% include _image.html src="/images/posts/showdown/graph_data.png" %}
+   35  
+   36  Many people ask us where they can find their click per share rate. You will not find it in Google Analytics, but it is a core metric that Naytev tracks for our clients.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2015-01-09-how-to-win-2016-elections-6-cutting-edge-digital-tactics.md:
+   25  Focus on what matters most: acquiring enough voters to win. Acquiring more voters will hinge in part on acquiring more volunteers to identify voters and turn them out to the polls. Both voter and volunteer acquisition are enabled by acquiring more donors who will provide larger amounts of capital. Fundamentally, acquisition marketing is what campaigns are all about. Message matters, too, but only insofar as it furthers these three acquisition goals. 
+   26  
+   27: {% include _image.html src="/images/posts/elections/pyramid.png" %}
+   28  
+   29  * **2. Approach Acquisition With An Emphasis On Customer Lifetime Value (CLV):**
+   ..
+   31  While not everything that matters can be measured, not everything that can be measured matters. Focus on measuring metrics in a meaningful way. Measure which type of donor provides the greatest CLV: those acquired through online search, email campaigns, or social media. Is a Facebook supporter more valuable than a Twitter follower? Measure and find out using a URL builder tool that tracks the origin of a donor, then monitor how much that donor gives over time. Remember that CLV can also be measured through volunteer activity metrics like door knocks or phone calls, too. 
+   32  
+   33: {% include _image.html src="/images/posts/elections/wordofmouth.png" %}
+   34  
+   35  * **3. Use Social Media With A Greater Emphasis On Influencer Marketing:**
+   ..
+   37  The key to success on social is robust engagement, but political organizations have varying levels of resources, whether money or manpower. Become smarter about engagement by identifying and prioritizing those social media supporters (or potential supporters) with a larger online audience and, more importantly, greater influence. Is a supporter’s social action more likely to be shared?  Working with a strong base of influencers, who might share the persona of Amy Awesome below, will provide great customer referral value (CRV) and boost your online influence. 
+   38  
+   39: {% include _image.html src="/images/posts/elections/amyawesome.png" %}
+   40  
+   41  * **4. Make A-B Testing An Essential Component Of All Digital Marketing Efforts:**
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2015-02-25-social-share-buttons-analysis.md:
+   20  Here’s an insider secret – 80% to 90% of people share content with their social networks manually, by copying a URL and pasting it directly as an update. The remaining 5-10% share via mobile browsers, news readers (e.g. Feedly), and internally on Facebook.
+   21  
+   22: {% include _image.html src="/images/posts/button-nobody-clicks/sixpercent.png" %}
+   23  
+   24  _Note: We focus on Facebook and Twitter as part of this analysis. In aggregate, these networks account for 85%+ of shares on the major sites Naytev works with._
+   ..
+   26  Let’s consider the implications of low share button use for an article that gets 10,000 pageviews. If 2% of those pageviews convert to Facebook shares, you would get 200 shares. Of those 200 Facebook shares, 10 might be button shares. Thus, only 0.10% of traffic used the article’s Facebook share button. This clickthrough rate is in the same low range as what you commonly see when running a display ad campaign.
+   27  
+   28: {% include _image.html src="/images/posts/button-nobody-clicks/website.png" %}
+   29  
+   30  You may wonder how share button use can be so low, despite button visual prevalence and indicators of engagement. Visual indicators can be misleading. For example, Facebook share counts rarely tell you the actual number of shares – it is common practice for these counts to aggregate many types of social engagement. In contrast, Twitter counts reflect just Tweets (i.e. “Favorites” are not included).
+   31  
+   32: {% include _image.html src="/images/posts/button-nobody-clicks/buttons.png" %}
+   33  
+   34  For Facebook, the share count typically reflects the sum of shares, comments, and likes. Likes normally represent the majority of the “share” activity in these counts, which can make it difficult to tell how many actual shares took place.
+   35  
+   36: {% include _image.html src="/images/posts/button-nobody-clicks/tool.png" %}
+   37  
+   38  > People Use the Twitter Tweet Button More than the Facebook Share Button
+   ..
+   40  5.4% of Facebook shares take place via buttons, while 8.2% of Tweets take place via buttons. Furthermore, we found that the use of Facebook share buttons is steady across the sites we assessed, but  the use of Tweet button can spike, occasionally clearing 20%. These spikes are often correlated with sites that often produce viral content and use very conspicuous share buttons. We explore button display in our post, [7 Share Button Techniques To Boost Your Website on Social](http://blog.naytev.com/7-share-button-techniques-boost-website-social/).
+   41  
+   42: {% include _image.html src="/images/posts/button-nobody-clicks/twitter.png" %}
+   43  
+   44  The greater use of Tweet buttons can be explained by differences in sharing between Twitter and Facebook. If you paste a link into your Facebook feed, your post will auto populate with rich media, achieving the same result as if you used the Facebook share button – there’s no need for you to write anything.
+   ..
+   48  Ultimately, using the Tweet button ensures a sharer’s post includes some engaging content, which is the point of sharing to begin with. Below is an example of the auto-population on Facebook vs. the empty Tweet when you manually share a recent Naytev post, [The Facebook Share Button vs. Like Button Showdown](http://blog.naytev.com/facebook-share-button-vs-like-button-showdown):
+   49  
+   50: {% include _image.html src="/images/posts/button-nobody-clicks/richmedia.png" %}
+   51  
+   52  ## Why You Should Still Use Share Buttons
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2015-03-05-7-share-button-techniques-boost-website-social.md:
+   19  Facebook has been systematically cutting the reach of brand Pages, leading to what some have called the [“Death of Organic Reach”](http://marketingland.com/facebook-kills-organic-reach-108160). It’s even worse when people Like a specific page (e.g. an article). As Buffer recently highlighted, Liking a piece of content is a [near empty exchange](https://blog.bufferapp.com/facebook-like-button).
+   20  
+   21: {% include _image.html src="/images/posts/button-techniques/vs.png" %} 
+   22  
+   23  In contrast, Shares provides reliable, high-quality word-of-mouth exposure to the sharer’s network of friends. The high visibility of each new share adds up, driving extensive engagement. In conclusion, ditch your Like buttons and keep the focus on Sharing.
+   ..
+   27  Just because you can add share buttons for a dozen networks doesn’t mean you should. Using too many share options creates visual clutter and can lead to share decision paralysis.
+   28  
+   29: {% include _image.html src="/images/posts/button-techniques/twotofour.png" %} 
+   30  
+   31  We recommend showing just the 2-4 social channels that are most valuable to your brand. Below are some suggested button lineups. We recommend including an email share button with each lineup.
+   ..
+   50  * Horizontal Share Feature at Top of Page
+   51  
+   52: {% include _image.html src="/images/posts/button-techniques/best.png" %} 
+   53  
+   54  * Floating Vertical Share Feature Visible As Reader Scrolls
+   55  
+   56: {% include _image.html src="/images/posts/button-techniques/floating.png" %} 
+   57  
+   58  * Horizontal Share Feature at Bottom of Page
+   59  
+   60:  {% include _image.html src="/images/posts/button-techniques/horiz.png" %} 
+   61  
+   62  * Know When to Show Your Share Counts
+   ..
+   68  With that said, it’s not a problem if you choose to not show share counts; several leading websites don’t use share counts either (e.g. The Washington Post).
+   69  
+   70: {% include _image.html src="/images/posts/button-techniques/comparison.png" %} 
+   71  
+   72  * Use Mobile Friendly Share Buttons
+   ..
+   76  Mobile sharing features can take a variety of different styles, from fixed horizontal buttons to a single button that reveals more options. If you view this post from your phone you can see the mobile share buttons that we use. Clicking the red share arrow will reveal several share options.
+   77  
+   78: {% include _image.html src="/images/posts/button-techniques/mobile.png" %} 
+   79  
+   80  This mobile feature above comes with Naytev’s free share buttons, is fully customizable, and can be turned on with a simple switch.
+   ..
+   96  Default share messages, defined in your site’s Open Graph (OG) tags, normally use the title and first image on your page. However, these default messages often don’t engage people on social as well as they could. When you don’t test your share messages, you put all your eggs in one basket, and may miss out on thousands of new word-of-mouth visitors monthly.
+   97  
+   98: {% include _image.html src="/images/posts/button-techniques/ab.png" %} 
+   99  
+  100  Here’s an example of how [VentureBeat saw a nearly 700% boost in Twitter engagement](https://www.naytev.com/casestudy/venturebeat) by simply testing different Tweet messages.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2015-04-01-the-formula-perfect-social-share-message.md:
+   24  **“Glamor Shots” and Close-ups Attract Readers**
+   25  
+   26: {% include _image.html src="/images/posts/perfect-formula/glamor.jpg" %} 
+   27  
+   28: {% include _image.html src="/images/posts/perfect-formula/glamorvariants.png" %}
+   29  
+   30  We recommend using photos or illustrations of people, places and things related to your content. Rich colors and angles help set your images apart from the norm. Got data? Well-designed infographics with limited text are perfect for Facebook. If the web page that you want people to share has only one or no images, we recommend trying additional images in your share messages that can be sourced from services like [Getty Images](http://www.gettyimages.com/), [Shutterstock](http://www.shutterstock.com/), [Morguefile](http://www.morguefile.com/), [Gratisography](http://www.gratisography.com/), and the [Creative Commons search engine](http://search.creativecommons.org/) (look for images approved for free commercial use).
+   ..
+   36  Complement Headlines With Related Photos, Not Logos 
+   37  
+   38: {% include _image.html src="/images/posts/perfect-formula/related.png" %} 
+   39  
+   40  *  **2. Write Varied Headlines That Offer New Perspectives**
+   ..
+   46  If the Default Message is Broad, Try Highlighting Specific Details
+   47  
+   48: {% include _image.html src="/images/posts/perfect-formula/details.png" %} 
+   49  
+   50  If your content is short or highly focused, find a new subtopic by broadening or narrowing down your scope with each message. New messages can still be about the same topic as your default; just make sure you’re mentioning something new. Here’s an example from an article about activists protesting against e-cigarettes:
+   ..
+   52  Highlight Several Key Story Angles From Your Content
+   53  
+   54: {% include _image.html src="/images/posts/perfect-formula/angles.png" %} 
+   55  
+   56  The default message in this example gives readers specifics: who is being scrutinized by whom, and why. The winning message still focuses on the same people, but widens in scope. Instead of the columnist affecting the activists, we highlighted the activists’ negative impact on their constituents.
+   ..
+   60  Capitalize on Celebrity Mentions 
+   61  
+   62: {% include _image.html src="/images/posts/perfect-formula/celebrity.png" %} 
+   63  
+   64  * **3. Use Data, But Keep It Conversational**
+   ..
+   70  Use Headlines to Answer Burning Questions
+   71  
+   72: {% include _image.html src="/images/posts/perfect-formula/questions.png" %} 
+   73  
+   74  * **4. Make Your Readers Feel Something**
+   ..
+   86  Swap Negative Headlines for Positive Ones (and Vice Versa)
+   87  
+   88: {% include _image.html src="/images/posts/perfect-formula/sentiment.png" %} 
+   89  
+   90  The toned down headline in the image above is something Jaden’s fans wouldn’t mind clicking on! Simply modifying the article’s tone from “shamelessly negative” to “sarcastically positive” ultimately drove 157,000 additional reader sessions for this article. 
+   ..
+   98  Write Honest Headlines, Not Clickbait
+   99  
+  100: {% include _image.html src="/images/posts/perfect-formula/honest.png" %} 
+  101  
+  102  Whomever’s surprised by the story above probably doesn’t get out much. (Spoiler alert: It’s a cafe.) The last thing we’ll say about clickbait is that lacks distinction and doesn’t drive brand loyalty. Staying true to your voice enables your content to stand out, command loyalty and build brand value.
+  ...
+  110  Facebook Descriptions Help Convince People to Read More
+  111  
+  112: {% include _image.html src="/images/posts/perfect-formula/descriptions.png" %} 
+  113  
+  114  * **7. How to Change Your Social Share Messages**
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2015-04-27-3-changes-to-content-discovery-on-facebook-news-feed.md:
+   10  ---
+   11  
+   12: {% include _image.html src="/images/posts/newsfeed-changes/balance.png" %} 
+   13  
+   14  On Tuesday, April 21st Facebook [announced updates](http://newsroom.fb.com/news/2015/04/news-feed-fyi-balancing-content-from-friends-and-pages/) to what content is displayed in each user’s Facebook News Feed. Here's a quick overview of the most important takeaways for your content:
+   ..
+   32  *What this means for you:* As with the second update, this further solidifies organic sharing as the primary driver of visibility on social. Likes and comments are still helpful, but shares are king. The Naytev team has seen this transition first hand – read more about it in our blog post, [“The Facebook Share Button vs. Like Button Showdown”](http://blog.naytev.com/facebook-share-button-vs-like-button-showdown/).
+   33  
+   34: {% include _image.html src="/images/posts/newsfeed-changes/jaspers.png" %} 
+   35  
+   36  ## Facebook will deprioritize posts like the one above where users like or comment on a post shared by a brand (e.g. Jasper’s Market)
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2015-05-28-optimize-social-media-posts.md:
+   21  ## Post Content Proven To Work – Illustrative Testing and Reposting
+   22  
+   23: {% include _image.html src="/images/posts/optimize-posts/publisher.png" %} 
+   24  
+   25  In this post we’ll share a technique used by many Naytev clients: Take top performing share messages from your active Naytev experiments, and repost these proven messages to your Facebook fans and Twitter followers. For Naytev, that means posting the winning message via our [Naytev Facebook Fan Page](http://blog.naytev.com/optimize-social-media-posts/www.facebook.com/naytev) and Twitter Handle ([@GoNaytev](http://www.twitter.com/gonaytev)) to drive even more engagement. Below is a sample of reposting a message from a Naytev experiment to Naytev’s Facebook Account.
+   ..
+   27  ## Select A Top Share Message Identified In Your Naytev Experiment Dashboard and Post the Message On Your Facebook Page
+   28  
+   29: {% include _image.html src="/images/posts/optimize-posts/repost.png" %} 
+   30  
+   31  Be sure to wait until your Naytev share message experiment has at least preliminary results ready, as indicated by the Phase Indicator in your Naytev Experiment dashboard. The beaker icon indicates that preliminary results are ready, and the check mark icon indicates that final results are ready.
+   ..
+   33  ## 2 Experiment Phases With Sufficient Data to Enable Enhanced Reposting
+   34  
+   35: {% include _image.html src="/images/posts/optimize-posts/phases.png" %} 
+   36  
+   37  Once the experiment is ready, repost away. With social [page reach falling precipitously](http://blog.naytev.com/its-not-your-fault-but-your-share-button-sucks/) it’s more important now than ever to optimize social media reposting. Naytev gives you the tools to drive much more engagement from your social reposts.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2015-08-26-clickbait-101.md:
+   27  Yellow journalists of the late 1800’s lured readers in droves by publishing sensational news reliant on wildly exaggerated headlines. This form of journalism pandered for newspaper circulation, while today’s clickbait rakes in pageviews instead.
+   28  
+   29: {% include _image.html src="/images/posts/clickbait-101/newspaper.jpg" %}
+   30  
+   31  ## Clickbait engages readers while letting them unwind
+   ..
+   50  Clickbait softens that image, endearing readers to brands on a more personal level. Even Jack Daniel’s adopts the conversational tone of clickbait into its brand blog:
+   51  
+   52: {% include _image.html src="/images/posts/clickbait-101/jackdaniels.png" %}
+   53  
+   54  ## The right dose of clickbait can drive great performance, but beware
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2015-09-14-hard-simple-truth.md:
+   44  
+   45  
+   46: {% include _image.html src="/images/posts/hard-simple-truth/chalk.jpg" %}
+   47  
+   48  ## Despite Diverse Sharing, One Network Rules Social Traffic
+   ..
+   56  Twitter and Pinterest do outpace Facebook in shares for some publishers. When it comes to traffic, though, Facebook drives the overwhelming majority of social referrals for most publishers. As shown in the graph below, this trend holds true even for even for lifestyle publications; Pinterest may drive their shares, but not their traffic.
+   57  
+   58: {% include _image.html src="/images/posts/hard-simple-truth/traffic.png" %}
+   59  
+   60  This traffic breakdown above is from a typical top lifestyle publisher. This lopsided social referral traffic phenomenon holds true for technology publications too. Together, Twitter and Linkedin represent more shares for technology sites, but Facebook drives the clear majority of social traffic.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2015-09-19-reasons-you-should-run-dark-post-tests.md:
+   19  Yes, <a href="http://www.forbes.com/sites/jaysondemers/2015/05/13/why-your-organic-facebook-reach-is-still-falling-and-what-to-do-about-it/" target="_blank">Page reach is still declining for many</a>, and Facebook suggests <a href="https://www.facebook.com/business/news/Organic-Reach-on-Facebook" target="_blank">this trend will continue indefinitely</a>. That means you need to protect your investment, and this is how to do it.
+   20  
+   21: {% include _image.html src="/images/guides/dark/megaphone.png" %} 
+   22  
+   23  ## 2. Drive More Readers for Your Website 
+   ..
+   27  You’d be surprised how many people like and share Facebook posts without actually reading the article. If you’re a publisher, website clicks should be one of your go-to dark testing goals.
+   28  
+   29: {% include _image.html src="/images/guides/dark/crowd.jpg" %} 
+   30  
+   31  ## 3. Drive Product and Event Sales
+   ..
+   35  It works, and the ROI is clear. Facebook’s own signature success story highlights how one team achieved a 30x return on ad spend with unpublished posts for music festival ticket sales.
+   36  
+   37: {% include _image.html src="/images/guides/dark/facebook-story.png" %} 
+   38  
+   39  ## 4. Keep Sharing Your Favorite Post Without Fatiguing Your Fans 
+   ..
+   46  
+   47  **Don’t Burn Out Fans With the Same Post Topic**
+   48: {% include _image.html src="/images/guides/dark/magnify.jpg" %} 
+   49  
+   50  If you’d like to learn how to run a Dark Test, we cover it in detail here <!-- add permalink to How to A/B Test on Facebook With Dark Posting]-->. It normally takes up to 90 minutes to run a test manually, but you can run tests in under 5 minutes using Naytev.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2015-09-20-what-and-why-is-dark-post-testing.md:
+   25  
+   26  **Great Advice Rarely Followed: “Always Be Testing”**
+   27: {% include _image.html src="/images/guides/dark/always-be-testing.jpg" %}
+   28  _Sneak Preview from Glengarry Glen Ross 2_
+   29  
+   ..
+   55  **Common Emotions Associated With Manual Dark Testing**
+   56  
+   57: {% include _image.html src="/images/guides/dark/emotions.png" %}
+   58  
+   59  The problem is that Facebook makes you manually define settings for every new test you run, and every message variation you want to include. If you’d like to remain in a more Zen-like state but still run dark tests, I suggest doing so programmatically.
+   ..
+   79  **How You’ll Feel When You Create a Dark Test 12x Faster Than Everyone Else**
+   80  
+   81: {% include _image.html src="/images/guides/dark/boxing.jpg" %}
+   82  
+   83  You can use the coupon code “DOUBLE_RAINBOW” at checkout to get 30% off any plan for the first month.
+   ..
+   86  
+   87  **Have a Fantastic, Double Rainbow Kind of Day**
+   88: {% include _image.html src="/images/guides/dark/double-rainbow.jpg" %}
+   89  
+   90  P.S. Like the images in this article? Most are from resources we recommend using for great Facebook share messages in our blog post: <a href="http://bit.ly/1QRMpUz" target="_blank">The Formula for a Perfect Social Share Message</a>.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2015-09-21-dark-testing-infographic.md:
+   14  Excited to start Dark Testing, but need a primer on all the moving pieces? This infographic provides an overview of the essential terminology and general workflow for running a Dark Test on Facebook.
+   15  
+   16: {% include _image.html src="/images/guides/dark/dark-testing-infographic.png" %}
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2015-09-22-definitive-guide-to-dark-posting.md:
+   15  Dark Testing is the secret art of using Unpublished Page Posts on Facebook to test your images and headlines before you post. We've compiled a simple guide to help explain what Dark Testing is, why you'd want to use it, and the best way to integrate it with your workflow. We'll outline how to do it yourself manually and how to use a tool like Naytev to create tests ten times faster. 
+   16  
+   17: {% include _image.html src="/images/guides/dark/naytev.png" %}
+   18  
+   19  The first three articles are available now:
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-01-05-why-use-infographics-in-content-marketing.md:
+   17  * **1. A beautiful way to showcase your brand’s expertise**
+   18   
+   19: {% include _image.html src="/images/posts/why-infographics/top-colors.png" %}
+   20   
+   21  90% of information transmitted to the brain is visual. Data-rich infographics inform your readers and entice them to share widely, and high shareability boosts <a href='http://masterinbound.com/item/what-is-a-brand-advocate.html' target='_blank'>brand advocacy</a>. In addition, <a href='http://unbounce.com/content-marketing/why-do-infographics-make-great-marketing-tools/' target='_blank'>Unbounce</a> found that businesses using infographics enjoy 12% more traffic growth than those who don’t. Most social media users trust content shared by their network, so it pays to push high-quality infographics in your content marketing strategy.
+   ..
+   23  * **2. Make a complicated topic more accessible**
+   24  
+   25: {% include _image.html src="/images/posts/why-infographics/love-digital-age.png" %}
+   26  
+   27  Exploring your company’s unique data may pique readers’ interests, if presented in an accessible, graphical way. Infographics allows readers to process loads of complicated information using visual cues instead of arduous spreadsheets and pie charts.
+   ..
+   29  * **3. Add some pizzazz to a relatively dry topic**
+   30  
+   31: {% include _image.html src="/images/posts/why-infographics/build-app.jpg" %}
+   32  
+   33  A great infographic finds creative ways to make a drab, dull topic more colorful and interesting. Unique comparisons simplify the concept for readers in a relatable way, while also injecting some personality and style to your content marketing efforts.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-03-03-how-to-increase-conversions-webinar.md:
+   16  * [**RSVP**](http://www.bounceexchange.com/webinars/increase-conversions-across-every-step-in-the-reader-journey.html) it's going to be great!
+   17  
+   18: {% include _image.html src="/images/posts/webinar-increase-conversions/promocropped.jpg" %}
+   19  
+   20  Hi, everyone! 
+   ..
+   24  A learning opportunity for beginners and seasoned testers alike!
+   25  
+   26: {% include _image.html src="/images/posts/webinar-increase-conversions/promo.png" %}
+   27  
+   28  **Background:** It's not enough to make your articles and landing pages high-converting powerhouses. You've got to focus on the top of the funnel as well. 
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-03-11-sxsw-invite.md:
+   21  Will you be in Austin for SXSW Interactive next week? If so, I hope you’ll join Patrick and the Naytev team on Sunday afternoon, March 13, 2016 for one of the best media parties in town.
+   22  
+   23: {% include _image.html src="/images/posts/sxsw-invite/fullinvite.jpg" %}
+   24  
+   25  
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-03-14-break-up-with-paid-stock.md:
+   26  So not only do you need pictures, you need relevant, quality pictures that your audience hasn’t seen reposted 80 times.
+   27  
+   28: {% include _image.html src="/images/posts/lame-stock-photos/bummerbunny.jpg" %} 
+   29  
+   30  Image Is Everything**
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-03-15-find-images-you-need.md:
+   12  The “do whatever” Creative Commons Zero (CC0) wave has allowed publishers to pull amazing images from a motley crew of sources. For those unfamiliar, CC0 means the owner of the photograph has waived all rights and copyrights, and the image can be used commercially, in any setting, for free. 
+   13  
+   14: {% include _image.html src="/images/posts/find-image-you-need/dognose.jpg" %}
+   15  
+   16  There are many sources available for stock photos, but not all are equally equipped to support your hunt for content-relevant images. It is easy to get lost in the gorgeous, sweeping photos available on sources like [Life of Pix](http://www.lifeofpix.com/) or [Magdeleine](http://magdeleine.co/) and from top photographers like [Jay Mantri](http://jaymantri.com/). Misty beechtrees, latte art, pets, and sunsets are bathed with Instagrammy edits, giving them a distinctly hipster, arty feel. 
+   17  
+   18: {% include _image.html src="/images/posts/find-image-you-need/mistylane.jpg" %}
+   19  
+   20  Thanks to their sheer aesthetic power, sites like these top out nearly every free stock recommendation list. They make fantastic browsing, and sometimes they’re exactly what you need. But more often than not, you need images that suit what’s already written, which requires a broader selection of images and the ability to search. 
+   ..
+   35  To allow for this approach, Pixabay has a thorough search and tagging system. You can plug in just about anything and get at least one interesting result. For example, I searched for “poverty” to get this image from Nepal.
+   36  
+   37: {% include _image.html src="/images/posts/find-image-you-need/povertynepal.jpg" %}
+   38  
+   39  The system also handed me an educational coloring book vector of the Cynic philosopher Diogenes living in a barrel, among pages of other choices.
+   40  
+   41: {% include _image.html src="/images/posts/find-image-you-need/povertydiogenes.png" %}
+   42  
+   43  While I don’t need a naked Greek man in a barrel at the moment, I appreciate that my search turned up such an indirect but related result. It's a good demonstration of a smart system. If you've ever searched a paid stock site for an abstract concept like "poverty" or "hunger," you've learned to expect the cringe-inducing studio shots of shiny, clean models pouting and holding their tummies. Pixabay will struggle with some nunaced searches in the same way, but it will handle quite a few of them with grace.
+   ..
+   49  (Sidenote: They’re also among the few no-attribution sites that pull those semi-awkward, infographic-ready digital illustrations you’ll need at some point.)
+   50  
+   51: {% include _image.html src="/images/posts/find-image-you-need/infographicpeople.jpg" %}
+   52  
+   53  * **2. [Unsplash](https://unsplash.com/), [Splitshire](https://www.splitshire.com/), and [Pexels](https://www.pexels.com/)**
+   ..
+   59  That’s where [Unsplash](https://unsplash.com/), [Splitshire](https://www.splitshire.com/), [Pexels](https://www.pexels.com/), and their ilk can help. They all have semi-decent search functions, but they shine in categorization. 
+   60  
+   61: {% include _image.html src="/images/posts/find-image-you-need/girlincoat.jpg" %}
+   62  
+   63  I found the young woman above on Splitshire. I knew I wanted a photo of 18- to 35-year-old women with a calm, confident feel. I happened upon a wintery image I liked under “People,” then spent about two minutes looking for a similar image with a contrasting tone under “Fashion.”
+   64  
+   65: {% include _image.html src="/images/posts/find-image-you-need/fashiongirlincoat.jpg" %}
+   66  
+   67  When I ran searches for “woman cold,” “girl coat,” “snow fashion,” and similar combinations, Splitshire rolled its eyes at me. I tried the same searches on Pexels and Unsplash. None returned these images, or any like them.
+   ..
+   85  Sometimes you just need a picture of a particular species of ladybug, and nothing else will do. 
+   86  
+   87: {% include _image.html src="/images/posts/find-image-you-need/ladybuggrid.jpg" %}
+   88  *©entomart*
+   89  
+   ..
+   92  Sometimes, once you know what you need by site, you can dupe it (unlabelled) from more general sources that you know are CC0. But not always.
+   93  
+   94: {% include _image.html src="/images/posts/find-image-you-need/ladybugplant.jpg" %}
+   95  
+   96  At that point, I’m happy to pay for traditional stock or give full credits. Keep an eye on the time/cost in your search. Know when to leave CC0 behind and grab an expert.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-04-05-facebook-is-king.md:
+   23  However, there’s more to the story: the overall distribution varies markedly among publishers, illustrating the unique approach each is taking to engage audiences beyond Facebook. 
+   24  
+   25: {% include _image.html src="/images/posts/facebook-is-king/median-shares-linear.png" %}
+   26  
+   27  The contrast between Facebook and the rest of the networks is so stark that we had to show the breakdown logarithmically (below: each tick mark on the y-axis is 10x greater than the previous step). When viewed with a linear y-axis, all other sharing is nearly invisible. 
+   28  
+   29: {% include _image.html src="/images/posts/facebook-is-king/median-shares-logarithmic.png" %}
+   30  
+   31  That said, networks beyond Facebook have great potential for growth. While publishers are not engaging audiences on other platform at the same scale as on Facebook, diversifying shows promise.
+   ..
+   37  For example, let’s compare National Geographic and TipHero. While both get the overwhelming majority of their respective social actions from Facebook, National Geographic sees more activity on G+ than any other second tier network, while TipHero has effectively zero. Conversely, Pinterest and LinkedIn are strong relatively strong performers for TipHero and underperform for National Geographic. 
+   38  
+   39: {% include _image.html src="/images/posts/facebook-is-king/content-distribution-fingerprint.png" %}
+   40  
+   41  This is surprising given the quality of National Geographic’s excellent photo quality and the tendency for image-heavy content to overperform on Pinterest. It’s even more surprising when looking at the total number of followers each of the publications has on Pinterest. National Geographic has 5.5x the number of Pinterest followers (884,700 vs 160,700), but gets less than 5% the engagement per fan that TipHero does. 
+   ..
+   43  It seems a foregone conclusion that a modern media company cannot exist in isolation within the bounds of its website. The publications who are thriving are allowing their readers to discover and even consume content in the places they already spend time: social media. 
+   44  
+   45: {% include _image.html src="/images/posts/facebook-is-king/publisher-comparison.png" %}
+   46  
+   47  While Facebook will continue to dominate social in the near future, publishers are wary of becoming overly dependent on a single network for the existence of their content. Facebook may still be king, but it’s clear publishers are continuing to experiment with distribution beyond Facebook and their websites, and their varying successes and failures reveal the first glimpse of how this fragmented distribution paradigm will change the face of media.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-04-08-publishers-must-adapt.md:
+   25  **Network Distribution is Redefining the Content Industry**
+   26  
+   27: {% include _image.html src="/images/posts/publishers-must-adapt/distributed.png" %}
+   28  
+   29  The transition to consuming content on distributed networks is natural. Audiences already spend the majority of their time on these platforms, and the direct integration of content provides a faster, more uniform experience. Already [bloated with ad trackers](http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html) and suffering from the [rise of ad blockers](http://digiday.com/publishers/global-rise-ad-blocking-4-charts/), publishers are unable to compete with distribution channels like Facebook Instant Articles and Google AMP. Yet they cannot afford to forego the exposure these channels offer.  
+   ..
+   33  **Audiences Are Building Strong Habits Around Distributed Networks**
+   34  
+   35: {% include _image.html src="/images/posts/publishers-must-adapt/1in5.png" %}
+   36  
+   37  Most publishers have already recognized this behavior shift, and many are investing heavily to diversify their cross-platform reach. Some publishers are choosing to center their entire business strategy on distributed content. [NowThis News, for example, is a new publisher that presents zero content on their website](https://nowthisnews.com/); instead they distribute content across 8 social platforms.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-04-13-buzzfeed-networks.md:
+   24  BuzzFeed’s solution to that problem is to forego the display advertising model of owned and earned properties. They are similar to NowThis in that 95% of their content engagement happens on platforms they do not own, mainly social channels. What makes this model possible is that they monetize their network by creating engaging content on behalf of clients (sponsored content) rather than appending ad units to their websites. This allows them to monetize reach far beyond the bounds of their website. Without the need to focus on bringing traffic back, they are free to make content that feels more natural and attuned to the specific network.
+   25  
+   26: {% include _image.html src="/images/posts/buzzfeed-networks/mediamodels.png" %}
+   27  
+   28  ## Content
+   ..
+   40  Buzzfeed’s massive audience defines the company as much as its varied distribution channels do. That fact is not lost on investors. BuzzFeed has [raised hundreds of millions of dollars](https://www.crunchbase.com/organization/buzzfeed#/entity) because it gathers a large audience, then acts to  engage them in a coordinated way across so many channels. 
+   41  
+   42: {% include _image.html src="/images/posts/buzzfeed-networks/frankcooper.jpeg" %}
+   43  
+   44  At SXSW 2016 in March, CMO Frank Cooper (pictured above) [announced Swarm](http://www.adweek.com/news/technology/buzzfeed-launches-new-ad-format-further-monetize-its-big-social-reach-170172), which "allows advertisers to run campaigns simultaneously across all of his company's Web and mobile properties and six of its social platforms: Snapchat Discover, Vine, YouTube, Facebook, Instagram and Tumblr." This new product demonstrates why BuzzFeed works outside of a traditional owned and earned property. It is able to parlay the value of a coordinated, cross-channel media push into enormous measurable value for their clients, without relying on plastering tired banner ads across the homepage. 
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-04-15-instant-articles.md:
+   16  Until now, Instant Articles have been restricted to a few dozen top publishers. In case you're not familiar, these are articles published directly to Facebook which users can read without leaving the native Facebook App. The benefit is a cleaner, faster, and more uniform experience that users love.
+   17  
+   18: {% include _image.html src="/images/posts/instant-articles/instantarticles.jpg" %}
+   19  
+   20  As we wrote last week, [publishers must adapt]({% post_url 2016-04-08-publishers-must-adapt %}) to this new distribution paradigm or face declines in their readership and monetization. Many major publishers have already begun expeirmenting with Instant Articles, unable to ignore the opportunity because of how much of their traffic already comes from Facebook. As users spend more time within the walled gardens of social networks, competing for attention in the News Feed is increasingly complex and zero sum. Publishers who don't offer Instant Articles may see their content deprioritized relative to their competititors. 
+   ..
+   30  Facebook has never directly indicated that Instant Articles will be prioritized over traditional links in the News Feed. That said, the platform rewards low abandonment, high user engagement, and happy users, all of which are clear benefits of the new format. Instant Articles will quickly reach critical mass, with publishers unable to compete if others in their categories are publishing directly to Facebook. No one who relies on Facebook for traffic (i.e. every publisher) will be able to resist once the format gains momentum.
+   31  
+   32: {% include _image.html src="/images/posts/instant-articles/logos.png" %}
+   33  
+   34  Facebook has ensured support from the largest CMS tools (WordPress and Drupal), the modern alternative to these options (Medium), and the top publications in the media landscape. Facebook is deepening their hold on media distribution and encountering little resistance in doing so. It'll likely be only a matter of months before the majority of mobile content you see on Facebook is presented without ever leaving the app.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-04-20-how-to-write-a-data-driven-blog-post.md:
+   14  It's no secret that data is informing content creation at most top publications, but what does that process look like in practice? We've summarized the six-step process we use to increase our blog's pageviews and drive conversions. We've intentionally not included numbers on the steps, as they form a cycle and are repeated as you create additional content and grow your audience.
+   15  
+   16: {% include _image.html src="/images/posts/how-to-blog/cycle.png" %}
+   17  
+   18  * **Plan**
+   ..
+   26  Write your post. There are lots of great resources on how to write interesting and compelling content, but possibly the most important general rule is to know your audience. The people actually reading your content will determine how you can best present information for them. Interestingly, there's increasing data that [longer, more in-depth posts perform best](https://www.snapagency.com/blog/whatll-be-the-best-length-for-a-blog-article-in-2016-for-seo/). Regardless, always aim to deliver value to the reader, rather than approaching your content as an opportunity to create value for yourself.
+   27  
+   28: {% include _image.html src="/images/posts/how-to-blog/contentlength.png" %}
+   29  
+   30  Make sure you also take the time to [craft a headline that works for social media]({% post_url 2015-04-01-the-formula-perfect-social-share-message %}). It doesn't matter how good your content is if no one ever clicks to read it, and social (mainly Facebook) is increasingly dominant in generating traffic.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-04-22-what-networks-does-buzzfeed-use.md:
+   21  The list they shared had 45 different distribution channels, ranging from social networks to home-grown apps. As BuzzFeed points out, over 80% of their reach exists beyond the bounds of their website.
+   22  
+   23: {% include _image.html src="/images/posts/buzzfeed/buzzfeed_networks.png" %}
+   24  
+   25  One thing that's immediately evident is that BuzzFeed's reach is far more diversified than most traditional media companies. Far from relying exclusively on their website, they've built a network with strong distribution on many different platforms and channel types.
+   ..
+   27  It's also clear that from a sheer numbers perspective, video is a huge priority for BuzzFeed. Of the 45 distribution channels, nearly half are Video Syndication Partners. 
+   28  
+   29: {% include _image.html src="/images/posts/buzzfeed/buzzfeed_distribution.png" %}
+   30  
+   31  However, the number of video syndication partners alone doesn't capture the scale of this part of their reach. Despite having only 200 million unique monthly visitors to their main website, [BuzzFeed's videos receive over 1 billion views every month](http://www.buzzfeed.com/advertise/resources/overview). Video is also increasingly important to many social networks, so it's likely distribution in this area will only continue to grow.
+   32  
+   33: {% include _image.html src="/images/posts/buzzfeed/monthly_views.png" %}
+   34  
+   35  We can also infer from the composition of the social networks BuzzFeed uses that their strategy extends beyond simply posting content to social feeds in the hope of enticing traffic back to the website. SnapChat, Imgur, Instagram, and Periscope do not drive referral traffic. However, they are all strong opportunities for audience engagement with content consumed directly on the network. This is only possible because [BuzzFeed has decoupled monetization from website pageviews]({% post_url 2016-04-13-buzzfeed-networks %}), a model which appears increasingly prescient as falling ad prices and the rise of ad blockers threaten the core advertising businesses of many traditional media companies. More content platforms (including Facebook, Google, and Twitter) are switching to a model where [content is consumed in place rather than linking back to its source]({% post_url 2016-04-08-publishers-must-adapt %}), and BuzzFeed has a significant headstart in surviving this shift.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-04-27-should-I-trust-free-software.md:
+   14  * **1 - Conflicts of Interest**
+   15  
+   16: {% include _image.html src="/images/posts/free-software/venn.png" %} 
+   17  
+   18  Supporting software costs money. Servers, developers, and all the other costs of running a business add up, and if the business isn't charging you directly, they've probably found a more lucrative way to monetize the relationship. When it comes to share buttons, there's a good chance you're the product. 
+   ..
+   24  * **2 - Website Performance**
+   25  
+   26: {% include _image.html src="/images/posts/free-software/speed.jpg" %}
+   27  
+   28  Making money through alternative means like advertising also comes with big performance implications. For example, in a [recent review of 10 different share button providers](https://www.xfive.co/blog/social-media-buttons-test-performance-privacy-features/), the worst performer, [ShareThis](http://www.sharethis.com), made 36 external requests and loaded 469kb of data. According to the author, ShareThis alone took over 6 seconds to load. In case you're curious, here are the details on [all the behind the scenes activity](http://www.webpagetest.org/result/150612_S8_PHW/3/details/) from this "free" resource. Outside the necessary requests for loading the buttons themselves, most of the calls are to a host of ad trackers which follow you around the internet.  
+   ..
+   30  * **3 - Product Support**
+   31  
+   32: {% include _image.html src="/images/posts/free-software/support.jpg" %}
+   33  
+   34  Free software sometimes has unseen costs in the form of support. Unlike software you're paying to use, free social share buttons do not typically guarantee the same level of support that Enterprise software does. While this isn't as big of a deal for smaller blogs, major websites and publishers require quick responses and fixes. Unexpected bug fixes without support can be costly in both developer time and poor user experience.  
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-05-02-test-to-stop-trump.md:
+   31  We created our target audiences for each state directly in Facebook's Power Editor: Audiences >> Create Audience >> Saved Audience so that we could target by any data Facebook has available.
+   32  
+   33: {% include _image.html src="/images/posts/stop-trump/californiaresidents.png" %}
+   34  
+   35  Because the absence of a college degree was such a strong predictor of support for Donald Trump, we excluded anyone with a degree from our test.
+   36  
+   37: {% include _image.html src="/images/posts/stop-trump/education.png" %}
+   38  
+   39  Our final audiences have 1.7 million people in Indiana and 12 million people in California.
+   40  
+   41: {% include _image.html src="/images/posts/stop-trump/audiences.png" %}
+   42  *Facebook Audience of Adults Without College Degrees*  
+   43  
+   ..
+   69  We loaded all of our versions of the headlines and images into Naytev, generated every available combination (2 images x 3 headlines = 6 messages per test), and paired each state's messaging with its respective audience. Pairing messages created some mixed sentiment posts (e.g. silly Trump image + pro Trump headline), which we were curious to evaluate too. We applied a $100 ad spend for both the California and Indiana test messages, for a total spend of $200.
+   70  
+   71: {% include _image.html src="/images/posts/stop-trump/california.png" %}
+   72  *Preview of California Test Messages: Positive, Negative, Neutral, and Mixed*
+   73  
+   ..
+   76  Here are the finished results:
+   77  
+   78: {% include _image.html src="/images/posts/stop-trump/californiaresults.png" %}
+   79  *California Results: Slightly Pro-Trump Message Engages Most*
+   80  
+   81: {% include _image.html src="/images/posts/stop-trump/indianaresults.png" %}
+   82  *Indiana Results: Similar Messaging Ranking, but Weaker Discourse than California*
+   83  
+   ..
+   88  - The neutral headline phrased as a question drove the highest post engagement in both states. Asking whether voters should vote for Trump in their state incited an enormous volume of comments (over 200 on each of the top messages). This a great way to generate visibility through conversation, but ultimately much harder to control, as the conversations quickly degenerated into vile name calling. 
+   89  
+   90: {% include _image.html src="/images/posts/stop-trump/dissonance.png" %}
+   91  
+   92  - **The negative image / positive headline combination (above) generated the highest CTR and lowest CPC in both states.** We believe that the dissonance of the pairing created a strong curiosity gap without triggering readers' clickbait senses. These message combinations take a strong opinion in one direction, so it's unsurprising that they perform well. As Refinery29 points out, ["Titles with negative qualifiers have on average 135% more comments per article than other stories and 28% more shares"](http://intelligence.r29.com/post/123550777526/3-ways-to-immediately-make-your-facebook-posts). In the case of our test, the question headline seems to encouraged divisive comments which themselves yielded continued high engagement.
+   ..
+   94  - **People are commenting without clicking through.** The top message in California had hundreds of comments but only 73 clicks. Additionally, the link would have directed them to a non-partisan site helping explore which candidates match the user's view, so no strong opinions there. The vast majority of people who engaged with our test were willing to add their opinion to the comment thread without feeling any obligation to read the link they were commenting on.
+   95  
+   96: {% include _image.html src="/images/posts/stop-trump/results.png" %} 
+   97  
+   98  So, how does this help us stop Trump? Anyone using Facebook in the past year (all 1.6bn of us) has noticed that the upcoming election is a hot topic. For better or worse, our reality is that the News Feed is increasingly the place where ideas are discovered, consumed, and debated. Those able to harness the power of digital [will win elections]({% post_url 2015-01-09-how-to-win-2016-elections-6-cutting-edge-digital-tactics %}), and testing helps us do that effectively and refine our tactics as we learn. If we hope to change minds, the first step is understanding how to reach voters on their terms and in ways that engage them. Only then do we have a chance of preventing [the Donald Drumpf](https://www.youtube.com/watch?v=DnpO_RTSNmQ).
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-05-05-ad-bubble.md:
+   24  Among the biggest problems facing online advertisers is that many ads are clicked by robots or are never seen by humans. These issues have been common knowledge for so long that even the companies selling these ads are happy to admit them. Google reported in 2014 that ["56.1% of ads on the internet are not seen by humans"](http://adage.com/article/digital/56-digital-ads-served-google/296062/). 
+   25  
+   26: {% include _image.html src="/images/posts/ad-bubble/robot.jpg" %}  
+   27  
+   28  Because Facebook's advertising controls the full stack of both content and advertising, they have a much greater ability to reduce fraud. They are also incentivized by their own longterm interests to ensure that the engagement users pay for on the site is genuine and root out bad actors.
+   ..
+   32  The Chief Martec chart sums up the insanity of the ad tech market better than anything I could write: 
+   33  
+   34: {% include _image.html src="/images/posts/ad-bubble/martec.jpg" %}
+   35  
+   36  Increasing the efficiency of the ad ecosystem at this point is like squeezing water from stone. Ad buyers have difficulty navigating the complex relationships necessary to achieve decent performance, and websites are bloated with ad trackers that reduce performance and frustrate users. One study of the cost to end users of all this sprawl showed that ["Boston.com’s mobile website ads averaged 30 seconds to load on a typical 4G connection, mostly because of large video ads. That’s the equivalent of 32 cents of cell data in ads every time the home page is loaded."](http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html) 
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-05-17-setting-up-instant-articles.md:
+   23  For example, Facebook requires Ordered Lists to only include a single text element, while W3 only requires [Flow Content](https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#flow-content-0) which permits multiple items. With Instant Articles, this results in an error which prevents the article from being published automatically:
+   24  
+   25: {% include _image.html src="/images/posts/instant-articles-2/list-error.png" %}
+   26  
+   27  This can be frustrating, as it requires restructuring your content to fit Facebook’s proprietary requirements rather than the HTML5 standard their instructions suggest.
+   ..
+   33  For static sites, the workflow is basically to create a page with an XML document detailing all of your articles. Here’s a link to the [Naytev Blog XML feed](http://blog.naytev.com/instant-feed.xml) as Facebook’s scraper sees it. It looks like this:
+   34  
+   35: {% include _image.html src="/images/posts/instant-articles-2/feed.png" %}
+   36  
+   37  ## The Instant Articles System is Fast and Rapidly Improving
+   ..
+   43  Publishers can choose to Auto-Publish Instant Articles as they appear in Facebook’s feed or manually approve each one. If there formatting are errors in an article, it will remain in an Unpublished draft state until the errors have been corrected.
+   44  
+   45: {% include _image.html src="/images/posts/instant-articles-2/animated.gif" %}
+   46  
+   47  ## Instant Articles Are Surprisingly Easy to Monetize
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-05-19-facebook-teen-exodus.md:
+   19  **Age 18-34 Digital Audience Penetration vs. Engagement of Leading Social Networks**
+   20  
+   21: {% include _image.html src="/images/posts/facebook-teen-exodus/comscore.png" %}
+   22  
+   23  Yes, it’s true that Facebook may no longer have the same cool factor it possessed when it was exclusive to college studies. [Some teens may be embarrassed](http://theconversation.com/facebooks-so-uncool-but-its-morphing-into-a-different-beast-21548) to be associated with using Facebook, but as [Recode recently noted](http://www.recode.net/2016/3/30/11587380/are-young-people-leaving-facebook-not-even-close-chart), “Millennials who claim they don't use Facebook are probably lying.”
+   24  
+   25: {% include _image.html src="/images/posts/facebook-teen-exodus/remember.png" %}
+   26  
+   27  The latest industry data backs up Recode’s theory. [Andrew Lipsman, VP of Marketing and Insights at comScore notes](http://www.nytimes.com/2016/05/06/business/facebook-bends-the-rules-of-audience-engagement-to-its-advantage.html): “You hear the narrative that young people are fleeing Facebook. The data show that’s just not true. Younger users have a wider appetite for social media, and they spend a lot of time on multiple networks. But they spend more time on Facebook by a wide margin.” While comScore’s analysis focuses on older teens and millennials, the [Pew Research Center found that Facebook is the most popular and frequently used platform for teens ages 13-17](http://www.pewinternet.org/2015/04/09/teens-social-media-technology-2015/) by a significant margin.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-05-25-a-b-testing-membership.md:
+   19  Here are four tips borrowed from the exercise world to ensure you’re getting the most out of your testing software:
+   20  
+   21: {% include _image.html src="/images/posts/a-b-testing-membership/measure.png" %}
+   22  
+   23  ## 1. You can only improve what you can measure
+   ..
+   33  Don’t be overly distracted by other people around you. While it’s useful to use competitors as benchmarks, remember that you’re ultimately only responsible for your own performance. 
+   34  
+   35: {% include _image.html src="/images/posts/a-b-testing-membership/seedling.jpg" %}
+   36  
+   37  ## 4. Don’t expect change overnight
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2016-06-02-testing-tools.md:
+   16  * **Optimizely**
+   17  
+   18: {% include _image.html src="/images/posts/testing-tools/optimizely-logo.png" %}
+   19  
+   20  Optimizely is the 800lb Gorilla of A/B testing. They have offer free plans as well as full Enterprise support. Optimizely has a reputation for being easy to set up, simple to use, and effective for improving performance.
+   21  
+   22: {% include _image.html src="/images/posts/testing-tools/optimizely-dashboard.png" %}
+   23  
+   24  * **Visual Website Optimizer**
+   25  
+   26: {% include _image.html src="/images/posts/testing-tools/vwo-logo.png" %}
+   27  
+   28  Visual Website Optimizer is a less expensive alternative to Optimizely, but doesn't offer the same range of features or ease of use. For serious A/B testers, it's probably not going to be sufficient.
+   29  
+   30: {% include _image.html src="/images/posts/testing-tools/vwo-dashboard.png" %}
+   31  
+   32  ## Landing Page A/B Testing
+   ..
+   34  * **Unbounce**
+   35  
+   36: {% include _image.html src="/images/posts/testing-tools/unbounce-logo.png" %}
+   37  
+   38  Focused exclusively on creating high-converting landing pages, Unbounce is the best known solution for A/B testing marketing pages. Use this to improve the effectiveness of your user acquisition.
+   39  
+   40: {% include _image.html src="/images/posts/testing-tools/unbounce-dashboard.png" %}
+   41  
+   42  * **Lander**
+   43  
+   44: {% include _image.html src="/images/posts/testing-tools/lander-logo.png" %}
+   45  
+   46  A newer alterative to Unbounce is [Lander](http://www.landerapp.com), a landing page creation tool that prominently features A/B testing options. This seems to be a popular option and offers a free trial to get started.
+   ..
+   50  * **Naytev**
+   51  
+   52: {% include _image.html src="/images/posts/testing-tools/naytev-logo.png" %}
+   53  
+   54  [Naytev](https://www.naytev.com) is the gold standard in A/B testing for social. Major publishers and brands alike use Naytev to test how their content appears on social media.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2017-07-10-facebok-editing-api-update.md:
+   17  Here at Naytev we’ve been discussing how this impending change will affect posting with our clients for some time now. 
+   18  
+   19: {% include _image.html src="/images/posts/facebook-editing-update/tpo.gif" %}
+   20  
+   21  ## What the change entails: 
+   22  
+   23: {% include _image.html src="/images/posts/facebook-editing-update/examplepost1.png" %}
+   24  
+   25  Previously, if I were to share this post, I would be able to change the Headline, Post Text, and Thumbnail displayed despite the OG tags associated with the original content. I could have changed the NPR Article to say: “Amelia Earhart Abducted By Aliens” and updated the thumbnail accordingly.
+   ..
+   27  At the other end of the spectrum, I could take a post like this: 
+   28  
+   29: {% include _image.html src="/images/posts/facebook-editing-update/nefariouspuppy.png" %}
+   30  
+   31  and have it redirect to something far more nefarious, while at the same time aggregating likes, comments and spreading via social shares. 
+   ..
+   37  It’s understandable that Facebook wants to make it harder for bad actors to exploit the News Feed. While most major media companies change messaging with users’ best interests in mind, some fringe publishers have taken advantage of the ability to alter content in a way that intentionally manipulates and misleads readers.
+   38  
+   39: {% include _image.html src="/images/posts/facebook-editing-update/thumbsup.gif" %}
+   40  
+   41  Since Mark Zuckerberg’s [initial post](https://www.facebook.com/zuck/posts/10103269806149061) about fake news to the [articles](http://www.bbc.com/news/uk-39830727) connecting Facebook and the US Election, there has been an [outcry for](https://www.theguardian.com/technology/2017/may/16/facebook-fake-news-tools-not-working) [stricter policies](https://techcrunch.com/2017/07/07/fake-news-is-a-war-effort-humans-need-to-lead/) on “alternative facts.” 
+   ..
+   43  ## How this affects publishers:
+   44  
+   45: {% include _image.html src="/images/posts/facebook-editing-update/OGtagexample.png" %}
+   46  
+   47  Luckily for publishers who create great original content, they’ll still be able to control how their content appears in the News Feed by changing their Open Graph tags. This change has the potential to benefit those creators, since they’ll be in total control over their messaging, regardless of who is sharing their content.
+   48  
+   49: {% include _image.html src="/images/posts/facebook-editing-update/OGtagcode.png" %}
+   50  
+   51  For companies that struggle or don’t want to include manual OG tag optimization into their existing workflows, Naytev has already solved the problem with our [Global Optimization API](http://success.naytev.com/apply-amplify-test-results-with-naytev-s-global-optimization/global-optimization-overview). The [Global Optimization API](http://success.naytev.com/apply-amplify-test-results-with-naytev-s-global-optimization/global-optimization-overview) integrates directly into the testing process and takes the winning message from a test and applies it anywhere you designate, from onsite sharing to Facebook Instant Articles and Google AMP. 
+   ..
+   57  ## Is the change a good thing? 
+   58  
+   59: {% include _image.html src="/images/posts/facebook-editing-update/party.gif" %}
+   60  
+   61  Contrary to how it might seem at first, this change should actually improve advertising through Facebook. Because bad actors won’t be able to alter headlines attributed to mainstream publications, readers should have greater trust in the content they see on Facebook, allowing good content to have even further reach.
+   ..
+   65  Naytev will continue to be the easiest way to A/B test and distribute content across social networks including Facebook. Because our unique “Dark Testing” approach combines paid distribution and organic posting, we’re able to help publishers maximize engagement throughout the content lifecycle. Our Global Optimization toolset even enables publishers to dynamically control their Open Graph tags so they can fully control how their content appears in the News Feed and ensure their best message is always displayed.
+   66  
+   67: {% include _image.html src="/images/posts/facebook-editing-update/hereforyou.gif" %}
+   68  
+   69  We’re here to make testing (in all facets) easier for you!
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2017-08-10-the-intriguing-case-of-instagress.md:
+   18  In non-tech terms, “instagram-related botting” refers to the automation of likes, comments, and follows. Instagress was one of the most prominent companies offering automated engagement services for Instagram Accounts, where a user could set certain rules and the service would automatically engage with relevant accounts. 
+   19  
+   20: {% include _image.html src="/images/posts/instagress/botting.gif" %}
+   21  
+   22  Followers, likes, comments and views have traditionally been content creators’ strongest metric for success. When companies were looking for relatable personalities, their first check was followers and levels of engagement. As a result, artificial engagement services like Instagress found a way to take advantage of the system and farm engagement. 
+   ..
+   32  In evaluating the current changes, it’s important to examine the popularity of botting services rather than why they exist. Why are individuals so desperate to inflate their follower metrics? 
+   33  
+   34: {% include _image.html src="/images/posts/instagress/followunfollow.gif" %}
+   35   
+   36  Growth. Brand Recognition. Money. Traditionally likes and followers have been the gateway to success on these platforms, so users have pursued them through whatever means necessary. 
+   ..
+   56  With Naytev you can test 6-9 Packages of Content (different headers, post text, and thumbnails), whether they're links, photos, or videos, and instantly publish the content to your page with earned engagement.
+   57  
+   58: {% include _image.html src="/images/posts/instagress/thumbsup.gif" %}
+   59  
+   60  It’s that simple.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2017-08-24-analytics-update.md:
+   13  
+   14  
+   15: {% include _image.html src="/images/posts/Performance-Dashboard-Update/drumroll.gif" %}
+   16  
+   17  ...new **Performance Dashboard!** We’ve heard your suggestions and we’re excited to give you a consolidated view with powerful analytics. Let’s take a deep dive into each section: 
+   ..
+   19  ## Summary and Time Frame:
+   20  
+   21: {% include _image.html src="/images/posts/Performance-Dashboard-Update/Overall-Performance.gif" %}
+   22  
+   23  At the very top we offer you two time frames: 30 Days and All Time. We thought it would be helpful to have a monthly and all-time retrospective to frame your content optimization. For all the screenshots below, we’ve taken data from the “All Time” perspective. 
+   ..
+   25  ## Social Testing: 
+   26  
+   27: {% include _image.html src="/images/posts/Performance-Dashboard-Update/Social-Testing.png" %}
+   28  
+   29  In the “Social Testing” section you’ll get an improved view of the old performance dashboard. Here we highlight your test-level results in aggregate and over time. You can see a macro perspective of Engagement Rate, Clickthrough Rate, 10 second View Rate, Average View Time and Total Engagement. 
+   ..
+   31  ## Tested vs. Untested Content Performance 
+   32  
+   33: {% include _image.html src="/images/posts/Performance-Dashboard-Update/TestedvsUntested.png" %}
+   34  
+   35  This is the section we’re most excited about! As long as you post your winning message to Facebook through Naytev, we’ll be able to carry through your earned test engagement and provide comparative insights to your historical Facebook Page Posts.  A question that always comes with testing is “What’s the ROI?” With the new dashboard we wanted to clearly show your returns from testing.
+   ..
+   41  ## Intelligent Scheduling
+   42  
+   43: {% include _image.html src="/images/posts/Performance-Dashboard-Update/Intelligent-Scheduling.png" %}
+   44  
+   45  
+   ..
+   51  ## Financial Impact
+   52  
+   53: {% include _image.html src="/images/posts/Performance-Dashboard-Update/Financial-Impact.png" %}
+   54  
+   55  Naytev takes a unique approach of bridging paid and organic engagement for testing. With this in mind, we share the financial impact of optimizing your social content packaging. First, we’ll show you your average cost across key metrics - this is a weighted average, reflecting total budget spent divided by total engagement earned. We also calculate savings, comparing the weighted average cost metrics of your median performing test messages with those of your best messages. We do this automatically for you, so you can always keep tabs on your team’s return on investment.
+   ..
+   57  ## Organic From Paid Performance Boost
+   58  
+   59:  {% include _image.html src="/images/posts/Performance-Dashboard-Update/OrganicFromPaid.png" %}
+   60  
+   61  As you know, by posting your winning message through Naytev you’re able to carry through engagement earned during the test to your organic Page post. Engagement from your Naytev testing and publishing falls into three categories: Paid Engagement, Organic-From-Paid Engagement, and Organic Page Engagement. 
+   ..
+   69  ## Test-Level Engagement Breakdown
+   70   
+   71: {% include _image.html src="/images/posts/Performance-Dashboard-Update/TestLevelEngagement.png" %}
+   72  
+   73  
+   ..
+   80  Happy Testing! 
+   81  
+   82: {% include _image.html src="/images/posts/Performance-Dashboard-Update/Test.gif" %}
+   83  
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2017-09-08-2017-09-8-best-practices-thumbnail.md:
+   15  
+   16  
+   17: {% include _image.html src="/images/posts/bestpractices1/lostatsea.gif" %}
+   18  
+   19  This first post is dedicated to images. Simply put, better images drive better performance. If your tests aren’t yielding the results you’re hoping for, improving imagery can often turn things around.
+   20  
+   21: {% include _image.html src="/images/posts/bestpractices1/onelook.jpg" %}
+   22  <center> “One of the first documented uses of the phrase.” </center>
+   23  <br>
+   ..
+   33  To dive into the heart of the matter, we’re going to examine Facebook testing best practices as they apply to this example article from [Reuters: Downward Facing Goat: Yoga Trend Draws Flock to New Hampshire Farm.](http://www.reuters.com/article/us-new-hampshire-goats-idUSKCN18F1Y8)
+   34  
+   35: {% include _image.html src="/images/posts/bestpractices1/goatarticle.png" %} 
+   36  
+   37  For this example, imagine that we don't have access to the images from the article and have to turn to alternative sources. I’ve preselected some image sets for you to choose from. (If you need ideas for finding free high quality images, check out [this article](http://blog.naytev.com/break-up-with-paid-stock/))
+   ..
+   39  Given the images we've selected, try to guess which set of images will drive more engagement: 
+   40  
+   41: {% include _image.html src="/images/posts/bestpractices1/Goat1.jpg" %}
+   42  
+   43  <center> Or </center>
+   44  
+   45: {% include _image.html src="/images/posts/bestpractices1/Goat2.jpg" %}
+   46  
+   47  Are you ready for the answer?
+   ..
+   51  The answer is neither! 
+   52  
+   53: {% include _image.html src="/images/posts/bestpractices1/jedi.gif" %}
+   54  
+   55  Both sets of images will generate similarly underwhelming test results. Why? The goats are different in each image. There are aesthetic differences. There are different filters applied. 
+   ..
+   61  Ultimately the two sets of images above aren’t *meaningfully different.* While there are some minor variations, overall they're similar in subject matter, composition, and the story they tell. The images below, on the other hand, are meaningfully different.
+   62  
+   63: {% include _image.html src="/images/posts/bestpractices1/correctgoat.jpg" %}
+   64  
+   65  This set of images will yield better test performance because each image offers a different story and conveys a different emotion. The first image shows conflict, the second implies curiosity, and the last one is an image of relaxation (or boredom; the different possible interpretations are what make testing so important).
+   ..
+   71  Going a little deeper into the “meaningfully different image problem”, another pitfall is the “Product Shot” Problem, which is a subcategory of providing context. Whether it's an article about the new iphone or a new political initiative announced by Trump, people default to the standard picture of the immediate thing at hand.
+   72  
+   73: {% include _image.html src="/images/posts/bestpractices1/iphone.png" %}
+   74  
+   75: {% include _image.html src="/images/posts/bestpractices1/trump image.png" %}
+   76  
+   77  In the examples above, try an image of a person using iphone to take a picture of a friend instead of stock iphone product shot; if it's Trump, don't just show a picture of Trump’s face scowling, show a picture of upset people, riots, doomsday, etc.
+   ..
+   79  Any time your picture is of a singular person or thing (gadget, building, etc.) try images that add context. Knowing that, what do you think is wrong with the following set? 
+   80  
+   81: {% include _image.html src="/images/posts/bestpractices1/product.jpg" %}
+   82  
+   83  Just like before, the images aren’t meaningfully different. If you’re trying to showcase a product, use images that showcase the benefits and context of use (aka, a “hero shot”).
+   84  
+   85:  {% include _image.html src="/images/posts/bestpractices1/correctproduct.jpg" %}
+   86  
+   87  ## Use High Quality Images
+   ..
+   89  Another thing to keep in mind is the quality of your images. Blurry, out of focus (unless it’s artistic), and low-res images have a much lower engagement rate with audiences. Stock Photos generally have a bad rap, but we at Naytev love sites like [Pexels](www.pexels.com), [Pixabay](www.pixabay.com), and [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page). They offer myriad photo options spanning a huge range of moods, subjects, and topics. 
+   90  
+   91: {% include _image.html src="/images/posts/bestpractices1/highquality.png" %}
+   92  
+   93  All the images used in the examples above are royalty free and taken from our favorite sites. We have two blogposts that dive into the free resources we love and use:
+   ..
+  102  If you find a series of images that are high resolution, resonate well, and are meaningfully different….cherry pick the best ones. On the other side of not having enough image variation, using too many image variations for a single test wastes time and money without generating meaningfully better results. Through thousands of tests, Naytev has found that the ultimate “sweet spot” for testing is…
+  103   
+  104: {% include _image.html src="/images/posts/bestpractices1/6-9.png" %}
+  105  
+  106  You want to find the best message amongst all your variations, but you don’t want to spread yourself too thin. 
+  107  
+  108: {% include _image.html src="/images/posts/bestpractices1/butter.gif" %}
+  109  
+  110  
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2017-11-29-facebook-domain-verification.md:
+   30  Imagine a bad actor modifying the [Washington Post article that debunks the story that NASA was kidnapping children and sending them to Mars](https://www.washingtonpost.com/news/speaking-of-science/wp/2017/07/01/no-alex-jones-nasa-is-not-hiding-kidnapped-children-on-mars-nasa-says/?utm_term=.988134806ef4), instead writing “NASA Takes Kidnapped Children to Mars”. Unfortunately, some people believe this, sharing without reading. Bad News Bears. 
+   31  
+   32: {% include _image.html src="/images/posts/facebook-domain-verification/mars.gif"%}
+   33  
+   34  Yes, this is a silly example, but the underlying issue - unrestricted editing - can cause issues. Facebook understandably needed to take action. That said, social media teams regularly modify their Facebook link post image, headline, and description to something other than the default content defined in their Open Graph Tags (aka “OG” tags; [learn more here](https://developers.facebook.com/docs/sharing/best-practices/). Facebook previously allowed teams to do this for years, since default text and images often aren’t optimized for Facebook. Headlines can be too long, not punchy enough for social, or need revisions, and images may simply be low quality or not the best performing option. 
+   ..
+   60  
+   61  1. In Business Manager, click on the *Business Settings* button.
+   62:  {% include _image.html src="/images/posts/facebook-domain-verification/Picture1.png"%}
+   63  1. In the Business Settings, make sure you are in the *People and Assets* tab, and select *Domains* from the left side navigation list.
+   64:  {% include _image.html src="/images/posts/facebook-domain-verification/Picture2.png"%}
+   65  1. Click on the *Add New Domains button*, and enter your domain in the *Add a domain* pop-up dialog.
+   66:  {% include _image.html src="/images/posts/facebook-domain-verification/Picture3.png"%}
+   67  1. If you have more than one domain listed, select the domain for which you desire to confirm ownership. Note: Facebook enables you to share your domain with a partner if needed – more on this at the end of this post.
+   68  1. Choose the method you wish to use to verify your domain: DNS Verification or the HTML File Upload. Note: You only need to use one method.
+   ..
+   70  __Step 2, Option 1: DNS Verification__
+   71  Add a DNS TXT entry to your DNS record to confirm ownership
+   72: {% include _image.html src="/images/posts/facebook-domain-verification/Picture4.png"%}
+   73  The *DNS Verification* tab of your selected domain provides the TXT information you will need to add to your DNS record.
+   74  
+   ..
+   82  __Step 2, Option 2: HTML File Upload__
+   83  If you don’t want to use DNS Verification, then instead you can upload an HTML file to your web directory and confirm domain ownership in Business Manager. You’ll need admin access to your website’s root folder to use this HTML file option.
+   84: {% include _image.html src="/images/posts/facebook-domain-verification/Picture5.png"%}
+   85  The *HTML File Upload* tab of your selected domain provides the HTML verification file you need to upload to your website.
+   86  
+   ..
+   94  
+   95  - Under Domains, select the desired domain, and click on the Assign Pages button.
+   96: {% include _image.html src="/images/posts/facebook-domain-verification/Picture6.png"%}
+   97  - You should see any and all of the Pages you have added to Business Manager (if your Page is not available, make sure you have imported it into Business Manager under the *Pages* tab). Select all the Pages you wish to add to the domain, and click *Save Changes*.
+   98: {% include _image.html src="/images/posts/facebook-domain-verification/Picture7.png"%}
+   99  
+  100  - You should now see any added Pages listed under Assigned Assets for your selected domain.
+  101: {% include _image.html src="/images/posts/facebook-domain-verification/Picture8.png"%}
+  102  
+  103  Step 4: You’re Done!
+  ...
+  111  
+  112  1. First, complete “Step 1: Verify Your Domain”, then Select the verified domain you wish to add a partner to, and click the Assign Partner button.
+  113: {% include _image.html src="/images/posts/facebook-domain-verification/Picture9.png"%}
+  114  2. Select *Domain Admin* from the *Role* drop-down field.
+  115: {% include _image.html src="/images/posts/facebook-domain-verification/Picture10.png"%}
+  116  3. Enable sharing by either giving your partner a link or entering your partner's Business Manager ID.
+  117  - Share the provided link with your Business Manager partner.
+  118: {% include _image.html src="/images/posts/facebook-domain-verification/Picture11.png"%}
+  119  Note: Each link can only be used once and will expire after 30 days if not used. Your Business Manager partner will be able to complete the domain sharing by clicking on the link and assigning their Business Manager to the shared domain.
+  120  
+  ...
+  123  After clicking the *Assign Partner* button, click on the *Connect your domain using your partner's business ID instead* link at the bottom of the pop-up dialog. Enter your partner's ID, and click *Connect* to enable sharing.
+  124  
+  125: {% include _image.html src="/images/posts/facebook-domain-verification/Picture12.png"%}
+  126  
+  127  Full disclosure, we provide these steps verbatim from Facebook’s documentation to avoid any confusion. Facebook’s documentation may change over time, so here’s the original post from Facebook providing details: [https://developers.facebook.com/docs/sharing/domain-verification](https://developers.facebook.com/docs/sharing/domain-verification)
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2017-12-15-use-storytelling-to-supercharge-your-facebook-content.md:
+   24  
+   25  - Facebook is still the "queen mother" over all other social networks. Why?
+   26: {% include _image.html src="/images/posts/brighttalk/facebookhas300.jpg"%}
+   27: {% include _image.html src="/images/posts/brighttalk/oneoutofevery5.jpg"%}
+   28  
+   29  
+   30  ## How can you remain dominant on your fan's Facebook Feed?
+   31: {% include _image.html src="/images/posts/brighttalk/facebookisalwayschanging.jpg"%}
+   32: {% include _image.html src="/images/posts/brighttalk/achieve-with-testing.jpg"%}
+   33  - A Facebook A/B Test is defined as taking a singular piece of content and uploading different variations of copy, thumbnail, and headline to test against a singular audience.
+   34      - Naytev's Testing methodology combines the traditional buckets of *Paid Engagement* and *Organic Engagement* to help achieve your social media goals.
+   35  - Naytev streamlines the testing process and cuts down test prep time, but you can also manually create A/B Tests Directly in the Facebook Ads Manager by following these steps.
+   36: {% include _image.html src="/images/posts/brighttalk/howtorunanabtestoutofyourfacebookadsmanager.jpg"%}
+   37  
+   38  
+   ..
+   48  
+   49  ## Use Facebook Audiences to Your Benefit
+   50: {% include _image.html src="/images/posts/brighttalk/facebookaudience.jpg"%}
+   51  
+   52  - Out of the 3 Types of Audiences that Facebook has, Lookalike Audiences are the best audience to test your content against.
+   53      - Your Lookalike Audience automatically excludes your Facebook fans and creates a segement of users predispositioned to engage and like your content.
+   54: {% include _image.html src="/images/posts/brighttalk/howtocreatealookalikeaudience.jpg"%}
+   55    1. Budget **5-10 Minutes** to create your Lookalike Audience
+   56    2. Go to Your Power Editor
+   ..
+   66  
+   67  ## Test Best Practices & Things to Keep in Mind
+   68: {% include _image.html src="/images/posts/brighttalk/packaging.jpg"%}
+   69  - Take a multivariate approach to storytelling.
+   70: {% include _image.html src="/images/posts/brighttalk/wholepackage.jpg"%}
+   71  - It's not a single variable that makes someone click on your content, it's how it comes together as a package.
+   72  - Make sure your message variants are truly different from each other. What makes a meaningful difference? Check out our past blogpost on Best Practices here.
+   73  - Stick to creating 6-9 Message Variations
+   74  - Let your Ad Set run to completion to capitalize on the organic "social echo" that Paid Spend gives you.
+   75: {% include _image.html src="/images/posts/brighttalk/maketime.jpg"%}
+   76  - Testing is so instrumental, many publishing teams plan to include testing within their editorial schedule.
+   77  
+   ..
+   88  
+   89  ## Use Your Results to Take Action
+   90: {% include _image.html src="/images/posts/brighttalk/actonyourresults.jpg"%}
+   91  - Expand Your Top of Funnel
+   92      - Get more out of your test by putting more money behind your best messages - targetting users that are highly likely to engage with your content and, at the same time, getting brand exposure to audiences that haven't liked your page before.
+
+/Users/mbseid/Dev/naytev/naytev-blog/_posts/2018-01-26-adapt-to-facebook-algorithm-update.md:
+   15  Rather than rehash doomsday concerns, let’s focus on what we know and how to quickly adapt. First, here’s a consolidated recap of Facebook’s update:
+   16  
+   17: {% include _image.html src="/images/posts/algorithm-update/zuck.jpeg"%}
+   18  
+   19  - **1. Facebook will prioritize interpersonal interaction over passive content discovery**
+   ..
+   25  <cite>[https://www.facebook.com/zuck/posts/10104413015393571](https://www.facebook.com/zuck/posts/10104413015393571)</cite>
+   26  
+   27: {% include _image.html src="/images/posts/algorithm-update/mosseri.png"%}
+   28  
+   29  - **2. If your content drives interpersonal interaction, you’ll be rewarded**
+   ..
+   35  <cite>[https://newsroom.fb.com/news/2018/01/news-feed-fyi-bringing-people-closer-together](https://newsroom.fb.com/news/2018/01/news-feed-fyi-bringing-people-closer-together)
+   36  
+   37: {% include _image.html src="/images/posts/algorithm-update/brown.jpeg"%}
+   38  
+   39  - **3. You’ll reap the greatest rewards if your content drives comments and shares\***
+
+179 matches across 43 files

@@ -3,7 +3,7 @@ title: It's Not Your Fault, But Your Share Button Sucks
 date: 2014-07-15 00:00:00 -07:00
 layout: post
 subtitle: Why it matters, and how you can fix it.
-cover_image: posts/button-sucks/ab_cheese.png
+cover_image: uploads/posts/button-sucks/ab_cheese.png
 excerpt: The golden age of Facebook is upon us, but in a cruel twist, it has never
   been more difficult for organizations to organically connect with fans.
 author: patrick_costello
@@ -29,7 +29,7 @@ Few organizations make it past Step 2. Typically, when someone clicks a Facebook
 
 Social shares are free advertising. But the engagement and referrals they drive are only as good as their messaging. Most organizations don’t customize their messaging, and the performance of all messaging (custom or not) is subject to guesswork and chance.
 
-{% include _image.html src="/images/posts/button-sucks/ab_cheese.png" %}
+{% include _image.html src="/uploads/posts/button-sucks/ab_cheese.png" %}
 
 Writing and picking the best message is currently a pain – Facebook doesn’t provide a simple way to modify your messages, let alone test out different versions. It doesn’t have to be this way.
 
@@ -39,6 +39,6 @@ In less than 5 minutes, you can start editing the messages issued when people sh
 
 ## How much more traffic and revenue would you have gotten if you used the best message every time?
 
-{% include _image.html src="/images/posts/button-sucks/ab_graphs.png" %}
+{% include _image.html src="/uploads/posts/button-sucks/ab_graphs.png" %}
 
 Social sharing optimization is a new baseline best practice in this era of declining organic reach. Naytev makes this best practice practical. *Try Naytev for free today at www.naytev.com.*

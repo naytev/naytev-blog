@@ -3,7 +3,7 @@ title: The Formula for a Perfect Social Share Message
 date: 2015-04-01 00:00:00 -07:00
 layout: post
 subtitle: How to get it right every time
-cover_image: posts/perfect-formula/cover.jpg
+cover_image: uploads/posts/perfect-formula/cover.jpg
 custom_js: naytev-link
 excerpt: What if I told you that your social share message is all that’s keeping your
   content from thousands of new readers? I see this firsthand at Naytev where we automatically
@@ -23,9 +23,9 @@ Below is an example of effective image selection from one of the message tests w
 
 **“Glamor Shots” and Close-ups Attract Readers**
 
-{% include _image.html src="/images/posts/perfect-formula/glamor.jpg" %} 
+{% include _image.html src="/uploads/posts/perfect-formula/glamor.jpg" %} 
 
-{% include _image.html src="/images/posts/perfect-formula/glamorvariants.png" %}
+{% include _image.html src="/uploads/posts/perfect-formula/glamorvariants.png" %}
 
 We recommend using photos or illustrations of people, places and things related to your content. Rich colors and angles help set your images apart from the norm. Got data? Well-designed infographics with limited text are perfect for Facebook. If the web page that you want people to share has only one or no images, we recommend trying additional images in your share messages that can be sourced from services like [Getty Images](http://www.gettyimages.com/), [Shutterstock](http://www.shutterstock.com/), [Morguefile](http://www.morguefile.com/), [Gratisography](http://www.gratisography.com/), and the [Creative Commons search engine](http://search.creativecommons.org/) (look for images approved for free commercial use).
 
@@ -35,7 +35,7 @@ Below is a prime example of a rich image vs. a logo. We left the headline and de
 
 Complement Headlines With Related Photos, Not Logos 
 
-{% include _image.html src="/images/posts/perfect-formula/related.png" %} 
+{% include _image.html src="/uploads/posts/perfect-formula/related.png" %} 
 
 *  **2. Write Varied Headlines That Offer New Perspectives**
 
@@ -45,13 +45,13 @@ A default headline like the one below, ‘Battle Royale at Chuck E. Cheese,’ i
 
 If the Default Message is Broad, Try Highlighting Specific Details
 
-{% include _image.html src="/images/posts/perfect-formula/details.png" %} 
+{% include _image.html src="/uploads/posts/perfect-formula/details.png" %} 
 
 If your content is short or highly focused, find a new subtopic by broadening or narrowing down your scope with each message. New messages can still be about the same topic as your default; just make sure you’re mentioning something new. Here’s an example from an article about activists protesting against e-cigarettes:
 
 Highlight Several Key Story Angles From Your Content
 
-{% include _image.html src="/images/posts/perfect-formula/angles.png" %} 
+{% include _image.html src="/uploads/posts/perfect-formula/angles.png" %} 
 
 The default message in this example gives readers specifics: who is being scrutinized by whom, and why. The winning message still focuses on the same people, but widens in scope. Instead of the columnist affecting the activists, we highlighted the activists’ negative impact on their constituents.
 
@@ -59,7 +59,7 @@ The top message below drove a 148% engagement boost for our client. Alternativel
 
 Capitalize on Celebrity Mentions 
 
-{% include _image.html src="/images/posts/perfect-formula/celebrity.png" %} 
+{% include _image.html src="/uploads/posts/perfect-formula/celebrity.png" %} 
 
 * **3. Use Data, But Keep It Conversational**
 
@@ -69,7 +69,7 @@ When reading this story I immediately thought of my bank account (“How long wo
 
 Use Headlines to Answer Burning Questions
 
-{% include _image.html src="/images/posts/perfect-formula/questions.png" %} 
+{% include _image.html src="/uploads/posts/perfect-formula/questions.png" %} 
 
 * **4. Make Your Readers Feel Something**
 
@@ -85,7 +85,7 @@ We have found that toning down messaging can lower reader apprehensions about sh
 
 Swap Negative Headlines for Positive Ones (and Vice Versa)
 
-{% include _image.html src="/images/posts/perfect-formula/sentiment.png" %} 
+{% include _image.html src="/uploads/posts/perfect-formula/sentiment.png" %} 
 
 The toned down headline in the image above is something Jaden’s fans wouldn’t mind clicking on! Simply modifying the article’s tone from “shamelessly negative” to “sarcastically positive” ultimately drove 157,000 additional reader sessions for this article. 
 
@@ -97,7 +97,7 @@ In other words, the headline is trying — obviously, and much too hard — to e
 
 Write Honest Headlines, Not Clickbait
 
-{% include _image.html src="/images/posts/perfect-formula/honest.png" %} 
+{% include _image.html src="/uploads/posts/perfect-formula/honest.png" %} 
 
 Whomever’s surprised by the story above probably doesn’t get out much. (Spoiler alert: It’s a cafe.) The last thing we’ll say about clickbait is that lacks distinction and doesn’t drive brand loyalty. Staying true to your voice enables your content to stand out, command loyalty and build brand value.
 
@@ -109,7 +109,7 @@ Readers on the fence about reading your article will look to your Description to
 
 Facebook Descriptions Help Convince People to Read More
 
-{% include _image.html src="/images/posts/perfect-formula/descriptions.png" %} 
+{% include _image.html src="/uploads/posts/perfect-formula/descriptions.png" %} 
 
 * **7. How to Change Your Social Share Messages**
 

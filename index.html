@@ -6,15 +6,15 @@ body_class: homepage
 {% for post in paginator.posts limit: 1 %}
     {% assign author = site.data.authors[post.author] %}
     {% if post.cover_image %}
-        <div class="blog-cover" style="background-image:url({{site.url}}/images/{{ post.cover_image }});">
+        <div class="blog-cover" style="background-image:url({{site.url}}{{ post.cover_image }});">
     {% else %}
-        <div class="blog-cover" style="background-image:url({{site.url}}/images/{{ site.inc.cover_image }});">
+        <div class="blog-cover" style="background-image:url({{site.url}}{{ site.inc.cover_image }});">
     {% endif %}
         <section>
         </section>
     </div>
     <article class="container" id="featured">
-      
+
         <section class="index" >
             <!-- {% if post.author.image %}<img src="/images/{{ post.author.image }}" class="avatar">{% endif %}-->
                 <div>
@@ -28,7 +28,7 @@ body_class: homepage
                 {{ post.content | reading_time }} read
             </div>
         </section>
-    </article>  
+    </article>
 {% endfor %}
 
 
@@ -42,7 +42,7 @@ body_class: homepage
         <div class='row'>
             <div class='col-md-4 col-sm-12'>
                 <div class='index-img-wrapper'>
-                    <img src="{{site.url}}/images/{{ post.cover_image }}" class="image">
+                    <img src="{{site.url}}/{{ post.cover_image }}" class="image">
                 </div>
             </div>
             <div class='col-md-8 col-sm-12'>

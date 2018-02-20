@@ -7,7 +7,7 @@ layout: base
 {% if page.cover_image %}
 <div class="article-cover">
     <div>
-        <img src="{{site.url}}/images/{{ page.cover_image }}" class="image">
+        <img src="{{site.url}}{{ page.cover_image }}" class="image">
     </div>
 </div>
 {% endif %}
@@ -33,7 +33,7 @@ layout: base
 
         <footer>
             <address>
-               {% if author.image %}<img src="{{site.url}}/images/{{ author.image }}">{% endif %}
+               {% if author.image %}<img src="{{site.url}}/{{ author.image }}">{% endif %}
                 <p>Written by <strong><a rel="author" href="https://twitter.com/{{ author.twitter }}" title="{{ author_name }}" target="_blank">{{ author.name }}</a></strong><br>
                 <span class="muted">{{ author.bio }}</span>
                 </p>

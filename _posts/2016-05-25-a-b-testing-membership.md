@@ -3,7 +3,7 @@ title: A/B Testing is Like a Gym Membership
 date: 2016-05-25 00:00:00 -07:00
 layout: post
 subtitle: Lessons from the world of exercise
-cover_image: posts/a-b-testing-membership/dog.png
+cover_image: uploads/posts/a-b-testing-membership/dog.png
 excerpt: Like signing up for a gym membership, simply buying A/B testing software
   won't improve your performance.
 author: zack_liscio
@@ -18,7 +18,7 @@ Like with a gym membership, simply purchasing an A/B testing software license is
 
 Here are four tips borrowed from the exercise world to ensure you’re getting the most out of your testing software:
 
-{% include _image.html src="/images/posts/a-b-testing-membership/measure.png" %}
+{% include _image.html src="/uploads/posts/a-b-testing-membership/measure.png" %}
 
 ## 1. You can only improve what you can measure
 
@@ -32,7 +32,7 @@ It’s too easy to fall off the wagon if you don’t hold yourself accountable. 
 
 Don’t be overly distracted by other people around you. While it’s useful to use competitors as benchmarks, remember that you’re ultimately only responsible for your own performance. 
 
-{% include _image.html src="/images/posts/a-b-testing-membership/seedling.jpg" %}
+{% include _image.html src="/uploads/posts/a-b-testing-membership/seedling.jpg" %}
 
 ## 4. Don’t expect change overnight
 

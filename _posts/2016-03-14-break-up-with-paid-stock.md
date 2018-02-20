@@ -3,7 +3,7 @@ title: Why You Must Break Up With Your Lame Stock Photos Immediately
 date: 2016-03-14 00:00:00 -07:00
 layout: post
 subtitle: 'Or: Flirting With CC0 Images'
-cover_image: posts/lame-stock-photos/herocameracrop.jpg
+cover_image: uploads/posts/lame-stock-photos/herocameracrop.jpg
 excerpt: You don’t need this stuff. You never did.
 author: cara_tucker
 ---
@@ -25,7 +25,7 @@ The advantage images used to bring you has turned into a standard expectation. B
 
 So not only do you need pictures, you need relevant, quality pictures that your audience hasn’t seen reposted 80 times.
 
-{% include _image.html src="/images/posts/lame-stock-photos/bummerbunny.jpg" %} 
+{% include _image.html src="/uploads/posts/lame-stock-photos/bummerbunny.jpg" %} 
 
 Image Is Everything**
 It’s always been a monumental task to find good images, and it will only get harder from here.

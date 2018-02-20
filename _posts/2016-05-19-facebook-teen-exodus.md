@@ -3,7 +3,7 @@ title: Is There Really a Teen Exodus from Facebook?
 date: 2016-05-19 00:00:00 -07:00
 layout: post
 subtitle: A Reality Check for Facebook Contrarians
-cover_image: posts/facebook-teen-exodus/cover.jpg
+cover_image: uploads/posts/facebook-teen-exodus/cover.jpg
 excerpt: Millions of teenagers are leaving Facebook. Teens think Facebook is lame
   and meaningless. These are just some of takeaways from articles in the past couple
   years covering teenager engagement trends on Facebook. With such press highlights,
@@ -18,11 +18,11 @@ The truth is that teens use Facebook more than any other platform. comScore’s 
 
 **Age 18-34 Digital Audience Penetration vs. Engagement of Leading Social Networks**
 
-{% include _image.html src="/images/posts/facebook-teen-exodus/comscore.png" %}
+{% include _image.html src="/uploads/posts/facebook-teen-exodus/comscore.png" %}
 
 Yes, it’s true that Facebook may no longer have the same cool factor it possessed when it was exclusive to college studies. [Some teens may be embarrassed](http://theconversation.com/facebooks-so-uncool-but-its-morphing-into-a-different-beast-21548) to be associated with using Facebook, but as [Recode recently noted](http://www.recode.net/2016/3/30/11587380/are-young-people-leaving-facebook-not-even-close-chart), “Millennials who claim they don't use Facebook are probably lying.”
 
-{% include _image.html src="/images/posts/facebook-teen-exodus/remember.png" %}
+{% include _image.html src="/uploads/posts/facebook-teen-exodus/remember.png" %}
 
 The latest industry data backs up Recode’s theory. [Andrew Lipsman, VP of Marketing and Insights at comScore notes](http://www.nytimes.com/2016/05/06/business/facebook-bends-the-rules-of-audience-engagement-to-its-advantage.html): “You hear the narrative that young people are fleeing Facebook. The data show that’s just not true. Younger users have a wider appetite for social media, and they spend a lot of time on multiple networks. But they spend more time on Facebook by a wide margin.” While comScore’s analysis focuses on older teens and millennials, the [Pew Research Center found that Facebook is the most popular and frequently used platform for teens ages 13-17](http://www.pewinternet.org/2015/04/09/teens-social-media-technology-2015/) by a significant margin.
 

@@ -3,70 +3,77 @@ title: Naytev Blog
 timezone: America/Los_Angeles
 collections:
   ebooks:
-		title: Ebooks
-		output: true
-	guides:
-		title: Guides
-		output: true
-	posts:
-		title: Posts
-		output: true
-	uploads:
-		title: Uploads
-		output: true
-	webinars:
-		title: Webinars
-		output: true
+    title: Ebooks
+    output: true
+  dark_testing:
+    title: Dark Testing
+    output: true
+  guides:
+    title: Guides
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  webinars:
+    title: Webinars
+    output: true
 defaults:
 - scope:
-		path: ''
-		type: guides
-	values:
-		layout: guide
-		body_class: guide
-		type: guide
-		action: Read
-		masonry: true
+    path: ''
+    type: guides
+  values:
+    layout: guide
+    body_class: guide
+    type: guide
+    action: Read
 - scope:
-		path: ''
-		type: ebooks
-	values:
-		layout: ebook
-		body_class: ebook
-		type: ebook
-		action: Read
+    path: ''
+    type: ebooks
+  values:
+    layout: ebook
+    body_class: ebook
+    type: ebook
+    action: Read
 - scope:
-		path: ''
-		type: webinars
-	values:
-		layout: webinar
-		body_class: webinar
-		type: webinar
-		action: Watch
+    path: ''
+    type: webinars
+  values:
+    layout: webinar
+    body_class: webinar
+    type: webinar
+    action: Watch
+- scope:
+    path: ''
+    type: dark_testing
+  values:
+    layout: post
 inc:
-	title: Naytev Insights
-	subtitle: Adventures in optimizing content
-	cover_image: blog-cover.jpg
-	logo: blog-logo.png
-	company: Naytev
-	url: http://www.naytev.com/
-	facebook: naytev
-	twitter: gonaytev
-	gplus:
-	about_link:
-	product_link: https://spark.naytev.com/
-	tagline: Optimize your content for revenue.
-	disqus:
-		shortname: naytev
-	sharing:
-		twitter: false
-		facebook: false
-		gplus: false
-		hn: false
-	analytics:
-		google: true
-	naytev: true
-	google_font: Open+Sans:400,700
+  title: Naytev Insights
+  subtitle: Adventures in optimizing content
+  cover_image: blog-cover.jpg
+  logo: blog-logo.png
+  company: Naytev
+  url: http://www.naytev.com/
+  facebook: naytev
+  twitter: gonaytev
+  gplus:
+  about_link:
+  product_link: https://spark.naytev.com/
+  tagline: Optimize your content for revenue.
+  disqus:
+    shortname: naytev
+  sharing:
+    twitter: false
+    facebook: false
+    gplus: false
+    hn: false
+  analytics:
+    google: true
+  naytev: true
+  google_font: Open+Sans:400,700
 url: http://localhost:4000
 optimized_url: http://blog.naytev.com
 source: "."
@@ -93,28 +100,27 @@ port: 4000
 baseurl:
 lsi: false
 rdiscount:
-	extensions: []
+  extensions: []
 redcarpet:
-	extensions: []
+  extensions: []
 kramdown:
-	auto_ids: true
-	footnote_nr: 1
-	entity_output: as_char
-	toc_levels: 1..6
-	smart_quotes: lsquo,rsquo,ldquo,rdquo
-	enable_coderay: false
-	coderay:
-		coderay_wrap: div
-		coderay_line_numbers: inline
-		coderay_line_numbers_start: 1
-		coderay_tab_width: 4
-		coderay_bold_every: 10
-		coderay_css: style
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  coderay:
+    coderay_wrap: div
+    coderay_line_numbers: inline
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: style
 redcloth:
-	hard_breaks: true
+  hard_breaks: true
 sass:
-	sass_dir: _sass
-plugins:
-	- jekyll-paginate
-	- jekyll-assets
-
+  sass_dir: _assets/css
+gems:
+  - jekyll-paginate
+  - jekyll-assets

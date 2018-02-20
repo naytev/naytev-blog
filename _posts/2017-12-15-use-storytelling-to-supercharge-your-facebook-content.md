@@ -3,7 +3,7 @@ title: Use Storytelling to Supercharge Your Facebook Content
 date: 2017-12-15 00:00:00 -08:00
 layout: post
 subtitle: Want to stand out in the Facebook feed? Here's your secret weapon.
-cover_image: posts/brighttalk/header.jpg
+cover_image: uploads/posts/brighttalk/header.jpg
 excerpt: ''
 author: justine_chong
 ---
@@ -23,17 +23,17 @@ Oh, you have a little more time that that? We got you. Here are the talk's high 
 ## Data Driven Storytelling for Winning Facebook Converstion
 
 - Facebook is still the "queen mother" over all other social networks. Why?
-{% include _image.html src="/images/posts/brighttalk/facebookhas300.jpg"%}
-{% include _image.html src="/images/posts/brighttalk/oneoutofevery5.jpg"%}
+{% include _image.html src="/uploads/posts/brighttalk/facebookhas300.jpg"%}
+{% include _image.html src="/uploads/posts/brighttalk/oneoutofevery5.jpg"%}
 
 
 ## How can you remain dominant on your fan's Facebook Feed?
-{% include _image.html src="/images/posts/brighttalk/facebookisalwayschanging.jpg"%}
-{% include _image.html src="/images/posts/brighttalk/achieve-with-testing.jpg"%}
+{% include _image.html src="/uploads/posts/brighttalk/facebookisalwayschanging.jpg"%}
+{% include _image.html src="/uploads/posts/brighttalk/achieve-with-testing.jpg"%}
 - A Facebook A/B Test is defined as taking a singular piece of content and uploading different variations of copy, thumbnail, and headline to test against a singular audience.
     - Naytev's Testing methodology combines the traditional buckets of *Paid Engagement* and *Organic Engagement* to help achieve your social media goals.
 - Naytev streamlines the testing process and cuts down test prep time, but you can also manually create A/B Tests Directly in the Facebook Ads Manager by following these steps.
-{% include _image.html src="/images/posts/brighttalk/howtorunanabtestoutofyourfacebookadsmanager.jpg"%}
+{% include _image.html src="/uploads/posts/brighttalk/howtorunanabtestoutofyourfacebookadsmanager.jpg"%}
 
 
    1. Budget **60-90 Minutes** to create your Test
@@ -47,11 +47,11 @@ Oh, you have a little more time that that? We got you. Here are the talk's high 
    9. Share the Best Post with your Page Fans
 
 ## Use Facebook Audiences to Your Benefit
-{% include _image.html src="/images/posts/brighttalk/facebookaudience.jpg"%}
+{% include _image.html src="/uploads/posts/brighttalk/facebookaudience.jpg"%}
 
 - Out of the 3 Types of Audiences that Facebook has, Lookalike Audiences are the best audience to test your content against.
     - Your Lookalike Audience automatically excludes your Facebook fans and creates a segement of users predispositioned to engage and like your content.
-{% include _image.html src="/images/posts/brighttalk/howtocreatealookalikeaudience.jpg"%}
+{% include _image.html src="/uploads/posts/brighttalk/howtocreatealookalikeaudience.jpg"%}
   1. Budget **5-10 Minutes** to create your Lookalike Audience
   2. Go to Your Power Editor
   3. Select Audiences
@@ -65,14 +65,14 @@ Oh, you have a little more time that that? We got you. Here are the talk's high 
 - Testing against a large audience will make your test faster, but your sample size may be too generic to give you conclusive results on which of your messages performed best.
 
 ## Test Best Practices & Things to Keep in Mind
-{% include _image.html src="/images/posts/brighttalk/packaging.jpg"%}
+{% include _image.html src="/uploads/posts/brighttalk/packaging.jpg"%}
 - Take a multivariate approach to storytelling.
-{% include _image.html src="/images/posts/brighttalk/wholepackage.jpg"%}
+{% include _image.html src="/uploads/posts/brighttalk/wholepackage.jpg"%}
 - It's not a single variable that makes someone click on your content, it's how it comes together as a package.
 - Make sure your message variants are truly different from each other. What makes a meaningful difference? Check out our past blogpost on Best Practices here.
 - Stick to creating 6-9 Message Variations
 - Let your Ad Set run to completion to capitalize on the organic "social echo" that Paid Spend gives you.
-{% include _image.html src="/images/posts/brighttalk/maketime.jpg"%}
+{% include _image.html src="/uploads/posts/brighttalk/maketime.jpg"%}
 - Testing is so instrumental, many publishing teams plan to include testing within their editorial schedule.
 
 ## Analyze Your Test Results
@@ -87,7 +87,7 @@ Oh, you have a little more time that that? We got you. Here are the talk's high 
 - If you're going to use a single metric to judge your content make sure it's a "rate"
 
 ## Use Your Results to Take Action
-{% include _image.html src="/images/posts/brighttalk/actonyourresults.jpg"%}
+{% include _image.html src="/uploads/posts/brighttalk/actonyourresults.jpg"%}
 - Expand Your Top of Funnel
     - Get more out of your test by putting more money behind your best messages - targetting users that are highly likely to engage with your content and, at the same time, getting brand exposure to audiences that haven't liked your page before.
 - Take Your Learnings Across Networks

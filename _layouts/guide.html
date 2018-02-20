@@ -9,31 +9,31 @@ layout: base
         {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
     </header>
 
-        {{ content }}
+    {{ content }}
 
     <div class='stubs clearfix'>
-        {% for post in site.categories[page.category]  %}
-            {% unless post.draft %}
-            {% assign author = site.data.authors[post.author] %}
-            <div class='content-stub'>
-              <a href="{{ post.url }}" class='content-stub-link'> 
-                {% if post.cover_image %}
-                  <div class='content-stub-img-wrapper'>
-                    <img src="{{site.url}}/images/{{ post.cover_image }}" class="image">
-                  </div>  
-                {% endif %}
-                  <div>
-                  <h2 class="title">{{ post.title }}</h2>
-                  <p>{{ post.excerpt }}</p>
-                  <div class="meta">
-                      By <address>{{ author.name }}</address> <br/>
-                      {{ post.content | reading_time }} read
-                  </div>
-                  </div>
-              </a>
-            </div>
-          {% endunless %}
-        {% endfor %}
+      {% for post in site.[page.category]  %}
+        {% unless post.draft %}
+        {% assign author = site.data.authors[post.author] %}
+        <div class='content-stub'>
+          <a href="{{ post.url }}" class='content-stub-link'>
+            {% if post.cover_image %}
+              <div class='content-stub-img-wrapper'>
+                <img src="{{site.url}}/uploads/{{ post.cover_image }}" class="image">
+              </div>
+            {% endif %}
+              <div>
+              <h2 class="title">{{ post.title }}</h2>
+              <p>{{ post.excerpt }}</p>
+              <div class="meta">
+                  By <address>{{ author.name }}</address> <br/>
+                  {{ post.content | reading_time }} read
+              </div>
+              </div>
+          </a>
+        </div>
+        {% endunless %}
+      {% endfor %}
       </div>
 
         {% include _social.html %}

@@ -3,7 +3,7 @@ title: The Intriguing Case of Instagress
 date: 2017-08-10 00:00:00 -07:00
 layout: post
 subtitle: How You Can Boost Organic Engagement with Your Content
-cover_image: posts/instagress/genuinefake.jpg
+cover_image: uploads/posts/instagress/genuinefake.jpg
 excerpt: The rise and fall of artificial engagement in the social media world.
 author: justine_chong
 ---
@@ -17,7 +17,7 @@ In the past couple of months Instagram and its parent company, Facebook, have be
 
 In non-tech terms, “instagram-related botting” refers to the automation of likes, comments, and follows. Instagress was one of the most prominent companies offering automated engagement services for Instagram Accounts, where a user could set certain rules and the service would automatically engage with relevant accounts. 
 
-{% include _image.html src="/images/posts/instagress/botting.gif" %}
+{% include _image.html src="/uploads/posts/instagress/botting.gif" %}
 
 Followers, likes, comments and views have traditionally been content creators’ strongest metric for success. When companies were looking for relatable personalities, their first check was followers and levels of engagement. As a result, artificial engagement services like Instagress found a way to take advantage of the system and farm engagement. 
 
@@ -31,7 +31,7 @@ Aside from the [shuttering of Instagress](https://www.theverge.com/2017/4/20/153
 
 In evaluating the current changes, it’s important to examine the popularity of botting services rather than why they exist. Why are individuals so desperate to inflate their follower metrics? 
 
-{% include _image.html src="/images/posts/instagress/followunfollow.gif" %}
+{% include _image.html src="/uploads/posts/instagress/followunfollow.gif" %}
  
 Growth. Brand Recognition. Money. Traditionally likes and followers have been the gateway to success on these platforms, so users have pursued them through whatever means necessary. 
 
@@ -55,7 +55,7 @@ We want to take the intelligent route to moving the needle. Whether you’re a t
 
 With Naytev you can test 6-9 Packages of Content (different headers, post text, and thumbnails), whether they're links, photos, or videos, and instantly publish the content to your page with earned engagement.
 
-{% include _image.html src="/images/posts/instagress/thumbsup.gif" %}
+{% include _image.html src="/uploads/posts/instagress/thumbsup.gif" %}
 
 It’s that simple.
 

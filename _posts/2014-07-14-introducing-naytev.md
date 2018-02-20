@@ -3,7 +3,7 @@ title: Introducing Naytev
 date: 2014-07-14 00:00:00 -07:00
 layout: post
 subtitle: Naytev is your share button on steroids.
-cover_image: posts/intro/naytev.png
+cover_image: uploads/posts/intro/naytev.png
 excerpt: We built Naytev because we noticed social sharing was an afterthought for
   most brands. Their brand strategies prioritized top-down social media accounts,
   like “our brand’s Facebook and Twitter”, while ignoring user-generated sharing,

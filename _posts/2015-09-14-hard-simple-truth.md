@@ -7,7 +7,7 @@ categories:
 - insights
 layout: post
 subtitle: One Social Network Still Dominates Publisher Site Traffic
-cover_image: posts/hard-simple-truth/colors.jpg
+cover_image: uploads/posts/hard-simple-truth/colors.jpg
 excerpt: Social is scary for publishers. Platform popularity and  content reach can
   drop precipitously in the blink of an eye, taking a website’s traffic with it. Some
   shifts are real but greatly overstated, like the sensational reports about the imminent
@@ -43,7 +43,7 @@ Bear a few things in mind with our results. First, this isn’t a comprehensive 
 Additionally, significant pigeonholing is inevitable in any categorical dataset. Today’s publishers are many things. Our results aren’t meant to map directly onto a complete publication. Rather, they present options that could help you optimize your social focus based on your content category. It might be worth looking into some beautiful, Pin-worthy photography sets for your next fashion feature, for example.
 
 
-{% include _image.html src="/images/posts/hard-simple-truth/chalk.jpg" %}
+{% include _image.html src="/uploads/posts/hard-simple-truth/chalk.jpg" %}
 
 ## Despite Diverse Sharing, One Network Rules Social Traffic
 
@@ -55,7 +55,7 @@ Social traffic is key for a modern publisher to thrive and stay relevant. The gl
 
 Twitter and Pinterest do outpace Facebook in shares for some publishers. When it comes to traffic, though, Facebook drives the overwhelming majority of social referrals for most publishers. As shown in the graph below, this trend holds true even for even for lifestyle publications; Pinterest may drive their shares, but not their traffic.
 
-{% include _image.html src="/images/posts/hard-simple-truth/traffic.png" %}
+{% include _image.html src="/uploads/posts/hard-simple-truth/traffic.png" %}
 
 This traffic breakdown above is from a typical top lifestyle publisher. This lopsided social referral traffic phenomenon holds true for technology publications too. Together, Twitter and Linkedin represent more shares for technology sites, but Facebook drives the clear majority of social traffic.
 

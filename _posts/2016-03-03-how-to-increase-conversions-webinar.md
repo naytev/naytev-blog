@@ -3,7 +3,7 @@ title: How to Increase Conversions with A/B Testing
 date: 2016-03-03 00:00:00 -08:00
 layout: post
 subtitle: RSVP for our upcoming webinar, co-hosted with Bounce Exchange
-cover_image: posts/webinar-increase-conversions/herohorses.jpg
+cover_image: uploads/posts/webinar-increase-conversions/herohorses.jpg
 excerpt: It's not enough to make your articles and landing pages high-converting powerhouses.
 author: patrick_costello
 ---
@@ -15,7 +15,7 @@ author: patrick_costello
 * **Co-hosted with Bounce Exchange**  
 * [**RSVP**](http://www.bounceexchange.com/webinars/increase-conversions-across-every-step-in-the-reader-journey.html) it's going to be great!
 
-{% include _image.html src="/images/posts/webinar-increase-conversions/promocropped.jpg" %}
+{% include _image.html src="/uploads/posts/webinar-increase-conversions/promocropped.jpg" %}
 
 Hi, everyone! 
 
@@ -23,7 +23,7 @@ We'd like to invite you to join a webinar Naytev is co-hosting with Bounce Excha
 
 A learning opportunity for beginners and seasoned testers alike!
 
-{% include _image.html src="/images/posts/webinar-increase-conversions/promo.png" %}
+{% include _image.html src="/uploads/posts/webinar-increase-conversions/promo.png" %}
 
 **Background:** It's not enough to make your articles and landing pages high-converting powerhouses. You've got to focus on the top of the funnel as well. 
 

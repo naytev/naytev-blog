@@ -3,7 +3,7 @@ title: Optimizing "Yo" Messages for Engagement
 date: 2014-07-16 00:00:00 -07:00
 layout: post
 subtitle: Yo Optimization, it's that simple.
-cover_image: posts/yo/yo.png
+cover_image: uploads/posts/yo/yo.png
 excerpt: 'We started with a simple premise: there are fundamental rules to eliciting
   the highest possible engagement.'
 author: naytev

@@ -6,7 +6,7 @@ categories:
 - social sharing
 layout: post
 subtitle: 3 Reasons Infographics Will Improve Your Content
-cover_image: posts/why-infographics/top-colors.png
+cover_image: uploads/posts/why-infographics/top-colors.png
 excerpt: Before you hire a designer (or even create your own), here are 3 ways  an
   infographic can  make your content more engaging for your audience.
 author: aubrie_johnson
@@ -16,19 +16,19 @@ Infographics are shareable, informative graphics that can be a valuable asset to
 
 * **1. A beautiful way to showcase your brand’s expertise**
 	
-{% include _image.html src="/images/posts/why-infographics/top-colors.png" %}
+{% include _image.html src="/uploads/posts/why-infographics/top-colors.png" %}
 	
 90% of information transmitted to the brain is visual. Data-rich infographics inform your readers and entice them to share widely, and high shareability boosts <a href='http://masterinbound.com/item/what-is-a-brand-advocate.html' target='_blank'>brand advocacy</a>. In addition, <a href='http://unbounce.com/content-marketing/why-do-infographics-make-great-marketing-tools/' target='_blank'>Unbounce</a> found that businesses using infographics enjoy 12% more traffic growth than those who don’t. Most social media users trust content shared by their network, so it pays to push high-quality infographics in your content marketing strategy.
 
 * **2. Make a complicated topic more accessible**
 
-{% include _image.html src="/images/posts/why-infographics/love-digital-age.png" %}
+{% include _image.html src="/uploads/posts/why-infographics/love-digital-age.png" %}
 
 Exploring your company’s unique data may pique readers’ interests, if presented in an accessible, graphical way. Infographics allows readers to process loads of complicated information using visual cues instead of arduous spreadsheets and pie charts.
 
 * **3. Add some pizzazz to a relatively dry topic**
 
-{% include _image.html src="/images/posts/why-infographics/build-app.jpg" %}
+{% include _image.html src="/uploads/posts/why-infographics/build-app.jpg" %}
 
 A great infographic finds creative ways to make a drab, dull topic more colorful and interesting. Unique comparisons simplify the concept for readers in a relatable way, while also injecting some personality and style to your content marketing efforts.
 

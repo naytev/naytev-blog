@@ -3,7 +3,7 @@ title: How To Win The 2016 Elections&#58; 6 Cutting-Edge Digital Tactics
 date: 2015-01-09 00:00:00 -08:00
 layout: post
 subtitle: Guest post by Steve Johnston
-cover_image: posts/elections/politics.jpg
+cover_image: uploads/posts/elections/politics.jpg
 excerpt: The 2016 elections will be won or lost on the digital battlefield, so it
   is more important than ever that political campaigns, party committees, and outside
   advocacy groups make use of the most cutting-edge strategies.
@@ -24,19 +24,19 @@ Having run digital for a winning campaign in one of the closest U.S. Senate elec
 
 Focus on what matters most: acquiring enough voters to win. Acquiring more voters will hinge in part on acquiring more volunteers to identify voters and turn them out to the polls. Both voter and volunteer acquisition are enabled by acquiring more donors who will provide larger amounts of capital. Fundamentally, acquisition marketing is what campaigns are all about. Message matters, too, but only insofar as it furthers these three acquisition goals. 
 
-{% include _image.html src="/images/posts/elections/pyramid.png" %}
+{% include _image.html src="/uploads/posts/elections/pyramid.png" %}
 
 * **2. Approach Acquisition With An Emphasis On Customer Lifetime Value (CLV):**
 
 While not everything that matters can be measured, not everything that can be measured matters. Focus on measuring metrics in a meaningful way. Measure which type of donor provides the greatest CLV: those acquired through online search, email campaigns, or social media. Is a Facebook supporter more valuable than a Twitter follower? Measure and find out using a URL builder tool that tracks the origin of a donor, then monitor how much that donor gives over time. Remember that CLV can also be measured through volunteer activity metrics like door knocks or phone calls, too. 
 
-{% include _image.html src="/images/posts/elections/wordofmouth.png" %}
+{% include _image.html src="/uploads/posts/elections/wordofmouth.png" %}
 
 * **3. Use Social Media With A Greater Emphasis On Influencer Marketing:**
 
 The key to success on social is robust engagement, but political organizations have varying levels of resources, whether money or manpower. Become smarter about engagement by identifying and prioritizing those social media supporters (or potential supporters) with a larger online audience and, more importantly, greater influence. Is a supporter’s social action more likely to be shared?  Working with a strong base of influencers, who might share the persona of Amy Awesome below, will provide great customer referral value (CRV) and boost your online influence. 
 
-{% include _image.html src="/images/posts/elections/amyawesome.png" %}
+{% include _image.html src="/uploads/posts/elections/amyawesome.png" %}
 
 * **4. Make A-B Testing An Essential Component Of All Digital Marketing Efforts:**
 

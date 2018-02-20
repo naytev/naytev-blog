@@ -3,14 +3,14 @@ title: 3 Steps to Jump-Start Your Share Message Conversion
 date: 2014-07-20 00:00:00 -07:00
 layout: post
 subtitle: This often-overlooked metric matters more than you think
-cover_image: posts/jump-start/jumper.jpeg
+cover_image: uploads/posts/jump-start/jumper.jpeg
 excerpt: There is an important social engagement metric that is often overlooked –
   how many people who start to share your content actually follow through with the
   share.
 author: mike_seid
 ---
 
-{% include _image.html src="/images/posts/jump-start/funnel.png" %}
+{% include _image.html src="/uploads/posts/jump-start/funnel.png" %}
 
 There is an important social engagement metric that is often overlooked – how many people who start to share your content actually follow through with the share.
 
@@ -32,7 +32,7 @@ We have a few tips for boosting your share message follow through:
 
 Knowing your current follow through rate and testing different messages is hard, but we’ve made both easy with Naytev. We show you exactly how many times your given piece of content doesn’t get posted. We call failed share conversions, “Bails”.
 
-{% include _image.html src="/images/posts/jump-start/data.png" %}
+{% include _image.html src="/uploads/posts/jump-start/data.png" %}
 
 As you can see in the example above, the first post was much more successful in terms of share follow through. The first post had a follow through of around 81% while the  second post only has a follow through rating of 47%. This metric can be an early indicator in how a social message will perform over time.
 

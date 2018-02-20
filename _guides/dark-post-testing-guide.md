@@ -1,7 +1,6 @@
 ---
 title: Facebook Dark Post Testing
-categories:
-- dark-testing
+category: dark_testing
 subtitle: The Definitive Guide
 cover_image: guides/dark/swingline.jpg
 ---

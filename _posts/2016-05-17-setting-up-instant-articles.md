@@ -3,7 +3,7 @@ title: What We Learned Setting Up Facebook Instant Articles
 date: 2016-05-17 00:00:00 -07:00
 layout: post
 subtitle: Enabling Instant Articles for your blog? Read this first.
-cover_image: posts/instant-articles-2/cover.jpg
+cover_image: uploads/posts/instant-articles-2/cover.jpg
 excerpt: Now that Facebook Instant Articles are available for all publishers, it’s
   clear the new format is going to be a major part of most publications and brands’
   content distribution strategy. Luckily, the setup is fairly straightforward.
@@ -22,7 +22,7 @@ However, there are some major headaches with Facebook’s formatting, as their H
 
 For example, Facebook requires Ordered Lists to only include a single text element, while W3 only requires [Flow Content](https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#flow-content-0) which permits multiple items. With Instant Articles, this results in an error which prevents the article from being published automatically:
 
-{% include _image.html src="/images/posts/instant-articles-2/list-error.png" %}
+{% include _image.html src="/uploads/posts/instant-articles-2/list-error.png" %}
 
 This can be frustrating, as it requires restructuring your content to fit Facebook’s proprietary requirements rather than the HTML5 standard their instructions suggest.
 
@@ -32,7 +32,7 @@ Since our blog is a static site hosted on S3, we chose to implement Instant Arti
 
 For static sites, the workflow is basically to create a page with an XML document detailing all of your articles. Here’s a link to the [Naytev Blog XML feed](http://blog.naytev.com/instant-feed.xml) as Facebook’s scraper sees it. It looks like this:
 
-{% include _image.html src="/images/posts/instant-articles-2/feed.png" %}
+{% include _image.html src="/uploads/posts/instant-articles-2/feed.png" %}
 
 ## The Instant Articles System is Fast and Rapidly Improving
 
@@ -42,7 +42,7 @@ Instant Articles update very quickly when you publish a change to an existing ar
 
 Publishers can choose to Auto-Publish Instant Articles as they appear in Facebook’s feed or manually approve each one. If there formatting are errors in an article, it will remain in an Unpublished draft state until the errors have been corrected.
 
-{% include _image.html src="/images/posts/instant-articles-2/animated.gif" %}
+{% include _image.html src="/uploads/posts/instant-articles-2/animated.gif" %}
 
 ## Instant Articles Are Surprisingly Easy to Monetize
 

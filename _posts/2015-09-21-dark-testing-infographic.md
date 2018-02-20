@@ -13,4 +13,4 @@ guide: true
 
 Excited to start Dark Testing, but need a primer on all the moving pieces? This infographic provides an overview of the essential terminology and general workflow for running a Dark Test on Facebook.
 
-{% include _image.html src="/images/guides/dark/dark-testing-infographic.png" %}
+{% include _image.html src="/uploads/guides/dark/dark-testing-infographic.png" %}

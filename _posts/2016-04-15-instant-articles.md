@@ -5,7 +5,7 @@ categories:
 - distributed-media
 layout: post
 subtitle: The floodgates are open for Instant Articles
-cover_image: posts/instant-articles/zuck.jpg
+cover_image: uploads/posts/instant-articles/zuck.jpg
 excerpt: AI, Drones, and Bots, may have gotten all the buzz, but another announcement
   is already impacting your day to day life.
 author: zack_liscio
@@ -15,7 +15,7 @@ At F8 this week, Facebook announced that [Instant Articles are now available for
 
 Until now, Instant Articles have been restricted to a few dozen top publishers. In case you're not familiar, these are articles published directly to Facebook which users can read without leaving the native Facebook App. The benefit is a cleaner, faster, and more uniform experience that users love.
 
-{% include _image.html src="/images/posts/instant-articles/instantarticles.jpg" %}
+{% include _image.html src="/uploads/posts/instant-articles/instantarticles.jpg" %}
 
 As we wrote last week, [publishers must adapt]({% post_url 2016-04-08-publishers-must-adapt %}) to this new distribution paradigm or face declines in their readership and monetization. Many major publishers have already begun expeirmenting with Instant Articles, unable to ignore the opportunity because of how much of their traffic already comes from Facebook. As users spend more time within the walled gardens of social networks, competing for attention in the News Feed is increasingly complex and zero sum. Publishers who don't offer Instant Articles may see their content deprioritized relative to their competititors. 
 
@@ -29,6 +29,6 @@ It is now frictionless for even long tail websites to integrate with Instant Art
 
 Facebook has never directly indicated that Instant Articles will be prioritized over traditional links in the News Feed. That said, the platform rewards low abandonment, high user engagement, and happy users, all of which are clear benefits of the new format. Instant Articles will quickly reach critical mass, with publishers unable to compete if others in their categories are publishing directly to Facebook. No one who relies on Facebook for traffic (i.e. every publisher) will be able to resist once the format gains momentum.
 
-{% include _image.html src="/images/posts/instant-articles/logos.png" %}
+{% include _image.html src="/uploads/posts/instant-articles/logos.png" %}
 
 Facebook has ensured support from the largest CMS tools (WordPress and Drupal), the modern alternative to these options (Medium), and the top publications in the media landscape. Facebook is deepening their hold on media distribution and encountering little resistance in doing so. It'll likely be only a matter of months before the majority of mobile content you see on Facebook is presented without ever leaving the app.

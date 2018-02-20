@@ -3,7 +3,7 @@ title: Come Hang Out With Us at SXSW!
 date: 2016-03-11 00:00:00 -08:00
 layout: post
 subtitle: Naytev Is Co-Hosting the Awesomest Journalism Party. Ever. VI.
-cover_image: posts/sxsw-invite/HeroSXSW.png
+cover_image: uploads/posts/sxsw-invite/HeroSXSW.png
 excerpt: It's one of the best media parties in town. Plus, you'll get a sneak peek
   of our awesome new feature!
 author: zack_liscio
@@ -20,7 +20,7 @@ author: zack_liscio
 
 Will you be in Austin for SXSW Interactive next week? If so, I hope you’ll join Patrick and the Naytev team on Sunday afternoon, March 13, 2016 for one of the best media parties in town.
 
-{% include _image.html src="/images/posts/sxsw-invite/fullinvite.jpg" %}
+{% include _image.html src="/uploads/posts/sxsw-invite/fullinvite.jpg" %}
 
 
 We’re excited to announce that Naytev will be co-sponsoring the annual Awesomest Journalist Party Ever, along with the Knight Foundation, Fusion, and WordPress.

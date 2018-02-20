@@ -24,7 +24,7 @@ Testing messaging for social media  remains frustratingly elusive, even for expe
 Fortunately, there’s an easy way to test your messages like a rockstar: run dark or “Unpublished” posts on Facebook. 
 
 **Great Advice Rarely Followed: “Always Be Testing”**
-{% include _image.html src="/images/guides/dark/always-be-testing.jpg" %}
+{% include _image.html src="/uploads/guides/dark/always-be-testing.jpg" %}
 _Sneak Preview from Glengarry Glen Ross 2_
 
 **Dark posts are specialized News Feed ads that don’t show up on your Facebook Page. They target an audience you define (such as a <a href="https://www.facebook.com/business/help/164749007013531" target="_blank">Lookalike Audience</a> based off your Page fans).** When you run a dark post with multiple messages, you’re dark testing. You can test two or more versions of your messaging as a means to drive more post engagement, Page growth, product and event sales, and more.
@@ -54,7 +54,7 @@ I’ve spoken with many teams about their experience running dark tests manually
 
 **Common Emotions Associated With Manual Dark Testing**
 
-{% include _image.html src="/images/guides/dark/emotions.png" %}
+{% include _image.html src="/uploads/guides/dark/emotions.png" %}
 
 The problem is that Facebook makes you manually define settings for every new test you run, and every message variation you want to include. If you’d like to remain in a more Zen-like state but still run dark tests, I suggest doing so programmatically.
 
@@ -78,13 +78,13 @@ Naytev has best practices baked into it, eliminating the learning curve for dark
 
 **How You’ll Feel When You Create a Dark Test 12x Faster Than Everyone Else**
 
-{% include _image.html src="/images/guides/dark/boxing.jpg" %}
+{% include _image.html src="/uploads/guides/dark/boxing.jpg" %}
 
 You can use the coupon code “DOUBLE_RAINBOW” at checkout to get 30% off any plan for the first month.
 
 Even if you aren’t ready to start using Naytev, I hope this article helps dispel the mystery surrounding dark testing. It’s a powerful tool that can benefit teams of any size. 
 
 **Have a Fantastic, Double Rainbow Kind of Day**
-{% include _image.html src="/images/guides/dark/double-rainbow.jpg" %}
+{% include _image.html src="/uploads/guides/dark/double-rainbow.jpg" %}
 
 P.S. Like the images in this article? Most are from resources we recommend using for great Facebook share messages in our blog post: <a href="http://bit.ly/1QRMpUz" target="_blank">The Formula for a Perfect Social Share Message</a>.

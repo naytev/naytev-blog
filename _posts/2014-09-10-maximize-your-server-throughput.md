@@ -3,7 +3,7 @@ title: Maximize Your Server Throughput with Scala
 date: 2014-09-10 00:00:00 -07:00
 layout: post
 subtitle: Tech Insights, API, futures, programming, REST, scala, servers, throughput
-cover_image: posts/server-throughput/scala.png
+cover_image: uploads/posts/server-throughput/scala.png
 excerpt: As part of the Naytev engineering team, I’m frequently asked about why we
   chose to use Scala as our primary development language.
 author: mark_pierotti

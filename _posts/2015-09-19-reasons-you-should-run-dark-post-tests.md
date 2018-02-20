@@ -18,7 +18,7 @@ Perfect if you’re a brand or publisher and want to grow your Facebook presence
 
 Yes, <a href="http://www.forbes.com/sites/jaysondemers/2015/05/13/why-your-organic-facebook-reach-is-still-falling-and-what-to-do-about-it/" target="_blank">Page reach is still declining for many</a>, and Facebook suggests <a href="https://www.facebook.com/business/news/Organic-Reach-on-Facebook" target="_blank">this trend will continue indefinitely</a>. That means you need to protect your investment, and this is how to do it.
 
-{% include _image.html src="/images/guides/dark/megaphone.png" %} 
+{% include _image.html src="/uploads/guides/dark/megaphone.png" %} 
 
 ## 2. Drive More Readers for Your Website 
 
@@ -26,7 +26,7 @@ Getting great post engagement on Facebook is valuable, but if you’re a publish
 
 You’d be surprised how many people like and share Facebook posts without actually reading the article. If you’re a publisher, website clicks should be one of your go-to dark testing goals.
 
-{% include _image.html src="/images/guides/dark/crowd.jpg" %} 
+{% include _image.html src="/uploads/guides/dark/crowd.jpg" %} 
 
 ## 3. Drive Product and Event Sales
 
@@ -34,7 +34,7 @@ Who doesn’t want more revenue? Using dark tests to refine what message and her
 
 It works, and the ROI is clear. Facebook’s own signature success story highlights how one team achieved a 30x return on ad spend with unpublished posts for music festival ticket sales.
 
-{% include _image.html src="/images/guides/dark/facebook-story.png" %} 
+{% include _image.html src="/uploads/guides/dark/facebook-story.png" %} 
 
 ## 4. Keep Sharing Your Favorite Post Without Fatiguing Your Fans 
 
@@ -45,7 +45,7 @@ If you’re a publisher, maybe you have an evergreen article that performs spect
 Dark testing lets you continually post and automatically refine your messaging without bothering fans.
 
 **Don’t Burn Out Fans With the Same Post Topic**
-{% include _image.html src="/images/guides/dark/magnify.jpg" %} 
+{% include _image.html src="/uploads/guides/dark/magnify.jpg" %} 
 
 If you’d like to learn how to run a Dark Test, we cover it in detail here <!-- add permalink to How to A/B Test on Facebook With Dark Posting]-->. It normally takes up to 90 minutes to run a test manually, but you can run tests in under 5 minutes using Naytev.
 
