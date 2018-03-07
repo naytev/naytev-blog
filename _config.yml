@@ -53,6 +53,15 @@ defaults:
     type: dark_testing
   values:
     layout: post
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    subtitle: Fill this in
+    cover_image: uploads/posts/intro/naytev.png
+    excerpt: Fill This in
+    author: naytev
 inc:
   title: Naytev Insights
   subtitle: Adventures in optimizing content
