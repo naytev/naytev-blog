@@ -1,8 +1,6 @@
 ---
 title: 4 Reasons You Should A/B Test With Dark Posts
 date: 2015-09-19 00:00:00 -07:00
-categories:
-- dark-testing
 layout: post
 subtitle: Why dark posting should be part of your strategy
 cover_image: guides/dark/consultants.png
@@ -14,38 +12,38 @@ guide: true
 
 ## 1. Grow Your Facebook Post Engagement and Fan Base
 
-Perfect if you’re a brand or publisher and want to grow your Facebook presence. You may also want to use dark testing to mitigate declining organic reach. 
+Perfect if you’re a brand or publisher and want to grow your Facebook presence. You may also want to use dark testing to mitigate declining organic reach.
 
 Yes, <a href="http://www.forbes.com/sites/jaysondemers/2015/05/13/why-your-organic-facebook-reach-is-still-falling-and-what-to-do-about-it/" target="_blank">Page reach is still declining for many</a>, and Facebook suggests <a href="https://www.facebook.com/business/news/Organic-Reach-on-Facebook" target="_blank">this trend will continue indefinitely</a>. That means you need to protect your investment, and this is how to do it.
 
-{% include _image.html src="/uploads/guides/dark/megaphone.png" %} 
+{% include _image.html src="/uploads/guides/dark/megaphone.png" %}
 
-## 2. Drive More Readers for Your Website 
+## 2. Drive More Readers for Your Website
 
-Getting great post engagement on Facebook is valuable, but if you’re a publisher, you need people to visit your articles to build an excited, loyal reader base and generate ad revenue. 
+Getting great post engagement on Facebook is valuable, but if you’re a publisher, you need people to visit your articles to build an excited, loyal reader base and generate ad revenue.
 
 You’d be surprised how many people like and share Facebook posts without actually reading the article. If you’re a publisher, website clicks should be one of your go-to dark testing goals.
 
-{% include _image.html src="/uploads/guides/dark/crowd.jpg" %} 
+{% include _image.html src="/uploads/guides/dark/crowd.jpg" %}
 
 ## 3. Drive Product and Event Sales
 
-Who doesn’t want more revenue? Using dark tests to refine what message and hero image to use for your sales is a staple for marketers. 
+Who doesn’t want more revenue? Using dark tests to refine what message and hero image to use for your sales is a staple for marketers.
 
 It works, and the ROI is clear. Facebook’s own signature success story highlights how one team achieved a 30x return on ad spend with unpublished posts for music festival ticket sales.
 
-{% include _image.html src="/uploads/guides/dark/facebook-story.png" %} 
+{% include _image.html src="/uploads/guides/dark/facebook-story.png" %}
 
-## 4. Keep Sharing Your Favorite Post Without Fatiguing Your Fans 
+## 4. Keep Sharing Your Favorite Post Without Fatiguing Your Fans
 
-Whether you’re a brand or a publisher, you probably have a handful of posts you really want to run as much as possible. 
+Whether you’re a brand or a publisher, you probably have a handful of posts you really want to run as much as possible.
 
-If you’re a publisher, maybe you have an evergreen article that performs spectacularly well. If you’re a brand, maybe you have a new product or event that need more visibility for. In either case, there are only so many times you can repost the same thing on your Facebook page before your fans get annoyed. 
+If you’re a publisher, maybe you have an evergreen article that performs spectacularly well. If you’re a brand, maybe you have a new product or event that need more visibility for. In either case, there are only so many times you can repost the same thing on your Facebook page before your fans get annoyed.
 
 Dark testing lets you continually post and automatically refine your messaging without bothering fans.
 
 **Don’t Burn Out Fans With the Same Post Topic**
-{% include _image.html src="/uploads/guides/dark/magnify.jpg" %} 
+{% include _image.html src="/uploads/guides/dark/magnify.jpg" %}
 
 If you’d like to learn how to run a Dark Test, we cover it in detail here <!-- add permalink to How to A/B Test on Facebook With Dark Posting]-->. It normally takes up to 90 minutes to run a test manually, but you can run tests in under 5 minutes using Naytev.
 

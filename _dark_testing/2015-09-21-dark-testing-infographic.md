@@ -1,8 +1,6 @@
 ---
 title: 'Infographic: Dark Testing'
 date: 2015-09-21 00:00:00 -07:00
-categories:
-- dark-testing
 layout: post
 subtitle: A single page overview of dark testing
 excerpt: Learn how to run a Dark Test, and all the important concepts along the way.

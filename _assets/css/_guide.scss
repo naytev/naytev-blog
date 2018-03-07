@@ -21,8 +21,14 @@ body.guide {
 		}
 	}
 	.stubs {
+    display: flex;
+    flex-wrap: wrap;
+    &::after{
+      content: '';
+      flex-grow: 1000000;
+    }
 		> div {
-			float: left;
+			flex-grow: 1;
 		}
 	}
 }

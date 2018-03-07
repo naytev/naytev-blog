@@ -3,7 +3,7 @@ title: How to A/B Test on Facebook Using Dark Posts
 date: 2015-09-18 00:00:00 -07:00
 layout: post
 subtitle: Manual and programmatic workflows explained
-cover_image: images/guides/dark/lumbergh-2.png
+cover_image: guides/dark/lumbergh-2.png
 excerpt: 'There are two ways to run a dark test: manual and programmatic. This article
   is a breakdown of both approaches.'
 author: patrick_costello

@@ -1,17 +1,15 @@
 ---
 title: What is Buzzfeed, really?
 date: 2016-04-13 00:00:00 -07:00
-categories:
-- distributed-media
 layout: post
 subtitle: Defining a phenomenon that resists classification
-cover_image: uploads/posts/buzzfeed-networks/buzzfeed.png
+cover_image: posts/buzzfeed-networks/buzzfeed.png
 excerpt: Operating outside the traditional bounds of an owned and earned property,
   we might ask what is BuzzFeed? A network? A style? Something else entirely?
 author: zack_liscio
 ---
 
-It seems that critique deriding BuzzFeed as little more than cat pics and clickbait have given way to an acceptance of the company as a major force in media. However, Buzzfeed’s unique model of content creation and distribution makes it difficult to categorize. 
+It seems that critique deriding BuzzFeed as little more than cat pics and clickbait have given way to an acceptance of the company as a major force in media. However, Buzzfeed’s unique model of content creation and distribution makes it difficult to categorize.
 
 Operating outside the traditional bounds of an owned and earned property, we might ask: what is BuzzFeed? A network? A style? Something else entirely?
 
@@ -27,7 +25,7 @@ BuzzFeed’s solution to that problem is to forego the display advertising model
 
 ## Content
 
-While almost every major publication relies on social media to some extent for traffic, Buzzfeed is different in one significant way: while most traditional publications use these networks as a way to drive traffic back to their websites, BuzzFeed creates network-specific content to be consumed within the contexts of those platforms. 
+While almost every major publication relies on social media to some extent for traffic, Buzzfeed is different in one significant way: while most traditional publications use these networks as a way to drive traffic back to their websites, BuzzFeed creates network-specific content to be consumed within the contexts of those platforms.
 
 Buzzfeed describes itself as "a global, cross-platform, tech-driven network generating FIVE BILLION monthly content views from our site, multiple BuzzFeed apps, and over 30 other platforms."  Buzzfeed commits fully to meeting users where they are, and it produces content specifically for a media world that is [shifting away from websites](/publishers-must-adapt/).
 
@@ -37,15 +35,15 @@ BuzzFeed is more than just a website, but it also goes beyond a collection of so
 
 ## Audience
 
-Buzzfeed’s massive audience defines the company as much as its varied distribution channels do. That fact is not lost on investors. BuzzFeed has [raised hundreds of millions of dollars](https://www.crunchbase.com/organization/buzzfeed#/entity) because it gathers a large audience, then acts to  engage them in a coordinated way across so many channels. 
+Buzzfeed’s massive audience defines the company as much as its varied distribution channels do. That fact is not lost on investors. BuzzFeed has [raised hundreds of millions of dollars](https://www.crunchbase.com/organization/buzzfeed#/entity) because it gathers a large audience, then acts to  engage them in a coordinated way across so many channels.
 
 {% include _image.html src="/uploads/posts/buzzfeed-networks/frankcooper.jpeg" %}
 
-At SXSW 2016 in March, CMO Frank Cooper (pictured above) [announced Swarm](http://www.adweek.com/news/technology/buzzfeed-launches-new-ad-format-further-monetize-its-big-social-reach-170172), which "allows advertisers to run campaigns simultaneously across all of his company's Web and mobile properties and six of its social platforms: Snapchat Discover, Vine, YouTube, Facebook, Instagram and Tumblr." This new product demonstrates why BuzzFeed works outside of a traditional owned and earned property. It is able to parlay the value of a coordinated, cross-channel media push into enormous measurable value for their clients, without relying on plastering tired banner ads across the homepage. 
+At SXSW 2016 in March, CMO Frank Cooper (pictured above) [announced Swarm](http://www.adweek.com/news/technology/buzzfeed-launches-new-ad-format-further-monetize-its-big-social-reach-170172), which "allows advertisers to run campaigns simultaneously across all of his company's Web and mobile properties and six of its social platforms: Snapchat Discover, Vine, YouTube, Facebook, Instagram and Tumblr." This new product demonstrates why BuzzFeed works outside of a traditional owned and earned property. It is able to parlay the value of a coordinated, cross-channel media push into enormous measurable value for their clients, without relying on plastering tired banner ads across the homepage.
 
 ## Technology
 
-Tying all of these aspects together is the technology side of BuzzFeed. Measuring performance and reporting across 30+ disparate platforms is no small feat, and the “in” networks are constantly in flux. In any given year, new networks emerge while others fall out of favor, and within each one the current styles of popular content shift at a rapid pace. BuzzFeed has done a remarkable job of quickly adopting new platforms, gathering available data across all of these sources, and most importantly creating a feedback loop that informs the creation and distribution of future content. This nimble approach of nimbly using data and tech defines BuzzFeed as much as the content and distribution channels themselves. 
+Tying all of these aspects together is the technology side of BuzzFeed. Measuring performance and reporting across 30+ disparate platforms is no small feat, and the “in” networks are constantly in flux. In any given year, new networks emerge while others fall out of favor, and within each one the current styles of popular content shift at a rapid pace. BuzzFeed has done a remarkable job of quickly adopting new platforms, gathering available data across all of these sources, and most importantly creating a feedback loop that informs the creation and distribution of future content. This nimble approach of nimbly using data and tech defines BuzzFeed as much as the content and distribution channels themselves.
 
 ## Conclusion
 

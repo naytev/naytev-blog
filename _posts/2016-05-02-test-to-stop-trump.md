@@ -9,9 +9,9 @@ author: zack_liscio
 og_image: posts/stop-trump/trumpog.png
 ---
 
-With the seeming inevitability of Trump winning the Republican nomination, his campaign (and hopefully not the future of humanity) seems to hinge upon two states: Indiana and California. Writing in the New York Times, Nate Cohn says the two states are ["crucial prizes that would put Mr. Trump over the top"](http://www.nytimes.com/2016/04/27/upshot/why-donald-trump-is-probably-two-states-from-victory.html). We decided to try a small experiment to see how we could use Facebook's rich targeting data and powerful distribution to tip the scales in these races. To explore the concept, we tested different versions of Trump-related messaging to find the optimal way to capture attention among the voters he needs to win. 
+With the seeming inevitability of Trump winning the Republican nomination, his campaign (and hopefully not the future of humanity) seems to hinge upon two states: Indiana and California. Writing in the New York Times, Nate Cohn says the two states are ["crucial prizes that would put Mr. Trump over the top"](http://www.nytimes.com/2016/04/27/upshot/why-donald-trump-is-probably-two-states-from-victory.html). We decided to try a small experiment to see how we could use Facebook's rich targeting data and powerful distribution to tip the scales in these races. To explore the concept, we tested different versions of Trump-related messaging to find the optimal way to capture attention among the voters he needs to win.
 
-In order to theoretically stop Trump, we would need to convince those who would vote for him that he shouldn't be President. First, we need to figure out how to capture their attention. This post explores how to use A/B testing on Facebook to find the ideal messaging (positive vs. negative) to maximize engagement among the population likely to vote for Trump. 
+In order to theoretically stop Trump, we would need to convince those who would vote for him that he shouldn't be President. First, we need to figure out how to capture their attention. This post explores how to use A/B testing on Facebook to find the ideal messaging (positive vs. negative) to maximize engagement among the population likely to vote for Trump.
 
 We recognize that while this test is an interesting exploration of which messaging captures voter attention (acquisition), this test doesn't focus on which messaging could change voters' minds (conversion). That said, competing for visibility in the Facebook News Feed is an essential part of communications and reaching voters is a prerequisite for influencing their behavior.
 
@@ -20,7 +20,7 @@ It's worth mentioning that we're not a political advertising agency, strategy fi
 To get our test started, we set a few constraints for ourselves:
 
 * **Timeframe:** with only a few days before the Indiana Primary, we set the test messages to run over the course of 24 hours
-* **Budget:** we limited the test budget to $200, and allowed ourselves to use our own <a href='https://www.naytev.com' target="_blank">testing software</a> for free. It would also be possible to run this exact test directly through Facebook's Power Editor, but doing so would take hours longer. Each variation on the message is created as a Facebook Unpublished Page Post ([aka Dark Posts]({% post_url 2015-09-20-what-and-why-is-dark-post-testing %})) and compared in terms of post engagement.
+* **Budget:** we limited the test budget to $200, and allowed ourselves to use our own <a href='https://www.naytev.com' target="_blank">testing software</a> for free. It would also be possible to run this exact test directly through Facebook's Power Editor, but doing so would take hours longer. Each variation on the message is created as a Facebook Unpublished Page Post ([aka Dark Posts]({% link _dark_testing/2015-09-20-what-and-why-is-dark-post-testing.md %})) and compared in terms of post engagement.
 
 Here's how we did it:
 
@@ -39,7 +39,7 @@ Because the absence of a college degree was such a strong predictor of support f
 Our final audiences have 1.7 million people in Indiana and 12 million people in California.
 
 {% include _image.html src="/uploads/posts/stop-trump/audiences.png" %}
-*Facebook Audience of Adults Without College Degrees*  
+*Facebook Audience of Adults Without College Degrees*
 
 * **2. Design Test Messaging**
 
@@ -85,7 +85,7 @@ What did we learn? Here are our main takeaways:
 
 - There is no single "all-purpose best" messaging, and the optimal combination of messaging depends on your goal. For instance, the message combinations with the highest engagement (mostly comments and re-shares) was different in both states from the message with the highest clickthrough rate (CTR) and lowest cost per click (CPC).
 
-- The neutral headline phrased as a question drove the highest post engagement in both states. Asking whether voters should vote for Trump in their state incited an enormous volume of comments (over 200 on each of the top messages). This a great way to generate visibility through conversation, but ultimately much harder to control, as the conversations quickly degenerated into vile name calling. 
+- The neutral headline phrased as a question drove the highest post engagement in both states. Asking whether voters should vote for Trump in their state incited an enormous volume of comments (over 200 on each of the top messages). This a great way to generate visibility through conversation, but ultimately much harder to control, as the conversations quickly degenerated into vile name calling.
 
 {% include _image.html src="/uploads/posts/stop-trump/dissonance.png" %}
 
@@ -93,7 +93,7 @@ What did we learn? Here are our main takeaways:
 
 - **People are commenting without clicking through.** The top message in California had hundreds of comments but only 73 clicks. Additionally, the link would have directed them to a non-partisan site helping explore which candidates match the user's view, so no strong opinions there. The vast majority of people who engaged with our test were willing to add their opinion to the comment thread without feeling any obligation to read the link they were commenting on.
 
-{% include _image.html src="/uploads/posts/stop-trump/results.png" %} 
+{% include _image.html src="/uploads/posts/stop-trump/results.png" %}
 
 So, how does this help us stop Trump? Anyone using Facebook in the past year (all 1.6bn of us) has noticed that the upcoming election is a hot topic. For better or worse, our reality is that the News Feed is increasingly the place where ideas are discovered, consumed, and debated. Those able to harness the power of digital [will win elections]({% post_url 2015-01-09-how-to-win-2016-elections-6-cutting-edge-digital-tactics %}), and testing helps us do that effectively and refine our tactics as we learn. If we hope to change minds, the first step is understanding how to reach voters on their terms and in ways that engage them. Only then do we have a chance of preventing [the Donald Drumpf](https://www.youtube.com/watch?v=DnpO_RTSNmQ).
 

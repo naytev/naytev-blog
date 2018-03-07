@@ -8,6 +8,9 @@ collections:
   dark_testing:
     title: Dark Testing
     output: true
+  distributed_media:
+    title: Distributed Media
+    output: true
   guides:
     title: Guides
     output: true

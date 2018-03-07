@@ -18,7 +18,7 @@ Here’s what we learned setting up [Facebook Instant Articles](https://instanta
 
 As detailed in their [Format Reference](https://developers.facebook.com/docs/instant-articles/reference), Facebook has chosen HTML5 as the format for Instant Articles. This makes it very easy to get up and running with Instant Articles without a huge technology investment.
 
-However, there are some major headaches with Facebook’s formatting, as their HTML5 requirements don’t fully align with W3 HTML5 specs. 
+However, there are some major headaches with Facebook’s formatting, as their HTML5 requirements don’t fully align with W3 HTML5 specs.
 
 For example, Facebook requires Ordered Lists to only include a single text element, while W3 only requires [Flow Content](https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html#flow-content-0) which permits multiple items. With Instant Articles, this results in an error which prevents the article from being published automatically:
 
@@ -28,7 +28,7 @@ This can be frustrating, as it requires restructuring your content to fit Facebo
 
 ## You can publish content via RSS or API
 
-Since our blog is a static site hosted on S3, we chose to implement Instant Articles using the RSS feed approach. For larger deployments, the API is probably a better choice. 
+Since our blog is a static site hosted on S3, we chose to implement Instant Articles using the RSS feed approach. For larger deployments, the API is probably a better choice.
 
 For static sites, the workflow is basically to create a page with an XML document detailing all of your articles. Here’s a link to the [Naytev Blog XML feed](http://blog.naytev.com/instant-feed.xml) as Facebook’s scraper sees it. It looks like this:
 
@@ -56,4 +56,4 @@ You can then create an ad placement and Facebook will even automatically figure 
 
 Overall, Instant Article setup is extremely easy, taking about a half day of CMS updates and content tweaks. Keep in mind that every blog setup will be different, but the RSS feed approach is a simple way to get started with Instant Articles in an afternoon.
 
-In the coming weeks, we’ll continue exploring Instant Articles along with other ways media is evolving and [becoming more distributed]({% post_url 2016-04-08-publishers-must-adapt %}).
+In the coming weeks, we’ll continue exploring Instant Articles along with other ways media is evolving and [becoming more distributed]({% link _distributed_media/2016-04-08-publishers-must-adapt.md %}).

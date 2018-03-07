@@ -1,11 +1,9 @@
 ---
 title: Publishers Must Adapt to a “Distributed First” Model or Fall into Obscurity
 date: 2016-04-08 00:00:00 -07:00
-categories:
-- distributed-media
 layout: post
 subtitle: A New Era of Content Distribution Has Arrived
-cover_image: uploads/posts/publishers-must-adapt/rca.png
+cover_image: posts/publishers-must-adapt/rca.png
 excerpt: We've entered a period of drastic change for content producers. Destination
   websites are no longer the center of gravity; content publishers now live and die
   by how well they distribute content off-site.
@@ -20,13 +18,13 @@ We've entered a period of drastic change for content producers. Destination webs
 
 Social networks and content aggregators have replaced publications’ own websites as the primary source of content discovery. This shift hasn’t spared top publishers. The [New York Times lost 50% of its homepage traffic in just 2 years](http://www.poynter.org/2014/3-takeaways-from-the-death-of-the-homepage-and-the-new-york-times-innovation-report/252632/).
 
-Now, top networks are going a step further, replacing publication websites as the **primary place for content consumption**. Instead of clicking through to a website, users consume content in the same place they discover it: within search results and social feeds. Google AMP, Facebook Instant Articles, Apple News, Snapchat Discover, and Medium all enable people to consume publishers’ content without visiting the website where it originated. 
+Now, top networks are going a step further, replacing publication websites as the **primary place for content consumption**. Instead of clicking through to a website, users consume content in the same place they discover it: within search results and social feeds. Google AMP, Facebook Instant Articles, Apple News, Snapchat Discover, and Medium all enable people to consume publishers’ content without visiting the website where it originated.
 
 **Network Distribution is Redefining the Content Industry**
 
 {% include _image.html src="/uploads/posts/publishers-must-adapt/distributed.png" %}
 
-The transition to consuming content on distributed networks is natural. Audiences already spend the majority of their time on these platforms, and the direct integration of content provides a faster, more uniform experience. Already [bloated with ad trackers](http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html) and suffering from the [rise of ad blockers](http://digiday.com/publishers/global-rise-ad-blocking-4-charts/), publishers are unable to compete with distribution channels like Facebook Instant Articles and Google AMP. Yet they cannot afford to forego the exposure these channels offer.  
+The transition to consuming content on distributed networks is natural. Audiences already spend the majority of their time on these platforms, and the direct integration of content provides a faster, more uniform experience. Already [bloated with ad trackers](http://www.nytimes.com/interactive/2015/10/01/business/cost-of-mobile-ads.html) and suffering from the [rise of ad blockers](http://digiday.com/publishers/global-rise-ad-blocking-4-charts/), publishers are unable to compete with distribution channels like Facebook Instant Articles and Google AMP. Yet they cannot afford to forego the exposure these channels offer.
 
 As a result, readers’ habits are deepening within these channels, which now command unprecedented attention. For example, [1 in 5 minutes spent on mobile phones is spent on Facebook's platforms](http://www.reuters.com/article/us-facebook-results-idUSKCN0ST2VF20151105). Most publishers are lucky if a particular reader visits their website a few times each month.
 
@@ -48,9 +46,9 @@ Instant Articles and AMP both launch to the public this spring, and their releas
 
 Buzzfeed now distributes content across 30 platforms, capitalizing on the behavior shift to off-site consumption. It recently announced that [80% of its reach is outside BuzzFeed’s websites](http://www.buzzfeed.com/daozers/how-buzzfeed-thinks-about-data-and-some-charts-too). BuzzFeed now offers distribution as a service with its flagship ad offering, [Swarm, which distributes content across its site, mobile, and 6 other platforms](http://www.adweek.com/news/technology/buzzfeed-launches-new-ad-format-further-monetize-its-big-social-reach-170172). This cross-channel distribution sets a new performance bar. Brands will soon come to expect similar offerings from other publishers playing in the multi-billion dollar sponsored content space.
 
-Audience demand for the best possible content experience is driving the massive distribution transition. Some publishers will try to hold out, but they can’t change the behavior of audiences who prefer to consume and share content on the platforms woven into their daily lives. 
+Audience demand for the best possible content experience is driving the massive distribution transition. Some publishers will try to hold out, but they can’t change the behavior of audiences who prefer to consume and share content on the platforms woven into their daily lives.
 
-The transition will be very painful for organizations that don't quickly adapt. Publishers will need to allocate resources towards cross-channel distribution as their websites become a smaller part of their distribution footprint. The opportunity cost of focusing on a slow or negative growth website over high growth network distribution will soon become difficult to ignore. 
+The transition will be very painful for organizations that don't quickly adapt. Publishers will need to allocate resources towards cross-channel distribution as their websites become a smaller part of their distribution footprint. The opportunity cost of focusing on a slow or negative growth website over high growth network distribution will soon become difficult to ignore.
 
 One of many historical parallels to this opportunity cost consideration is the transition of content distribution from radio to television starting in the 1940’s. This transition involved the dominant entertainment broadcasting and technology company of the time, Radio Corporation of America (RCA), reinventing itself by gradually transitioning from radio to television. The transition didn't happen overnight, but embracing it proved incredibly important.
 
