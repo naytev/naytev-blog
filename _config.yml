@@ -2,14 +2,14 @@
 title: Naytev Blog
 timezone: America/Los_Angeles
 collections:
-  ebooks:
-    title: Ebooks
-    output: true
   dark_testing:
     title: Dark Testing
     output: true
   distributed_media:
     title: Distributed Media
+    output: true
+  ebooks:
+    title: Ebooks
     output: true
   guides:
     title: Guides
@@ -71,8 +71,8 @@ inc:
   url: http://www.naytev.com/
   facebook: naytev
   twitter: gonaytev
-  gplus:
-  about_link:
+  gplus: 
+  about_link: 
   product_link: https://spark.naytev.com/
   tagline: Optimize your content for revenue.
   disqus:
@@ -109,7 +109,7 @@ excerpt_separator: "<!-- more -->"
 safe: false
 host: 0.0.0.0
 port: 4000
-baseurl:
+baseurl: 
 lsi: false
 rdiscount:
   extensions: []
@@ -134,5 +134,5 @@ redcloth:
 sass:
   sass_dir: _assets/css
 gems:
-  - jekyll-paginate
-  - jekyll-assets
+- jekyll-paginate
+- jekyll-assets
