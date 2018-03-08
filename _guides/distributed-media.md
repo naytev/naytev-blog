@@ -1,7 +1,6 @@
 ---
 title: Distributed Media
-categories:
-- distributed_media
+category: distributed_media
 subtitle: Thinking Beyond the Website in 2016
 cover_image: guides/distributed/distributed.png
 ---

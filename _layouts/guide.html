@@ -12,7 +12,7 @@ layout: base
     {{ content }}
 
     <div class='stubs clearfix'>
-      {% for post in site.[page.category] reversed %}
+      {% for post in site[page.category] reversed %}
         {% unless post.draft %}
         {% assign author = site.data.authors[post.author] %}
         <div class='content-stub'>

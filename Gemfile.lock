@@ -100,7 +100,7 @@ PLATFORMS
 DEPENDENCIES
   bourbon
   jekyll
-  jekyll-assets
+  jekyll-assets (= 2.2.7)
   jekyll-compose
   jekyll-last-modified-at
   jekyll-paginate

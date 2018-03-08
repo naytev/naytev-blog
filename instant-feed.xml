@@ -1,5 +1,5 @@
 ---
-layout: 
+layout:
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -10,7 +10,7 @@ layout:
     <description>
       {% if site.inc.subtitle %}{{ site.inc.subtitle | xml_escape }}{% endif %}
     </description>
-    {% for post in site.posts | sort 'last_modified_at' %}
+    {% for post in site.posts %}
     {% unless post.link %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
@@ -25,7 +25,7 @@ layout:
             <link rel="canonical" href="{{ site.url }}{{ post.url }}"/>
             <meta property="fb:article_style" content="default"/>
             <meta property="fb:use_automatic_ad_placement" content="true">
-          </head>          
+          </head>
           <body>
             <article>
               {% if site.inc.analytics.google %}
