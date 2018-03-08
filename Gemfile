@@ -10,6 +10,6 @@ gem 'uglifier'
 gem 's3_website'
 gem 'bourbon'
 gem 'neat'
-gem 'jekyll-assets', group:  [:jekyll_plugins]
+gem 'jekyll-assets', '2.2.7', group:  [:jekyll_plugins]
 gem 'jekyll-compose', group: [:jekyll_plugins]
 gem "jekyll-url", group: [:jekyll_plugins]
