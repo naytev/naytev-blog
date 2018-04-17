@@ -19,4 +19,5 @@ if ARGV.first
   end
 end
 
+gem 's3_website', version
 load Gem.bin_path('s3_website', 's3_website', version)
