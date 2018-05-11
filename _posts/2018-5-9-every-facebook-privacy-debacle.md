@@ -7,7 +7,7 @@ excerpt: "A Look At The Future Of Privacy On The Social Network"
 author: justine_chong
 ---
 
-With all the hubbub and change around Facebook in the last couple of months, it's hard to pinpoint where everything started. Here's a handy infographic of recent events and when Facebook innitially started implementing changes on the Newsfeed. 
+With all the hubbub and change around Facebook in the last couple of months, it's hard to pinpoint where everything started. Here's a handy infographic of recent events and when Facebook initially started implementing changes on the Newsfeed. 
 
 <center>
 
@@ -52,9 +52,9 @@ To be clear, Facebook’s role in enabling the harvesting of user data is a seri
  
 >“Congress is good at doing two things: doing nothing, and overreacting. So far, we’ve done nothing on Facebook…We’re getting ready to overreact.” - [Rep. Billy Long (R)]( http://money.cnn.com/2018/04/12/technology/facebook-hearing-what-next/index.html)
 
-During his 10 hour, 2 day stint before the Senate Judiciary and Commerce committees and then the House Energy and Commerce committees Zuckerberg answered 500 questions and promised to follow up with lawmakers about the 40 questions that he could not answer. As promised, Facebook’s main news blog published an article responding to a portion of the 40 unanswered questions during the hearings, but…what about everything else?
+During his 10 hour, 2 day stint before the Senate Judiciary and Commerce committees and then the House Energy and Commerce committees Zuckerberg answered 500 questions and promised to follow up with lawmakers about the 40 questions that he could not answer. As promised, [Facebook’s main news blog published an article responding to a portion of the 40 unanswered questions during the hearings](https://newsroom.fb.com/news/2018/04/data-off-facebook/), but…what about everything else?
  
-We can take a stab at divining the future by looking at how Lawmakers, the Company and Users are behaving post Cambridge Analytica.
+We can take a stab at predicting the future by looking at how Lawmakers, the Company and Users are behaving post Cambridge Analytica.
  
 ### How Lawmakers Are Responding to Facebook’s Privacy Scandal 
 
