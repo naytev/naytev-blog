@@ -35,43 +35,43 @@ Here's an outline of the call:
 
         * Developers and App Privacy
 
-* Facebook will continuing to invest in Safety, Security and Privacy:
+* Facebook will be continuing to invest in Safety, Security and Privacy:
 
-        * **Implementing New Technology:**
+    * **Implementing New Technology:**
 
-            * Restricting data developers can access
+        * Restricting data developers can access
 
-            * Investing/Building in advanced AI tools to remove 
+        * Investing/Building in advanced AI tools to remove 
 
-                * Detect and remove fake accounts
+            * Detect and remove fake accounts
 
-                * Ahead of the elections France, Germany and Alabama 
+            * Ahead of the elections France, Germany and Alabama 
 
-        * **Investing in Operations/People**
+    * **Investing in Operations/People**
 
-            * 20,000 people for content review + security team 
+        * 20,000 people for content review + security team 
 
-            * Including those with language skills to detect hate speech in all languages (like Myanmar)
+        * Including those with language skills to detect hate speech in all languages (like Myanmar)
 
-        * **Protecting Political Discourse**
+    * **Protecting Political Discourse**
 
-            * Making Ads More Transparent:
+        * Making Ads More Transparent:
 
-                * FB Ads are currently held to a higher standard than TV or Print Advertisements 
+            * FB Ads are currently held to a higher standard than TV or Print Advertisements 
 
-                * Users Will be Able to See:
+            * Users Will be Able to See:
 
-                  *  Who is Running an Ad
+              *  Who is Running an Ad
 
-                  * Who the Advertiser targeting
+              * Who the Advertiser targeting
 
-                  * How much the Advertiser is paying
+              * How much the Advertiser is paying
 
-                  * What other messages they’re sending to different people/target audiences 
+              * What other messages they’re sending to different people/target audiences 
 
-            * Additionally, large/Political Pages need to be verified by government ID 
+        * Additionally, large/Political Pages need to be verified by government ID 
 
-        * Completing these changes before the US MidTerm Elections and worldwide elections in Mexico, Brazil, India, Pakistan and more 
+    * Completing these changes before the US MidTerm Elections and worldwide elections in Mexico, Brazil, India, Pakistan and more 
 
 * **Responsibility to Keep Moving Forward:**
 
@@ -151,7 +151,7 @@ Here's an outline of the call:
 
     * **Virtual Reality**
 
-            * Oculus go in peoples’ hands soon 
+        * Oculus go in peoples’ hands soon 
 
 * Broader view of responsibilities, investing in making sure tools are used for good and keeping people safe, also need to keep moving forward to help people connect build community and help bring people closer together. 
 
@@ -191,7 +191,7 @@ Here's an outline of the call:
 
         * Ensure people see more useful ads, enables businesses to grow, and offers a communication platform free to everyone. 
 
-                * Equalize Access and Improve Opportunity 
+            * Equalize Access and Improve Opportunity 
 
         * People want control over their information and confidence the ads they’re seeing are authentic 
 
