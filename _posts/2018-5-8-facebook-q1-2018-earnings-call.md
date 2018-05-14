@@ -37,7 +37,7 @@ Here's an outline of the call:
 
 * Facebook will continuing to invest in Safety, Security and Privacy:
 
-        * **Implementing ****New Technology:**
+        * **Implementing New Technology:**
 
             * Restricting data developers can access
 
@@ -131,9 +131,7 @@ Here's an outline of the call:
 
             * Within a few months 3 million people are using Whatsapp Business 
 
-    * Opportunity: Ads are as good in the Story as they are in Feed 
-
-            * Results promising on product quality and business performance on instagram 
+    * **Opportunity:** Ads are as good in the Story as they are in Feed; initial results promising on product quality and business performance on Instagram 
 
 * Facebook 10+ Years 
 
