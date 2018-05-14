@@ -162,5 +162,5 @@ This bill forces automotive companies to disclose if they’re tracking consumer
 
 This is just a quick summary of Acts that have been introduced in Congress. You can check the status of these bills on the official Congress website. If you’d like more granularity you can look at the acts introduced state by state via the National Conference of State Legislatures’ [Privacy Legislation Related to Internet Service Providers page. ](http://www.ncsl.org/research/telecommunications-and-information-technology/privacy-legislation-related-to-internet-service-providers-2018.aspx)
 
-See a updated list of House and Senate Bills here: http://www.ncsl.org/research/telecommunications-and-information-technology/privacy-legislation-related-to-internet-service-providers-2018.aspx
+[Click here](http://www.ncsl.org/research/telecommunications-and-information-technology/privacy-legislation-related-to-internet-service-providers-2018.aspx) to see updated bills from the House and the Senate.  
 
