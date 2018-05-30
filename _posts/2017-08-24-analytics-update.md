@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Powerful New Analytics
-subtitle: 
+subtitle: "Introducing Naytev's new performance metrics"
 cover_image: posts/Performance-Dashboard-Update/celebrate.jpg
 excerpt: "Our latest and greatest Performance Dashboard that gives you a consolidated view of the important metrics you need."
 author: justine_chong

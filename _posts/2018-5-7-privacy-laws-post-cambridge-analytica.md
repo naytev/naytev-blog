@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Privacy Laws Post Cambridge Analytica"
-subtitle: ""
+subtitle: "Lawmakers have moved quickly to introduce new legislation"
 cover_image: posts/privacy/privacylaws.jpg
 excerpt: "My DATA Act, BROWSER Act, Commercial Privacy Bll of Rights Act, CONSENT Act, and more. What do they mean?"
 author: justine_chong

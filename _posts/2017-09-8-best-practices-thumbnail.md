@@ -3,7 +3,7 @@ layout: post
 title: Best Practices For Choosing A Compelling Thumbnail 
 subtitle: 'A/B Testing 101, going back to the basics, and unlocking even more performance in your tests.'
 cover_image: posts/bestpractices1/hands-woman-photography-children.jpg
-excerpt: ""
+excerpt: "Optimizing your Facebook posts with Naytev drives a proven engagement lift (see our case studies), and in this three part series I’ll provide the best practices clients use to achieve these results."
 author: justine_chong
 ---
 

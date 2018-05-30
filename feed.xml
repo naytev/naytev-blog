@@ -17,6 +17,8 @@ layout: null
     {% unless post.draft %}
     <item>
       <title>{{ post.title }}</title>
+      <subtitle>{{post.subtitle}}</subtitle>
+      <excerpt>{{post.excerpt}}</excerpt>
       <link>{{ site.url }}{{ post.url }}</link>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
       <author>{{ site.data.authors[post.author].name }}</author>

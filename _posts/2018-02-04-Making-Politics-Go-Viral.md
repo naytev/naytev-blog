@@ -3,7 +3,7 @@ layout: post
 title: Making Politics Go Viral (Like Puppies)
 subtitle: "Join the SXSW Panel with Naytev, Politico, and Center for Media Engagement"
 cover_image: posts/making-politics-go-viral/puppy.jpg
-excerpt: ""
+excerpt: "Join the upcoming SXSW conference, Making Politics Go Viral (Like Puppies), to learn the latest research on political content engagement and proven engagement strategies. "
 author: justine_chong
 ---
 # Join the SXSW Panel with Naytev, Politico, and Center for Media Engagement

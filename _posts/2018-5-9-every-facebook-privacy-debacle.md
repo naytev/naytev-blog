@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Every Facebook Privacy Debacle, From 2006 to Cambridge Analytica"
-subtitle: ""  
+subtitle: "A handy infographic of recent events"  
 cover_image: posts/facebookprivacy/facebookdataprivacy.jpg 
 excerpt: "A Look At The Future Of Privacy On The Social Network"
 author: justine_chong

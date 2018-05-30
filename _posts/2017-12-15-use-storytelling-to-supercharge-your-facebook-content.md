@@ -3,7 +3,7 @@ layout: post
 title: Use Storytelling to Supercharge Your Facebook Content
 subtitle: Want to stand out in the Facebook feed? Here's your secret weapon.
 cover_image: posts/brighttalk/header.jpg
-excerpt: ""
+excerpt: "If you missed our CSO's Brighttalk webinar due to your busy schedule, dont worry! You can catch it in full here."
 author: justine_chong
 ---
 
