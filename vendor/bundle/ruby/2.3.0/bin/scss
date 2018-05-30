@@ -19,4 +19,5 @@ if ARGV.first
   end
 end
 
+gem 'sass', version
 load Gem.bin_path('sass', 'scss', version)
